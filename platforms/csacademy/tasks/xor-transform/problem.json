@@ -1,0 +1,13 @@
+{
+  "slug": "xor-transform",
+  "title": "Xor Transform",
+  "contest": "Round #78 (based on Romanian Olympiad IOI selection camp)",
+  "difficulty": null,
+  "time_limit": "5000 ms",
+  "memory_limit": "1 GB",
+  "solved_count": 115,
+  "tried_count": 130,
+  "solved_ratio": "88%",
+  "url": "https://csacademy.com/contest/archive/task/xor-transform/",
+  "platform": "csacademy"
+}

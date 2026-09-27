@@ -1,0 +1,13 @@
+{
+  "slug": "towns",
+  "title": "Towns",
+  "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+  "difficulty": null,
+  "time_limit": "600 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 102,
+  "tried_count": 240,
+  "solved_ratio": "42%",
+  "url": "https://csacademy.com/contest/archive/task/towns/",
+  "platform": "csacademy"
+}

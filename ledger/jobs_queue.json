@@ -3438,5 +3438,821 @@
     "metric": "feed",
     "url": "https://csacademy.com/submission/7544166",
     "status": "archived"
+  },
+  "6773189": {
+    "job_id": "6773189",
+    "task_slug": "fibonacci-representations-big",
+    "user": "VALIMAI",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6773189",
+    "status": "archived"
+  },
+  "6109752": {
+    "job_id": "6109752",
+    "task_slug": "fibonacci-representations-big",
+    "user": "Mezned",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6109752",
+    "status": "archived"
+  },
+  "5429590": {
+    "job_id": "5429590",
+    "task_slug": "fibonacci-representations-big",
+    "user": "tensortitans",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5429590",
+    "status": "archived"
+  },
+  "4029481": {
+    "job_id": "4029481",
+    "task_slug": "fibonacci-representations-big",
+    "user": "qiuzx",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4029481",
+    "status": "archived"
+  },
+  "3957103": {
+    "job_id": "3957103",
+    "task_slug": "fibonacci-representations-big",
+    "user": "Fa3Harbingers",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/3957103",
+    "status": "archived"
+  },
+  "3125892": {
+    "job_id": "3125892",
+    "task_slug": "fibonacci-representations-big",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/3125892",
+    "status": "archived"
+  },
+  "2979595": {
+    "job_id": "2979595",
+    "task_slug": "fibonacci-representations-big",
+    "user": "CODESMASHERS",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2979595",
+    "status": "archived"
+  },
+  "2458930": {
+    "job_id": "2458930",
+    "task_slug": "fibonacci-representations-big",
+    "user": "TechBee",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2458930",
+    "status": "archived"
+  },
+  "2246689": {
+    "job_id": "2246689",
+    "task_slug": "fibonacci-representations-big",
+    "user": "Mith",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2246689",
+    "status": "archived"
+  },
+  "2219884": {
+    "job_id": "2219884",
+    "task_slug": "fibonacci-representations-big",
+    "user": "alphaGem",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2219884",
+    "status": "archived"
+  },
+  "2213538": {
+    "job_id": "2213538",
+    "task_slug": "fibonacci-representations-big",
+    "user": "samjia2000",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2213538",
+    "status": "archived"
+  },
+  "1757566": {
+    "job_id": "1757566",
+    "task_slug": "fibonacci-representations-big",
+    "user": "Archive",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1757566",
+    "status": "archived"
+  },
+  "1724043": {
+    "job_id": "1724043",
+    "task_slug": "fibonacci-representations-big",
+    "user": "uflbyk",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1724043",
+    "status": "archived"
+  },
+  "1722322": {
+    "job_id": "1722322",
+    "task_slug": "fibonacci-representations-big",
+    "user": "krijgertje",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1722322",
+    "status": "archived"
+  },
+  "1721781": {
+    "job_id": "1721781",
+    "task_slug": "fibonacci-representations-big",
+    "user": "gepardo",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1721781",
+    "status": "archived"
+  },
+  "1721775": {
+    "job_id": "1721775",
+    "task_slug": "fibonacci-representations-big",
+    "user": "gepardo",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1721775",
+    "status": "archived"
+  },
+  "1721770": {
+    "job_id": "1721770",
+    "task_slug": "fibonacci-representations-big",
+    "user": "gepardo",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1721770",
+    "status": "archived"
+  },
+  "1721762": {
+    "job_id": "1721762",
+    "task_slug": "fibonacci-representations-big",
+    "user": "gepardo",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1721762",
+    "status": "archived"
+  },
+  "1721759": {
+    "job_id": "1721759",
+    "task_slug": "fibonacci-representations-big",
+    "user": "manafa",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1721759",
+    "status": "archived"
+  },
+  "1721756": {
+    "job_id": "1721756",
+    "task_slug": "fibonacci-representations-big",
+    "user": "gepardo",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1721756",
+    "status": "archived"
+  },
+  "6758633": {
+    "job_id": "6758633",
+    "task_slug": "elections",
+    "user": "VALIMAI",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6758633",
+    "status": "archived"
+  },
+  "6115581": {
+    "job_id": "6115581",
+    "task_slug": "elections",
+    "user": "zhang",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6115581",
+    "status": "archived"
+  },
+  "6109745": {
+    "job_id": "6109745",
+    "task_slug": "elections",
+    "user": "Mezned",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6109745",
+    "status": "archived"
+  },
+  "5463293": {
+    "job_id": "5463293",
+    "task_slug": "elections",
+    "user": "tensortitans",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5463293",
+    "status": "archived"
+  },
+  "3958392": {
+    "job_id": "3958392",
+    "task_slug": "elections",
+    "user": "Fa3Harbingers",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/3958392",
+    "status": "archived"
+  },
+  "3736149": {
+    "job_id": "3736149",
+    "task_slug": "elections",
+    "user": "Kryptonytes",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/3736149",
+    "status": "archived"
+  },
+  "3214688": {
+    "job_id": "3214688",
+    "task_slug": "elections",
+    "user": "syl123456",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/3214688",
+    "status": "archived"
+  },
+  "3152498": {
+    "job_id": "3152498",
+    "task_slug": "elections",
+    "user": "8e7",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/3152498",
+    "status": "archived"
+  },
+  "3152171": {
+    "job_id": "3152171",
+    "task_slug": "elections",
+    "user": "ZCKevin",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/3152171",
+    "status": "archived"
+  },
+  "3101126": {
+    "job_id": "3101126",
+    "task_slug": "elections",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/3101126",
+    "status": "archived"
+  },
+  "2773750": {
+    "job_id": "2773750",
+    "task_slug": "elections",
+    "user": "Grice",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2773750",
+    "status": "archived"
+  },
+  "2733817": {
+    "job_id": "2733817",
+    "task_slug": "elections",
+    "user": "Cyani",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2733817",
+    "status": "archived"
+  },
+  "2221007": {
+    "job_id": "2221007",
+    "task_slug": "elections",
+    "user": "yww",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2221007",
+    "status": "archived"
+  },
+  "2201298": {
+    "job_id": "2201298",
+    "task_slug": "elections",
+    "user": "Pajaraja23",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2201298",
+    "status": "archived"
+  },
+  "2197175": {
+    "job_id": "2197175",
+    "task_slug": "elections",
+    "user": "Pajaraja23",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/2197175",
+    "status": "archived"
+  },
+  "1760299": {
+    "job_id": "1760299",
+    "task_slug": "elections",
+    "user": "popovicirobert",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1760299",
+    "status": "archived"
+  },
+  "1759106": {
+    "job_id": "1759106",
+    "task_slug": "elections",
+    "user": "rqgao2014",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1759106",
+    "status": "archived"
+  },
+  "1740035": {
+    "job_id": "1740035",
+    "task_slug": "elections",
+    "user": "CHONKATA",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1740035",
+    "status": "archived"
+  },
+  "1707481": {
+    "job_id": "1707481",
+    "task_slug": "elections",
+    "user": "zadrga",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1707481",
+    "status": "archived"
+  },
+  "1707480": {
+    "job_id": "1707480",
+    "task_slug": "elections",
+    "user": "zadrga",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/1707480",
+    "status": "archived"
+  },
+  "7519374": {
+    "job_id": "7519374",
+    "task_slug": "divided-kingdom",
+    "user": "fedi",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/7519374",
+    "status": "archived"
+  },
+  "7519372": {
+    "job_id": "7519372",
+    "task_slug": "divided-kingdom",
+    "user": "fedi",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/7519372",
+    "status": "archived"
+  },
+  "6840024": {
+    "job_id": "6840024",
+    "task_slug": "divided-kingdom",
+    "user": "VALIMAI",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6840024",
+    "status": "archived"
+  },
+  "6121563": {
+    "job_id": "6121563",
+    "task_slug": "divided-kingdom",
+    "user": "Zhong",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6121563",
+    "status": "archived"
+  },
+  "6115513": {
+    "job_id": "6115513",
+    "task_slug": "divided-kingdom",
+    "user": "zhang",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6115513",
+    "status": "archived"
+  },
+  "6113839": {
+    "job_id": "6113839",
+    "task_slug": "divided-kingdom",
+    "user": "Getaway_Car",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6113839",
+    "status": "archived"
+  },
+  "6113433": {
+    "job_id": "6113433",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6113433",
+    "status": "archived"
+  },
+  "6113432": {
+    "job_id": "6113432",
+    "task_slug": "divided-kingdom",
+    "user": "alpharchmage",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6113432",
+    "status": "archived"
+  },
+  "6113428": {
+    "job_id": "6113428",
+    "task_slug": "divided-kingdom",
+    "user": "Getaway_Car",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6113428",
+    "status": "archived"
+  },
+  "6113221": {
+    "job_id": "6113221",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6113221",
+    "status": "archived"
+  },
+  "6113220": {
+    "job_id": "6113220",
+    "task_slug": "divided-kingdom",
+    "user": "lovely_Plana",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6113220",
+    "status": "archived"
+  },
+  "6112450": {
+    "job_id": "6112450",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112450",
+    "status": "archived"
+  },
+  "6112422": {
+    "job_id": "6112422",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112422",
+    "status": "archived"
+  },
+  "6112419": {
+    "job_id": "6112419",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112419",
+    "status": "archived"
+  },
+  "6112417": {
+    "job_id": "6112417",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112417",
+    "status": "archived"
+  },
+  "6112410": {
+    "job_id": "6112410",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112410",
+    "status": "archived"
+  },
+  "6112382": {
+    "job_id": "6112382",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112382",
+    "status": "archived"
+  },
+  "6112377": {
+    "job_id": "6112377",
+    "task_slug": "divided-kingdom",
+    "user": "Donaldqian",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112377",
+    "status": "archived"
+  },
+  "6112373": {
+    "job_id": "6112373",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112373",
+    "status": "archived"
+  },
+  "6112354": {
+    "job_id": "6112354",
+    "task_slug": "divided-kingdom",
+    "user": "Guan",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6112354",
+    "status": "archived"
+  },
+  "6952981": {
+    "job_id": "6952981",
+    "task_slug": "oil-wells",
+    "user": "BLUEBERRY",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6952981",
+    "status": "archived"
+  },
+  "6702810": {
+    "job_id": "6702810",
+    "task_slug": "oil-wells",
+    "user": "VALIMAI",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6702810",
+    "status": "archived"
+  },
+  "6110312": {
+    "job_id": "6110312",
+    "task_slug": "oil-wells",
+    "user": "Mezned",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6110312",
+    "status": "archived"
+  },
+  "5342381": {
+    "job_id": "5342381",
+    "task_slug": "oil-wells",
+    "user": "H",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5342381",
+    "status": "archived"
+  },
+  "5287401": {
+    "job_id": "5287401",
+    "task_slug": "oil-wells",
+    "user": "tensortitans",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5287401",
+    "status": "archived"
+  },
+  "4027850": {
+    "job_id": "4027850",
+    "task_slug": "oil-wells",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4027850",
+    "status": "archived"
+  },
+  "6143687": {
+    "job_id": "6143687",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143687",
+    "status": "archived"
+  },
+  "6143683": {
+    "job_id": "6143683",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143683",
+    "status": "archived"
+  },
+  "6143677": {
+    "job_id": "6143677",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143677",
+    "status": "archived"
+  },
+  "6143671": {
+    "job_id": "6143671",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143671",
+    "status": "archived"
+  },
+  "6143669": {
+    "job_id": "6143669",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143669",
+    "status": "archived"
+  },
+  "6143666": {
+    "job_id": "6143666",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143666",
+    "status": "archived"
+  },
+  "6143659": {
+    "job_id": "6143659",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143659",
+    "status": "archived"
+  },
+  "6143376": {
+    "job_id": "6143376",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143376",
+    "status": "archived"
+  },
+  "6143372": {
+    "job_id": "6143372",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143372",
+    "status": "archived"
+  },
+  "6143083": {
+    "job_id": "6143083",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143083",
+    "status": "archived"
+  },
+  "6143053": {
+    "job_id": "6143053",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143053",
+    "status": "archived"
+  },
+  "6143052": {
+    "job_id": "6143052",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143052",
+    "status": "archived"
+  },
+  "6143051": {
+    "job_id": "6143051",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143051",
+    "status": "archived"
+  },
+  "6143039": {
+    "job_id": "6143039",
+    "task_slug": "oil-wells",
+    "user": "FootstepsOfTime",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6143039",
+    "status": "archived"
+  },
+  "6952220": {
+    "job_id": "6952220",
+    "task_slug": "dirijor",
+    "user": "BLUEBERRY",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6952220",
+    "status": "archived"
+  },
+  "6702298": {
+    "job_id": "6702298",
+    "task_slug": "dirijor",
+    "user": "VALIMAI",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6702298",
+    "status": "archived"
+  },
+  "6110302": {
+    "job_id": "6110302",
+    "task_slug": "dirijor",
+    "user": "Mezned",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6110302",
+    "status": "archived"
+  },
+  "5905453": {
+    "job_id": "5905453",
+    "task_slug": "dirijor",
+    "user": "Ahmadyaseen",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5905453",
+    "status": "archived"
+  },
+  "5341037": {
+    "job_id": "5341037",
+    "task_slug": "dirijor",
+    "user": "H",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5341037",
+    "status": "archived"
+  },
+  "5287706": {
+    "job_id": "5287706",
+    "task_slug": "dirijor",
+    "user": "tensortitans",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5287706",
+    "status": "archived"
+  },
+  "4028157": {
+    "job_id": "4028157",
+    "task_slug": "dirijor",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028157",
+    "status": "archived"
+  },
+  "4028156": {
+    "job_id": "4028156",
+    "task_slug": "dirijor",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028156",
+    "status": "archived"
+  },
+  "4028150": {
+    "job_id": "4028150",
+    "task_slug": "dirijor",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028150",
+    "status": "archived"
+  },
+  "4028148": {
+    "job_id": "4028148",
+    "task_slug": "dirijor",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028148",
+    "status": "archived"
+  },
+  "4028146": {
+    "job_id": "4028146",
+    "task_slug": "dirijor",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028146",
+    "status": "archived"
+  },
+  "4028144": {
+    "job_id": "4028144",
+    "task_slug": "dirijor",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028144",
+    "status": "archived"
+  },
+  "5436016": {
+    "job_id": "5436016",
+    "task_slug": "dirijor",
+    "user": "UNIQUECODES",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5436016",
+    "status": "archived"
+  },
+  "4028154": {
+    "job_id": "4028154",
+    "task_slug": "dirijor",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028154",
+    "status": "archived"
+  },
+  "4028152": {
+    "job_id": "4028152",
+    "task_slug": "dirijor",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028152",
+    "status": "archived"
+  },
+  "6701674": {
+    "job_id": "6701674",
+    "task_slug": "meet",
+    "user": "VALIMAI",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6701674",
+    "status": "archived"
+  },
+  "6110311": {
+    "job_id": "6110311",
+    "task_slug": "meet",
+    "user": "Mezned",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/6110311",
+    "status": "archived"
+  },
+  "5340408": {
+    "job_id": "5340408",
+    "task_slug": "meet",
+    "user": "H",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5340408",
+    "status": "archived"
+  },
+  "5287080": {
+    "job_id": "5287080",
+    "task_slug": "meet",
+    "user": "tensortitans",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/5287080",
+    "status": "archived"
+  },
+  "4723908": {
+    "job_id": "4723908",
+    "task_slug": "meet",
+    "user": "CodeBreakersXD",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4723908",
+    "status": "archived"
+  },
+  "4028115": {
+    "job_id": "4028115",
+    "task_slug": "meet",
+    "user": "rainboy",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/4028115",
+    "status": "archived"
+  },
+  "7238579": {
+    "job_id": "7238579",
+    "task_slug": "meet",
+    "user": "XCode",
+    "metric": "feed",
+    "url": "https://csacademy.com/submission/7238579",
+    "status": "archived"
   }
 }

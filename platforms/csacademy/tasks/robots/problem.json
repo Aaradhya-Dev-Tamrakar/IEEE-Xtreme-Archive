@@ -1,0 +1,13 @@
+{
+  "slug": "robots",
+  "title": "Robots",
+  "contest": "IATI Shumen 2017 Day 1",
+  "difficulty": null,
+  "time_limit": "1000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 18,
+  "tried_count": 44,
+  "solved_ratio": "40%",
+  "url": "https://csacademy.com/contest/archive/task/robots/",
+  "platform": "csacademy"
+}

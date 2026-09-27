@@ -1,0 +1,13 @@
+{
+  "slug": "coprime",
+  "title": "Coprime Pairs",
+  "contest": "Round #43",
+  "difficulty": "MEDIUM",
+  "time_limit": "1000 ms",
+  "memory_limit": "64 MB",
+  "solved_count": 302,
+  "tried_count": 339,
+  "solved_ratio": "89%",
+  "url": "https://csacademy.com/contest/archive/task/coprime/",
+  "platform": "csacademy"
+}

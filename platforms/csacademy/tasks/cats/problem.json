@@ -1,0 +1,13 @@
+{
+  "slug": "cats",
+  "title": "Cats",
+  "contest": "Balkan OI 2017 Day 2",
+  "difficulty": "HARD",
+  "time_limit": "500 ms",
+  "memory_limit": "16 MB",
+  "solved_count": 109,
+  "tried_count": 175,
+  "solved_ratio": "62%",
+  "url": "https://csacademy.com/contest/archive/task/cats/",
+  "platform": "csacademy"
+}

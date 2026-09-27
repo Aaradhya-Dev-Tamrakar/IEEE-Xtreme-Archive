@@ -1,0 +1,13 @@
+{
+  "slug": "nogcd",
+  "title": "Nogcd",
+  "contest": "Romanian IOI 2017 Selection #1",
+  "difficulty": "MEDIUM",
+  "time_limit": "800 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 225,
+  "tried_count": 280,
+  "solved_ratio": "80%",
+  "url": "https://csacademy.com/contest/archive/task/nogcd/",
+  "platform": "csacademy"
+}

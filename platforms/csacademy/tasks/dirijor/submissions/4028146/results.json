@@ -1,0 +1,110 @@
+[
+  {
+    "test_number": "17",
+    "cpu_usage": "9 ms",
+    "memory_usage": "772 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "16",
+    "cpu_usage": "44 ms",
+    "memory_usage": "768 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "15",
+    "cpu_usage": "41 ms",
+    "memory_usage": "768 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "14",
+    "cpu_usage": "44 ms",
+    "memory_usage": "776 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "13",
+    "cpu_usage": "3070 ms",
+    "memory_usage": "38.6 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "12",
+    "cpu_usage": "3066 ms",
+    "memory_usage": "42.6 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "11",
+    "cpu_usage": "3075 ms",
+    "memory_usage": "48.4 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "10",
+    "cpu_usage": "3073 ms",
+    "memory_usage": "26.3 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "9",
+    "cpu_usage": "3074 ms",
+    "memory_usage": "28.1 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "8",
+    "cpu_usage": "3073 ms",
+    "memory_usage": "27.1 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "7",
+    "cpu_usage": "3074 ms",
+    "memory_usage": "27.1 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "6",
+    "cpu_usage": "3070 ms",
+    "memory_usage": "2712 KB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "5",
+    "cpu_usage": "3070 ms",
+    "memory_usage": "2456 KB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "4",
+    "cpu_usage": "3077 ms",
+    "memory_usage": "2388 KB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "3",
+    "cpu_usage": "3068 ms",
+    "memory_usage": "1436 KB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "2",
+    "cpu_usage": "9 ms",
+    "memory_usage": "784 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "1",
+    "cpu_usage": "7 ms",
+    "memory_usage": "772 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "0",
+    "cpu_usage": "7 ms",
+    "memory_usage": "772 KB",
+    "result": "OK"
+  }
+]

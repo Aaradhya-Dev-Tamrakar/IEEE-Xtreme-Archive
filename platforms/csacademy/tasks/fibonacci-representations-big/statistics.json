@@ -1,0 +1,150 @@
+{
+  "slug": "fibonacci-representations-big",
+  "solvers_count": 24,
+  "tried_count": 88,
+  "solved_ratio": "27%",
+  "lowest_cpu": [
+    {
+      "job_id": "6773189",
+      "user": "VALIMAI",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6773189",
+      "text": "Job #6773189 25 Oct 2025 18:31:29 VALIMAI -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "6109752",
+      "user": "Mezned",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6109752",
+      "text": "Job #6109752 19 Jun 2025 21:51:13 Seif Eddine Mezned -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "5429590",
+      "user": "tensortitans",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5429590",
+      "text": "Job #5429590 26 Oct 2024 18:28:27 tensortitans -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "4029481",
+      "user": "qiuzx",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4029481",
+      "text": "Job #4029481 12 Jul 2023 20:44:58 qiuzx -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "3957103",
+      "user": "Fa3Harbingers",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/3957103",
+      "text": "Job #3957103 23 Oct 2022 03:07:41 Fa3Harbingers -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "3125892",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/3125892",
+      "text": "Job #3125892 15 Feb 2021 05:37:04 rainboy -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "2979595",
+      "user": "CODESMASHERS",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2979595",
+      "text": "Job #2979595 24 Oct 2020 20:30:06 CODESMASHERS -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "2458930",
+      "user": "TechBee",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2458930",
+      "text": "Job #2458930 19 Oct 2019 18:36:24 TechBee -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "2246689",
+      "user": "Mith",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2246689",
+      "text": "Job #2246689 24 Aug 2019 15:28:35 John Mith -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "2219884",
+      "user": "alphaGem",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2219884",
+      "text": "Job #2219884 18 Jun 2019 12:02:11 alphaGem -- Task Fibonacci Representations Big Archive -- 100 points"
+    }
+  ],
+  "lowest_memory": [
+    {
+      "job_id": "2213538",
+      "user": "samjia2000",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2213538",
+      "text": "Job #2213538 28 May 2019 09:19:34 samjia2000 -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1757566",
+      "user": "Archive",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1757566",
+      "text": "Job #1757566 13 Sep 2018 14:27:40 怡浜 唐 -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1724043",
+      "user": "uflbyk",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1724043",
+      "text": "Job #1724043 20 Aug 2018 08:06:22 uflbyk -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1722322",
+      "user": "krijgertje",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1722322",
+      "text": "Job #1722322 17 Aug 2018 23:57:15 krijgertje -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1721781",
+      "user": "gepardo",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1721781",
+      "text": "Job #1721781 17 Aug 2018 15:14:40 gepardo -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1721775",
+      "user": "gepardo",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1721775",
+      "text": "Job #1721775 17 Aug 2018 15:11:26 gepardo -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1721770",
+      "user": "gepardo",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1721770",
+      "text": "Job #1721770 17 Aug 2018 15:08:53 gepardo -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1721762",
+      "user": "gepardo",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1721762",
+      "text": "Job #1721762 17 Aug 2018 14:54:56 gepardo -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1721759",
+      "user": "manafa",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1721759",
+      "text": "Job #1721759 17 Aug 2018 14:50:41 manafa -- Task Fibonacci Representations Big Archive -- 100 points"
+    },
+    {
+      "job_id": "1721756",
+      "user": "gepardo",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1721756",
+      "text": "Job #1721756 17 Aug 2018 14:49:29 gepardo -- Task Fibonacci Representations Big Archive -- 100 points"
+    }
+  ]
+}

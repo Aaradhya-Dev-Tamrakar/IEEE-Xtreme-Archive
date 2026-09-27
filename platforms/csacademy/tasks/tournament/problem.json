@@ -1,0 +1,13 @@
+{
+  "slug": "tournament",
+  "title": "Tournament",
+  "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "16 MB",
+  "solved_count": 46,
+  "tried_count": 58,
+  "solved_ratio": "79%",
+  "url": "https://csacademy.com/contest/archive/task/tournament/",
+  "platform": "csacademy"
+}

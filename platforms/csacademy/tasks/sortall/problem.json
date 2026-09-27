@@ -1,0 +1,13 @@
+{
+  "slug": "sortall",
+  "title": "Sort All",
+  "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+  "difficulty": null,
+  "time_limit": "2000 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 43,
+  "tried_count": 62,
+  "solved_ratio": "69%",
+  "url": "https://csacademy.com/contest/archive/task/sortall/",
+  "platform": "csacademy"
+}

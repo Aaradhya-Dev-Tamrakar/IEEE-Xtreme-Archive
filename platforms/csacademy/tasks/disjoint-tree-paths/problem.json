@@ -1,0 +1,13 @@
+{
+  "slug": "disjoint-tree-paths",
+  "title": "Disjoint Tree Paths",
+  "contest": "Round #56",
+  "difficulty": "MEDIUM",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 91,
+  "tried_count": 156,
+  "solved_ratio": "58%",
+  "url": "https://csacademy.com/contest/archive/task/disjoint-tree-paths/",
+  "platform": "csacademy"
+}

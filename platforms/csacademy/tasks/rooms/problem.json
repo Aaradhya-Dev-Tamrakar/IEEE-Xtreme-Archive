@@ -1,0 +1,13 @@
+{
+  "slug": "rooms",
+  "title": "Rooms",
+  "contest": "Romanian IOI 2017 Selection #1",
+  "difficulty": "HARD",
+  "time_limit": "3500 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 179,
+  "tried_count": 232,
+  "solved_ratio": "77%",
+  "url": "https://csacademy.com/contest/archive/task/rooms/",
+  "platform": "csacademy"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "circuits",
+  "title": "Circuits",
+  "contest": "RMI 2017 Day 2",
+  "difficulty": "MEDIUM",
+  "time_limit": "400 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 118,
+  "tried_count": 152,
+  "solved_ratio": "77%",
+  "url": "https://csacademy.com/contest/archive/task/circuits/",
+  "platform": "csacademy"
+}

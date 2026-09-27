@@ -1,0 +1,13 @@
+{
+  "slug": "unstable-merge-sort",
+  "title": "Unstable Merge Sort",
+  "contest": "Round #61",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 83,
+  "tried_count": 94,
+  "solved_ratio": "88%",
+  "url": "https://csacademy.com/contest/archive/task/unstable-merge-sort/",
+  "platform": "csacademy"
+}

@@ -1,0 +1,12 @@
+{
+  "job_id": "5463293",
+  "task_slug": "elections",
+  "user": "tensortitans",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "607 ms",
+  "memory": "28 MB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/5463293"
+}

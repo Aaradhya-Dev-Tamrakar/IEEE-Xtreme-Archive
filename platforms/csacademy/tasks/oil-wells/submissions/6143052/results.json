@@ -1,0 +1,122 @@
+[
+  {
+    "test_number": "19",
+    "cpu_usage": "38 ms",
+    "memory_usage": "3644 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "18",
+    "cpu_usage": "50 ms",
+    "memory_usage": "3860 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "17",
+    "cpu_usage": "3781 ms",
+    "memory_usage": "24.1 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "16",
+    "cpu_usage": "3782 ms",
+    "memory_usage": "23.9 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "15",
+    "cpu_usage": "3781 ms",
+    "memory_usage": "23.9 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "14",
+    "cpu_usage": "3780 ms",
+    "memory_usage": "24 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "13",
+    "cpu_usage": "3766 ms",
+    "memory_usage": "23.9 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "12",
+    "cpu_usage": "3760 ms",
+    "memory_usage": "23.8 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "11",
+    "cpu_usage": "3782 ms",
+    "memory_usage": "8756 KB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "10",
+    "cpu_usage": "3782 ms",
+    "memory_usage": "24.5 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "9",
+    "cpu_usage": "3777 ms",
+    "memory_usage": "13.8 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "8",
+    "cpu_usage": "3776 ms",
+    "memory_usage": "24.3 MB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "7",
+    "cpu_usage": "306 ms",
+    "memory_usage": "3924 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "6",
+    "cpu_usage": "2272 ms",
+    "memory_usage": "4900 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "5",
+    "cpu_usage": "3782 ms",
+    "memory_usage": "4828 KB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "4",
+    "cpu_usage": "3777 ms",
+    "memory_usage": "4948 KB",
+    "result": "Time limit exceeded"
+  },
+  {
+    "test_number": "3",
+    "cpu_usage": "45 ms",
+    "memory_usage": "3836 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "2",
+    "cpu_usage": "38 ms",
+    "memory_usage": "3824 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "1",
+    "cpu_usage": "42 ms",
+    "memory_usage": "3812 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "0",
+    "cpu_usage": "41 ms",
+    "memory_usage": "3756 KB",
+    "result": "OK"
+  }
+]

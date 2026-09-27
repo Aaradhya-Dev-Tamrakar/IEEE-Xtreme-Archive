@@ -1,0 +1,12 @@
+{
+  "job_id": "1724043",
+  "task_slug": "fibonacci-representations-big",
+  "user": "uflbyk",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "1386 ms",
+  "memory": "24.8 MB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/1724043"
+}

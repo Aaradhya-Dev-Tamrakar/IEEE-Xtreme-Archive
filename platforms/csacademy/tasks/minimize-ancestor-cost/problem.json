@@ -1,0 +1,13 @@
+{
+  "slug": "minimize-ancestor-cost",
+  "title": "Minimize Ancestor Cost",
+  "contest": "Round #18",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 117,
+  "tried_count": 146,
+  "solved_ratio": "80%",
+  "url": "https://csacademy.com/contest/archive/task/minimize-ancestor-cost/",
+  "platform": "csacademy"
+}

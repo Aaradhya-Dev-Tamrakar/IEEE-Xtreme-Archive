@@ -1,0 +1,13 @@
+{
+  "slug": "decreasing-subarrays",
+  "title": "Decreasing Subarrays",
+  "contest": "Round #35",
+  "difficulty": "EASY",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 808,
+  "tried_count": 832,
+  "solved_ratio": "97%",
+  "url": "https://csacademy.com/contest/archive/task/decreasing-subarrays/",
+  "platform": "csacademy"
+}

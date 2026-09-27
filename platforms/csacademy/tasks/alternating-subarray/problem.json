@@ -1,0 +1,13 @@
+{
+  "slug": "alternating-subarray",
+  "title": "Alternating Subarray",
+  "contest": "Round #15",
+  "difficulty": "EASY",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 682,
+  "tried_count": 772,
+  "solved_ratio": "88%",
+  "url": "https://csacademy.com/contest/archive/task/alternating-subarray/",
+  "platform": "csacademy"
+}

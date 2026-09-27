@@ -1,0 +1,13 @@
+{
+  "slug": "tree-construct",
+  "title": "Tree Reconstruction",
+  "contest": "Round #43",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 36,
+  "tried_count": 57,
+  "solved_ratio": "63%",
+  "url": "https://csacademy.com/contest/archive/task/tree-construct/",
+  "platform": "csacademy"
+}

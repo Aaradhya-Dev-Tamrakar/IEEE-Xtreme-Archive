@@ -1,0 +1,13 @@
+{
+  "slug": "revenge",
+  "title": "Revenge",
+  "contest": "Romanian IOI 2017 Selection #3",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 59,
+  "tried_count": 95,
+  "solved_ratio": "62%",
+  "url": "https://csacademy.com/contest/archive/task/revenge/",
+  "platform": "csacademy"
+}

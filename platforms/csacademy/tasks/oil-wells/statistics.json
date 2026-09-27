@@ -1,0 +1,150 @@
+{
+  "slug": "oil-wells",
+  "solvers_count": 6,
+  "tried_count": 15,
+  "solved_ratio": "40%",
+  "lowest_cpu": [
+    {
+      "job_id": "6952981",
+      "user": "BLUEBERRY",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6952981",
+      "text": "Job #6952981 25 Oct 2025 21:18:45 BLUEBERRY -- Task Oil Wells Archive -- 100 points"
+    },
+    {
+      "job_id": "6702810",
+      "user": "VALIMAI",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6702810",
+      "text": "Job #6702810 25 Oct 2025 16:21:22 VALIMAI -- Task Oil Wells Archive -- 100 points"
+    },
+    {
+      "job_id": "6110312",
+      "user": "Mezned",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6110312",
+      "text": "Job #6110312 20 Jun 2025 15:58:54 Seif Eddine Mezned -- Task Oil Wells Archive -- 100 points"
+    },
+    {
+      "job_id": "5342381",
+      "user": "H",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5342381",
+      "text": "Job #5342381 26 Oct 2024 16:51:47 Aadithya A H -- Task Oil Wells Archive -- 100 points"
+    },
+    {
+      "job_id": "5287401",
+      "user": "tensortitans",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5287401",
+      "text": "Job #5287401 26 Oct 2024 15:48:02 tensortitans -- Task Oil Wells Archive -- 100 points"
+    },
+    {
+      "job_id": "4027850",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4027850",
+      "text": "Job #4027850 16 Jun 2023 21:50:58 rainboy -- Task Oil Wells Archive -- 100 points"
+    },
+    {
+      "job_id": "6143687",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143687",
+      "text": "Job #6143687 08 Oct 2025 14:22:56 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143683",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143683",
+      "text": "Job #6143683 08 Oct 2025 14:05:50 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143677",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143677",
+      "text": "Job #6143677 08 Oct 2025 13:47:22 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143671",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143671",
+      "text": "Job #6143671 08 Oct 2025 13:40:09 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    }
+  ],
+  "lowest_memory": [
+    {
+      "job_id": "6143669",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143669",
+      "text": "Job #6143669 08 Oct 2025 13:37:09 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143666",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143666",
+      "text": "Job #6143666 08 Oct 2025 13:29:39 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143659",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143659",
+      "text": "Job #6143659 08 Oct 2025 13:00:52 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143376",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143376",
+      "text": "Job #6143376 07 Oct 2025 14:08:59 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143372",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143372",
+      "text": "Job #6143372 07 Oct 2025 13:53:27 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143083",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143083",
+      "text": "Job #6143083 06 Oct 2025 20:09:17 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143053",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143053",
+      "text": "Job #6143053 06 Oct 2025 19:11:46 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143052",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143052",
+      "text": "Job #6143052 06 Oct 2025 19:09:51 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143051",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143051",
+      "text": "Job #6143051 06 Oct 2025 18:57:25 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    },
+    {
+      "job_id": "6143039",
+      "user": "FootstepsOfTime",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6143039",
+      "text": "Job #6143039 06 Oct 2025 18:44:34 FootstepsOfTime -- Task Oil Wells Archive -- 11 points"
+    }
+  ]
+}

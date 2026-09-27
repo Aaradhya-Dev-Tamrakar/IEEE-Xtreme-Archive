@@ -1,0 +1,8 @@
+{
+  "slug": "cyclic-shifts",
+  "solvers_count": 32,
+  "tried_count": 50,
+  "solved_ratio": "64%",
+  "lowest_cpu": [],
+  "lowest_memory": []
+}

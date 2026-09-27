@@ -1,0 +1,13 @@
+{
+  "slug": "palindromic-partitions",
+  "title": "Palindromic Partitions",
+  "contest": "CEOI 2017 Day 2",
+  "difficulty": "MEDIUM",
+  "time_limit": "1500 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 226,
+  "tried_count": 269,
+  "solved_ratio": "84%",
+  "url": "https://csacademy.com/contest/archive/task/palindromic-partitions/",
+  "platform": "csacademy"
+}

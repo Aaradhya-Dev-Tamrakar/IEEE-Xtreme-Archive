@@ -1,0 +1,13 @@
+{
+  "slug": "fibonacci-mod",
+  "title": "Fibonacci Mod",
+  "contest": "Round #59 (Div. 2 only)",
+  "difficulty": "HARD",
+  "time_limit": "2000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 125,
+  "tried_count": 180,
+  "solved_ratio": "69%",
+  "url": "https://csacademy.com/contest/archive/task/fibonacci-mod/",
+  "platform": "csacademy"
+}

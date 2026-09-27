@@ -1,0 +1,13 @@
+{
+  "slug": "subarray-partition",
+  "title": "Subarray Partition",
+  "contest": "Round #32",
+  "difficulty": "EASY",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 531,
+  "tried_count": 604,
+  "solved_ratio": "87%",
+  "url": "https://csacademy.com/contest/archive/task/subarray-partition/",
+  "platform": "csacademy"
+}

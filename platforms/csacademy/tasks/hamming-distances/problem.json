@@ -1,0 +1,13 @@
+{
+  "slug": "hamming-distances",
+  "title": "Hamming Distances",
+  "contest": "Round #67",
+  "difficulty": "MEDIUM",
+  "time_limit": "5000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 229,
+  "tried_count": 283,
+  "solved_ratio": "80%",
+  "url": "https://csacademy.com/contest/archive/task/hamming-distances/",
+  "platform": "csacademy"
+}

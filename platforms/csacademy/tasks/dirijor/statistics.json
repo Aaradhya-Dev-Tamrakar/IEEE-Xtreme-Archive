@@ -1,0 +1,115 @@
+{
+  "slug": "dirijor",
+  "solvers_count": 7,
+  "tried_count": 9,
+  "solved_ratio": "77%",
+  "lowest_cpu": [
+    {
+      "job_id": "6952220",
+      "user": "BLUEBERRY",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6952220",
+      "text": "Job #6952220 25 Oct 2025 21:18:00 BLUEBERRY -- Task Dirijor Archive -- 100 points"
+    },
+    {
+      "job_id": "6702298",
+      "user": "VALIMAI",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6702298",
+      "text": "Job #6702298 25 Oct 2025 16:20:52 VALIMAI -- Task Dirijor Archive -- 100 points"
+    },
+    {
+      "job_id": "6110302",
+      "user": "Mezned",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6110302",
+      "text": "Job #6110302 20 Jun 2025 15:57:39 Seif Eddine Mezned -- Task Dirijor Archive -- 100 points"
+    },
+    {
+      "job_id": "5905453",
+      "user": "Ahmadyaseen",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5905453",
+      "text": "Job #5905453 27 Oct 2024 02:57:25 Ahmadyaseen -- Task Dirijor Archive -- 100 points"
+    },
+    {
+      "job_id": "5341037",
+      "user": "H",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5341037",
+      "text": "Job #5341037 26 Oct 2024 16:50:17 Aadithya A H -- Task Dirijor Archive -- 100 points"
+    },
+    {
+      "job_id": "5287706",
+      "user": "tensortitans",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5287706",
+      "text": "Job #5287706 26 Oct 2024 15:48:23 tensortitans -- Task Dirijor Archive -- 100 points"
+    },
+    {
+      "job_id": "4028157",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028157",
+      "text": "Job #4028157 18 Jun 2023 04:36:18 rainboy -- Task Dirijor Archive -- 100 points"
+    },
+    {
+      "job_id": "4028156",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028156",
+      "text": "Job #4028156 18 Jun 2023 04:35:30 rainboy -- Task Dirijor Archive -- 49 points"
+    },
+    {
+      "job_id": "4028150",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028150",
+      "text": "Job #4028150 18 Jun 2023 04:10:17 rainboy -- Task Dirijor Archive -- 32 points"
+    },
+    {
+      "job_id": "4028148",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028148",
+      "text": "Job #4028148 18 Jun 2023 03:33:59 rainboy -- Task Dirijor Archive -- 32 points"
+    }
+  ],
+  "lowest_memory": [
+    {
+      "job_id": "4028146",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028146",
+      "text": "Job #4028146 18 Jun 2023 03:14:32 rainboy -- Task Dirijor Archive -- 15 points"
+    },
+    {
+      "job_id": "4028144",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028144",
+      "text": "Job #4028144 18 Jun 2023 03:13:13 rainboy -- Task Dirijor Archive -- 6 points"
+    },
+    {
+      "job_id": "5436016",
+      "user": "UNIQUECODES",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5436016",
+      "text": "Job #5436016 26 Oct 2024 18:35:05 UNIQUECODES -- Task Dirijor Archive -- 0 points"
+    },
+    {
+      "job_id": "4028154",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028154",
+      "text": "Job #4028154 18 Jun 2023 04:31:45 rainboy -- Task Dirijor Archive -- 0 points"
+    },
+    {
+      "job_id": "4028152",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028152",
+      "text": "Job #4028152 18 Jun 2023 04:15:24 rainboy -- Task Dirijor Archive -- 0 points"
+    }
+  ]
+}

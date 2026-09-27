@@ -1,0 +1,108 @@
+{
+  "slug": "meet",
+  "solvers_count": 6,
+  "tried_count": 11,
+  "solved_ratio": "54%",
+  "lowest_cpu": [
+    {
+      "job_id": "6701674",
+      "user": "VALIMAI",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6701674",
+      "text": "Job #6701674 25 Oct 2025 16:20:14 VALIMAI -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "6110311",
+      "user": "Mezned",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6110311",
+      "text": "Job #6110311 20 Jun 2025 15:58:45 Seif Eddine Mezned -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "5340408",
+      "user": "H",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5340408",
+      "text": "Job #5340408 26 Oct 2024 16:49:35 Aadithya A H -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "5287080",
+      "user": "tensortitans",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5287080",
+      "text": "Job #5287080 26 Oct 2024 15:47:39 tensortitans -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "4723908",
+      "user": "CodeBreakersXD",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4723908",
+      "text": "Job #4723908 29 Dec 2023 11:31:47 CodeBreakersXD -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "4028115",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028115",
+      "text": "Job #4028115 17 Jun 2023 22:46:14 rainboy -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "7238579",
+      "user": "XCode",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7238579",
+      "text": "Job #7238579 26 Oct 2025 01:40:33 XCode -- Task Meet Archive -- 0 points"
+    }
+  ],
+  "lowest_memory": [
+    {
+      "job_id": "6701674",
+      "user": "VALIMAI",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6701674",
+      "text": "Job #6701674 25 Oct 2025 16:20:14 VALIMAI -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "6110311",
+      "user": "Mezned",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6110311",
+      "text": "Job #6110311 20 Jun 2025 15:58:45 Seif Eddine Mezned -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "5340408",
+      "user": "H",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5340408",
+      "text": "Job #5340408 26 Oct 2024 16:49:35 Aadithya A H -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "5287080",
+      "user": "tensortitans",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5287080",
+      "text": "Job #5287080 26 Oct 2024 15:47:39 tensortitans -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "4723908",
+      "user": "CodeBreakersXD",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4723908",
+      "text": "Job #4723908 29 Dec 2023 11:31:47 CodeBreakersXD -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "4028115",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/4028115",
+      "text": "Job #4028115 17 Jun 2023 22:46:14 rainboy -- Task Meet Archive -- 100 points"
+    },
+    {
+      "job_id": "7238579",
+      "user": "XCode",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7238579",
+      "text": "Job #7238579 26 Oct 2025 01:40:33 XCode -- Task Meet Archive -- 0 points"
+    }
+  ]
+}

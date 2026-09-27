@@ -1,0 +1,13 @@
+{
+  "slug": "consecutive-sum",
+  "title": "Consecutive Sum",
+  "contest": "Round #47",
+  "difficulty": "EASY",
+  "time_limit": "1000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 880,
+  "tried_count": 975,
+  "solved_ratio": "90%",
+  "url": "https://csacademy.com/contest/archive/task/consecutive-sum/",
+  "platform": "csacademy"
+}

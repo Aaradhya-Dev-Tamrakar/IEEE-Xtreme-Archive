@@ -1,0 +1,13 @@
+{
+  "slug": "tennis-tournament",
+  "title": "Tennis Tournament",
+  "contest": "Round #41",
+  "difficulty": "EASY",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 680,
+  "tried_count": 733,
+  "solved_ratio": "92%",
+  "url": "https://csacademy.com/contest/archive/task/tennis-tournament/",
+  "platform": "csacademy"
+}

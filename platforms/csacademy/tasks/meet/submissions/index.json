@@ -1,0 +1,86 @@
+[
+  {
+    "job_id": "6701674",
+    "task_slug": "meet",
+    "user": "VALIMAI",
+    "verdict": "100 points",
+    "language": "C",
+    "cpu_time": "318 ms",
+    "memory": "19.3 MB",
+    "submission_time": null,
+    "solution_file": "solution.c",
+    "url": "https://csacademy.com/submission/6701674"
+  },
+  {
+    "job_id": "5340408",
+    "task_slug": "meet",
+    "user": "Aadithya A H",
+    "verdict": "100 points",
+    "language": "C",
+    "cpu_time": "323 ms",
+    "memory": "19.4 MB",
+    "submission_time": null,
+    "solution_file": "solution.c",
+    "url": "https://csacademy.com/submission/5340408"
+  },
+  {
+    "job_id": "6110311",
+    "task_slug": "meet",
+    "user": "Seif Eddine Mezned",
+    "verdict": "100 points",
+    "language": "C",
+    "cpu_time": "341 ms",
+    "memory": "19.5 MB",
+    "submission_time": null,
+    "solution_file": "solution.c",
+    "url": "https://csacademy.com/submission/6110311"
+  },
+  {
+    "job_id": "7238579",
+    "task_slug": "meet",
+    "user": "XCode",
+    "verdict": "0 points",
+    "language": "Python 3",
+    "cpu_time": "7595 ms",
+    "memory": "63.4 MB",
+    "submission_time": null,
+    "solution_file": "solution.py",
+    "url": "https://csacademy.com/submission/7238579"
+  },
+  {
+    "job_id": "5287080",
+    "task_slug": "meet",
+    "user": "tensortitans",
+    "verdict": "100 points",
+    "language": "C",
+    "cpu_time": "246 ms",
+    "memory": "19.4 MB",
+    "submission_time": null,
+    "solution_file": "solution.c",
+    "url": "https://csacademy.com/submission/5287080"
+  },
+  {
+    "job_id": "4723908",
+    "task_slug": "meet",
+    "user": "CodeBreakersXD",
+    "verdict": "100 points",
+    "language": "C",
+    "cpu_time": "292 ms",
+    "memory": "19.3 MB",
+    "submission_time": null,
+    "solution_file": "solution.c",
+    "url": "https://csacademy.com/submission/4723908"
+  },
+  {
+    "job_id": "4028115",
+    "task_slug": "meet",
+    "user": "rainboy",
+    "verdict": "100 points",
+    "language": "C",
+    "cpu_time": "651 ms",
+    "memory": "19.5 MB",
+    "submission_time": null,
+    "solution_file": "solution.c",
+    "url": "https://csacademy.com/submission/4028115"
+  }
+]

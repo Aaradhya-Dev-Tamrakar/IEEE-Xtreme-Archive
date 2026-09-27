@@ -1,0 +1,13 @@
+{
+  "slug": "light-count",
+  "title": "Light Count",
+  "contest": "Round #32",
+  "difficulty": "HARD",
+  "time_limit": "8000 ms",
+  "memory_limit": "12 MB",
+  "solved_count": 135,
+  "tried_count": 198,
+  "solved_ratio": "68%",
+  "url": "https://csacademy.com/contest/archive/task/light-count/",
+  "platform": "csacademy"
+}

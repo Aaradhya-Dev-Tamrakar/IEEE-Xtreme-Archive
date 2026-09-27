@@ -1,0 +1,13 @@
+{
+  "slug": "fake-coins",
+  "title": "Fake Coins",
+  "contest": "Round #16 (Interactive only)",
+  "difficulty": "MEDIUM",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 139,
+  "tried_count": 179,
+  "solved_ratio": "77%",
+  "url": "https://csacademy.com/contest/archive/task/fake-coins/",
+  "platform": "csacademy"
+}

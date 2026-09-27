@@ -1,0 +1,13 @@
+{
+  "slug": "flareon",
+  "title": "Flareon",
+  "contest": "Romanian IOI 2017 Selection #6",
+  "difficulty": "HARD",
+  "time_limit": "3000 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 110,
+  "tried_count": 145,
+  "solved_ratio": "75%",
+  "url": "https://csacademy.com/contest/archive/task/flareon/",
+  "platform": "csacademy"
+}

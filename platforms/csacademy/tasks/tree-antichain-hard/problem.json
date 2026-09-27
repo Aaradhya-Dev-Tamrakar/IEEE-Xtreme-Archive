@@ -1,0 +1,13 @@
+{
+  "slug": "tree-antichain-hard",
+  "title": "Tree Antichain (Hard)",
+  "contest": "Round #38",
+  "difficulty": "HARD",
+  "time_limit": "2000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 99,
+  "tried_count": 135,
+  "solved_ratio": "73%",
+  "url": "https://csacademy.com/contest/archive/task/tree-antichain-hard/",
+  "platform": "csacademy"
+}

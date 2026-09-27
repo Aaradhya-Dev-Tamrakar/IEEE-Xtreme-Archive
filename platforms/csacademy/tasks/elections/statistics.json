@@ -1,0 +1,150 @@
+{
+  "slug": "elections",
+  "solvers_count": 37,
+  "tried_count": 52,
+  "solved_ratio": "71%",
+  "lowest_cpu": [
+    {
+      "job_id": "6758633",
+      "user": "VALIMAI",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6758633",
+      "text": "Job #6758633 25 Oct 2025 18:16:23 VALIMAI -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "6115581",
+      "user": "zhang",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6115581",
+      "text": "Job #6115581 21 Jul 2025 14:26:14 ryan zhang -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "6109745",
+      "user": "Mezned",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6109745",
+      "text": "Job #6109745 19 Jun 2025 21:50:02 Seif Eddine Mezned -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "5463293",
+      "user": "tensortitans",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/5463293",
+      "text": "Job #5463293 26 Oct 2024 18:58:53 tensortitans -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "3958392",
+      "user": "Fa3Harbingers",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/3958392",
+      "text": "Job #3958392 23 Oct 2022 03:13:10 Fa3Harbingers -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "3736149",
+      "user": "Kryptonytes",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/3736149",
+      "text": "Job #3736149 22 Oct 2022 12:24:33 Kryptonytes -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "3214688",
+      "user": "syl123456",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/3214688",
+      "text": "Job #3214688 07 Oct 2021 00:16:09 syl123456 -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "3152498",
+      "user": "8e7",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/3152498",
+      "text": "Job #3152498 14 May 2021 13:08:39 8e7 -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "3152171",
+      "user": "ZCKevin",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/3152171",
+      "text": "Job #3152171 13 May 2021 13:25:06 ZCKevin -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "3101126",
+      "user": "rainboy",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/3101126",
+      "text": "Job #3101126 19 Nov 2020 05:14:16 rainboy -- Task Elections Archive -- 100 points"
+    }
+  ],
+  "lowest_memory": [
+    {
+      "job_id": "2773750",
+      "user": "Grice",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2773750",
+      "text": "Job #2773750 24 Aug 2020 18:37:23 Grice -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "2733817",
+      "user": "Cyani",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2733817",
+      "text": "Job #2733817 27 May 2020 10:50:48 Cyani -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "2221007",
+      "user": "yww",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2221007",
+      "text": "Job #2221007 23 Jun 2019 09:44:59 yww -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "2201298",
+      "user": "Pajaraja23",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2201298",
+      "text": "Job #2201298 25 Apr 2019 19:00:33 Pajaraja23 -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "2197175",
+      "user": "Pajaraja23",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/2197175",
+      "text": "Job #2197175 18 Apr 2019 01:51:59 Pajaraja23 -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "1760299",
+      "user": "popovicirobert",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1760299",
+      "text": "Job #1760299 15 Sep 2018 18:59:19 popovicirobert -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "1759106",
+      "user": "rqgao2014",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1759106",
+      "text": "Job #1759106 14 Sep 2018 20:38:45 rqgao2014 -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "1740035",
+      "user": "CHONKATA",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1740035",
+      "text": "Job #1740035 25 Aug 2018 20:10:09 CHONKATA -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "1707481",
+      "user": "zadrga",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1707481",
+      "text": "Job #1707481 12 Aug 2018 16:20:28 zadrga -- Task Elections Archive -- 100 points"
+    },
+    {
+      "job_id": "1707480",
+      "user": "zadrga",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/1707480",
+      "text": "Job #1707480 12 Aug 2018 16:19:15 zadrga -- Task Elections Archive -- 100 points"
+    }
+  ]
+}

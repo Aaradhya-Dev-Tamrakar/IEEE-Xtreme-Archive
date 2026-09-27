@@ -1,0 +1,13 @@
+{
+  "slug": "popcorn",
+  "title": "Popcorn",
+  "contest": "Romanian IOI 2017 Selection #2",
+  "difficulty": null,
+  "time_limit": "2000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 46,
+  "tried_count": 143,
+  "solved_ratio": "32%",
+  "url": "https://csacademy.com/contest/archive/task/popcorn/",
+  "platform": "csacademy"
+}

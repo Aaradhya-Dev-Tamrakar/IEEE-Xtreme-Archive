@@ -1,0 +1,13 @@
+{
+  "slug": "max-substring",
+  "title": "Max Substring",
+  "contest": "Round #49",
+  "difficulty": "MEDIUM",
+  "time_limit": "1000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 561,
+  "tried_count": 714,
+  "solved_ratio": "78%",
+  "url": "https://csacademy.com/contest/archive/task/max-substring/",
+  "platform": "csacademy"
+}

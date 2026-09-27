@@ -1,0 +1,13 @@
+{
+  "slug": "lamp",
+  "title": "Lamp",
+  "contest": "Romanian IOI 2017 Selection #4",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 42,
+  "tried_count": 68,
+  "solved_ratio": "61%",
+  "url": "https://csacademy.com/contest/archive/task/lamp/",
+  "platform": "csacademy"
+}

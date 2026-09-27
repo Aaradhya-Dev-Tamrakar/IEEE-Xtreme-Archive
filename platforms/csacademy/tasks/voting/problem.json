@@ -1,0 +1,13 @@
+{
+  "slug": "voting",
+  "title": "Voting",
+  "contest": "Round #54",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 105,
+  "tried_count": 144,
+  "solved_ratio": "72%",
+  "url": "https://csacademy.com/contest/archive/task/voting/",
+  "platform": "csacademy"
+}

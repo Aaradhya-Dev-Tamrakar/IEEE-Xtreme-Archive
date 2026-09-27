@@ -1,0 +1,13 @@
+{
+  "slug": "bounded-distinct",
+  "title": "Bounded Distinct",
+  "contest": "Round #26 (Div. 2 only)",
+  "difficulty": "EASY",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 371,
+  "tried_count": 416,
+  "solved_ratio": "89%",
+  "url": "https://csacademy.com/contest/archive/task/bounded-distinct/",
+  "platform": "csacademy"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "hangman2",
+  "title": "Hangman 2",
+  "contest": "RMI 2017 Day 1",
+  "difficulty": "HARD",
+  "time_limit": "350 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 206,
+  "tried_count": 369,
+  "solved_ratio": "55%",
+  "url": "https://csacademy.com/contest/archive/task/hangman2/",
+  "platform": "csacademy"
+}

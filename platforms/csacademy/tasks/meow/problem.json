@@ -1,0 +1,13 @@
+{
+  "slug": "meow",
+  "title": "Meow",
+  "contest": "Romanian IOI 2017 Selection #2",
+  "difficulty": "HARD",
+  "time_limit": "500 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 71,
+  "tried_count": 150,
+  "solved_ratio": "47%",
+  "url": "https://csacademy.com/contest/archive/task/meow/",
+  "platform": "csacademy"
+}

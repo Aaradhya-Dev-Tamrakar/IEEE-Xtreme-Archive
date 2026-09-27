@@ -1,0 +1,13 @@
+{
+  "slug": "lottery",
+  "title": "Lottery",
+  "contest": null,
+  "difficulty": null,
+  "time_limit": "3000 ms",
+  "memory_limit": "32 MB",
+  "solved_count": 224,
+  "tried_count": 338,
+  "solved_ratio": "66%",
+  "url": "https://csacademy.com/contest/archive/task/lottery/",
+  "platform": "csacademy"
+}

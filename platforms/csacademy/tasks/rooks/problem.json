@@ -1,0 +1,13 @@
+{
+  "slug": "rooks",
+  "title": "Rooks",
+  "contest": null,
+  "difficulty": null,
+  "time_limit": "5000 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 78,
+  "tried_count": 108,
+  "solved_ratio": "72%",
+  "url": "https://csacademy.com/contest/archive/task/rooks/",
+  "platform": "csacademy"
+}

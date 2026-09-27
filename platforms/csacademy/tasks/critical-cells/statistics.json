@@ -1,0 +1,8 @@
+{
+  "slug": "critical-cells",
+  "solvers_count": 200,
+  "tried_count": 228,
+  "solved_ratio": "87%",
+  "lowest_cpu": [],
+  "lowest_memory": []
+}

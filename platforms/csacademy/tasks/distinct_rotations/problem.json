@@ -1,0 +1,13 @@
+{
+  "slug": "distinct_rotations",
+  "title": "Distinct Rotations",
+  "contest": "Round #22 (Div. 2 only)",
+  "difficulty": "MEDIUM",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 172,
+  "tried_count": 200,
+  "solved_ratio": "86%",
+  "url": "https://csacademy.com/contest/archive/task/distinct_rotations/",
+  "platform": "csacademy"
+}

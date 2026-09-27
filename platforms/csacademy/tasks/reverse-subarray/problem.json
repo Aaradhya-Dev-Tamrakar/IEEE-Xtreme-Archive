@@ -1,0 +1,13 @@
+{
+  "slug": "reverse-subarray",
+  "title": "Reverse Subarray",
+  "contest": "Round #69 (Div. 2 only)",
+  "difficulty": null,
+  "time_limit": "1000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 408,
+  "tried_count": 522,
+  "solved_ratio": "78%",
+  "url": "https://csacademy.com/contest/archive/task/reverse-subarray/",
+  "platform": "csacademy"
+}

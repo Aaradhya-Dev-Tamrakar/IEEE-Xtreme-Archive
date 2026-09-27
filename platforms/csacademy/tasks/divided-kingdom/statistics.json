@@ -1,0 +1,150 @@
+{
+  "slug": "divided-kingdom",
+  "solvers_count": 72,
+  "tried_count": 94,
+  "solved_ratio": "76%",
+  "lowest_cpu": [
+    {
+      "job_id": "7519374",
+      "user": "fedi",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7519374",
+      "text": "Job #7519374 02 Nov 2025 02:46:10 louhichi fedi -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "7519372",
+      "user": "fedi",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7519372",
+      "text": "Job #7519372 02 Nov 2025 02:44:49 louhichi fedi -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6840024",
+      "user": "VALIMAI",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6840024",
+      "text": "Job #6840024 25 Oct 2025 19:28:55 VALIMAI -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6121563",
+      "user": "Zhong",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6121563",
+      "text": "Job #6121563 19 Aug 2025 06:42:26 YuChen Zhong -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6115513",
+      "user": "zhang",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6115513",
+      "text": "Job #6115513 21 Jul 2025 13:52:57 ryan zhang -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6113839",
+      "user": "Getaway_Car",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6113839",
+      "text": "Job #6113839 10 Jul 2025 21:21:08 Getaway_Car -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6113433",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6113433",
+      "text": "Job #6113433 08 Jul 2025 17:19:23 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6113432",
+      "user": "alpharchmage",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6113432",
+      "text": "Job #6113432 08 Jul 2025 17:19:18 alpharchmage -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6113428",
+      "user": "Getaway_Car",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6113428",
+      "text": "Job #6113428 08 Jul 2025 16:54:54 Getaway_Car -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6113221",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6113221",
+      "text": "Job #6113221 07 Jul 2025 06:20:01 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    }
+  ],
+  "lowest_memory": [
+    {
+      "job_id": "6113220",
+      "user": "lovely_Plana",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6113220",
+      "text": "Job #6113220 07 Jul 2025 06:19:44 lovely_Plana -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112450",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112450",
+      "text": "Job #6112450 02 Jul 2025 19:00:58 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112422",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112422",
+      "text": "Job #6112422 02 Jul 2025 18:01:10 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112419",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112419",
+      "text": "Job #6112419 02 Jul 2025 17:41:37 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112417",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112417",
+      "text": "Job #6112417 02 Jul 2025 17:41:14 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112410",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112410",
+      "text": "Job #6112410 02 Jul 2025 17:15:53 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112382",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112382",
+      "text": "Job #6112382 02 Jul 2025 14:37:29 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112377",
+      "user": "Donaldqian",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112377",
+      "text": "Job #6112377 02 Jul 2025 14:31:36 Donaldqian -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112373",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112373",
+      "text": "Job #6112373 02 Jul 2025 14:27:25 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    },
+    {
+      "job_id": "6112354",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/6112354",
+      "text": "Job #6112354 02 Jul 2025 13:39:24 Yunchang Guan -- Task Divided Kingdom Archive -- 100 points"
+    }
+  ]
+}

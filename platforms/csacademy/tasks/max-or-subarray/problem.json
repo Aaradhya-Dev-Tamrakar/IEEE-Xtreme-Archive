@@ -1,0 +1,13 @@
+{
+  "slug": "max-or-subarray",
+  "title": "Max Or Subarray",
+  "contest": "Round #34 (Div. 2 only)",
+  "difficulty": "EASY",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 521,
+  "tried_count": 637,
+  "solved_ratio": "81%",
+  "url": "https://csacademy.com/contest/archive/task/max-or-subarray/",
+  "platform": "csacademy"
+}
