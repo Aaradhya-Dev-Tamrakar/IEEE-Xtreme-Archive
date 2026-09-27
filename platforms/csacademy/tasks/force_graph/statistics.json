@@ -1,0 +1,8 @@
+{
+  "slug": "force_graph",
+  "solvers_count": 204,
+  "tried_count": 239,
+  "solved_ratio": "85%",
+  "lowest_cpu": [],
+  "lowest_memory": []
+}

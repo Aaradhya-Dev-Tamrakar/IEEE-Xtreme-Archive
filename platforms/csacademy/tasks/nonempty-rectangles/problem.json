@@ -1,0 +1,13 @@
+{
+  "slug": "nonempty-rectangles",
+  "title": "Nonempty Rectangles",
+  "contest": "IOI 2016 Training Round #4",
+  "difficulty": "HARD",
+  "time_limit": "2500 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 106,
+  "tried_count": 155,
+  "solved_ratio": "68%",
+  "url": "https://csacademy.com/contest/archive/task/nonempty-rectangles/",
+  "platform": "csacademy"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "lis_generator",
+  "title": "LIS Generator",
+  "contest": "Beta Round #6",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 162,
+  "tried_count": 215,
+  "solved_ratio": "75%",
+  "url": "https://csacademy.com/contest/archive/task/lis_generator/",
+  "platform": "csacademy"
+}

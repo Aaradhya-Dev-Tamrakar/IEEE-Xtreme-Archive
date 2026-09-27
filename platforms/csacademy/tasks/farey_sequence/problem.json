@@ -1,0 +1,13 @@
+{
+  "slug": "farey_sequence",
+  "title": "Farey Sequence",
+  "contest": "IOI 2016 Training Round #1",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 136,
+  "tried_count": 214,
+  "solved_ratio": "63%",
+  "url": "https://csacademy.com/contest/archive/task/farey_sequence/",
+  "platform": "csacademy"
+}

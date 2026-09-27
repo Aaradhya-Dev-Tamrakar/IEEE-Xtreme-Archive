@@ -1,0 +1,13 @@
+{
+  "slug": "recursive_shuffle",
+  "title": "Recursive Shuffle",
+  "contest": "Beta Round #5",
+  "difficulty": "MEDIUM",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 244,
+  "tried_count": 317,
+  "solved_ratio": "76%",
+  "url": "https://csacademy.com/contest/archive/task/recursive_shuffle/",
+  "platform": "csacademy"
+}

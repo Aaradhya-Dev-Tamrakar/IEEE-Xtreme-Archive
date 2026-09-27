@@ -1,0 +1,13 @@
+{
+  "slug": "increasing_subarrays",
+  "title": "Increasing Subarrays",
+  "contest": "IOI 2016 Training Round #2",
+  "difficulty": "HARD",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 210,
+  "tried_count": 289,
+  "solved_ratio": "72%",
+  "url": "https://csacademy.com/contest/archive/task/increasing_subarrays/",
+  "platform": "csacademy"
+}

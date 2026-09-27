@@ -1,0 +1,13 @@
+{
+  "slug": "xor_cycle",
+  "title": "Xor Cycle",
+  "contest": "Beta Round #6",
+  "difficulty": "HARD",
+  "time_limit": "4000 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 222,
+  "tried_count": 249,
+  "solved_ratio": "89%",
+  "url": "https://csacademy.com/contest/archive/task/xor_cycle/",
+  "platform": "csacademy"
+}

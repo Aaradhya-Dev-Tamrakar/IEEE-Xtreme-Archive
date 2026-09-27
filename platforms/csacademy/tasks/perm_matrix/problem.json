@@ -1,0 +1,13 @@
+{
+  "slug": "perm_matrix",
+  "title": "Perm Matrix",
+  "contest": "Beta Round #6",
+  "difficulty": "HARD",
+  "time_limit": "4000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 110,
+  "tried_count": 185,
+  "solved_ratio": "59%",
+  "url": "https://csacademy.com/contest/archive/task/perm_matrix/",
+  "platform": "csacademy"
+}

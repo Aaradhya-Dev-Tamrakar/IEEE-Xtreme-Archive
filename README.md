@@ -9,9 +9,9 @@ Autonomous Competitive Programming corpus, structured problem statements with La
 | Metric | Count / Status | Notes |
 | :--- | :--- | :--- |
 | **Total Discovered Tasks** | `669` | Cataloged in [`ledger/tasks_index.json`](ledger/tasks_index.json) |
-| **Fully Archived Tasks** | `30` | Statements, limits, statistics & solutions |
-| **Pending Tasks** | `639` | In queue for autonomous harvesting |
-| **Archived 100-pt Solutions** | `390` | Un-truncated source files + test matrices |
+| **Fully Archived Tasks** | `100` | Statements, limits, statistics & solutions |
+| **Pending Tasks** | `569` | In queue for autonomous harvesting |
+| **Archived Solutions** | `430` | Un-truncated source files + test matrices |
 | **Active Platform** | `CS Academy` | Primary judge for PreXtreme & training contests |
 | **Harvester Engine** | `CDP Asynchronous Engine` | Headless WebSocket CDP attached to Chrome |
 

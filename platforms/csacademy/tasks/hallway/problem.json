@@ -1,0 +1,13 @@
+{
+  "slug": "hallway",
+  "title": "Hallway",
+  "contest": "IOI 2016 Training Round #1",
+  "difficulty": "MEDIUM",
+  "time_limit": "1000 ms",
+  "memory_limit": "256 MB",
+  "solved_count": 164,
+  "tried_count": 228,
+  "solved_ratio": "71%",
+  "url": "https://csacademy.com/contest/archive/task/hallway/",
+  "platform": "csacademy"
+}

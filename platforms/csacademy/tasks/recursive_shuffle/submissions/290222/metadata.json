@@ -1,0 +1,12 @@
+{
+  "job_id": "290222",
+  "task_slug": "recursive_shuffle",
+  "user": "Lightless",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "48 ms",
+  "memory": "656 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/290222"
+}

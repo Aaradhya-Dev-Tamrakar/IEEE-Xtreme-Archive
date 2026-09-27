@@ -1,6 +1,6 @@
 """
-CS Academy Autonomous Harvester: Extracts problem statements, KaTeX formulas,
-leaderboard statistics, and optimal 100-point solutions into IEEE-Xtreme-Archive.
+CS Academy Autonomous Harvester: High-Throughput Optimized Parallel Archiver
+Extracts problem statements, LaTeX math, leaderboard statistics, and 100-point solutions.
 """
 
 import argparse
@@ -10,10 +10,14 @@ import logging
 import os
 import re
 import sys
+import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
 
-from cdp_engine import CDPEngine
+try:
+    from cdp_engine import CDPEngine, CDPWorker
+except ImportError:
+    from harvesters.cdp_engine import CDPEngine, CDPWorker
 
 if sys.platform == "win32":
     try:
@@ -76,8 +80,9 @@ def get_file_extension(language: str) -> str:
 
 
 class CSAcademyHarvester:
-    def __init__(self, cdp: CDPEngine):
-        self.cdp = cdp
+    def __init__(self, cdp_engine: CDPEngine, concurrency: int = 6):
+        self.cdp_engine = cdp_engine
+        self.concurrency = concurrency
         self.tasks_index: List[Dict[str, Any]] = load_json(TASKS_INDEX_PATH, [])
         self.jobs_queue: Dict[str, Dict[str, Any]] = load_json(JOBS_QUEUE_PATH, {})
         self.ledger: Dict[str, Any] = load_json(
@@ -91,12 +96,20 @@ class CSAcademyHarvester:
                 "total_jobs_archived": 0,
             },
         )
+        self.lock = asyncio.Lock()
 
-    async def discover_tasks(self) -> List[Dict[str, Any]]:
+    def get_task_info(self, slug: str) -> Dict[str, Any]:
+        for t in self.tasks_index:
+            if t.get("slug") == slug:
+                return t
+        return {}
+
+    async def discover_tasks(self, worker: CDPWorker) -> List[Dict[str, Any]]:
         logger.info("Discovering all tasks from CS Academy task archive...")
-        await self.cdp.navigate("https://csacademy.com/contest/archive/tasks/", wait_seconds=3.0)
+        await worker.navigate("https://csacademy.com/contest/archive/tasks/", wait_seconds=2.0)
+        await worker.wait_for_condition("document.querySelector('a[href*=\"/contest/archive/task/\"]') !== null", max_wait=8.0)
 
-        tasks_data = await self.cdp.evaluate(
+        tasks_data = await worker.evaluate(
             """(() => {
                 let links = Array.from(document.querySelectorAll('a[href*="/contest/archive/task/"]'));
                 let seen = new Set();
@@ -151,23 +164,19 @@ class CSAcademyHarvester:
 
         if not tasks_data:
             logger.warning("No tasks discovered. Retrying after waiting...")
-            await asyncio.sleep(3)
-            return await self.discover_tasks()
+            await asyncio.sleep(2)
+            return await self.discover_tasks(worker)
 
-        self.tasks_index = tasks_data
-        self.ledger["total_tasks_discovered"] = len(tasks_data)
-        save_json(TASKS_INDEX_PATH, self.tasks_index)
-        save_json(ARCHIVE_LEDGER_PATH, self.ledger)
-        logger.info(f"Successfully discovered and cataloged {len(tasks_data)} tasks with difficulty and contest metadata!")
+        async with self.lock:
+            self.tasks_index = tasks_data
+            self.ledger["total_tasks_discovered"] = len(tasks_data)
+            save_json(TASKS_INDEX_PATH, self.tasks_index)
+            save_json(ARCHIVE_LEDGER_PATH, self.ledger)
+
+        logger.info(f"Successfully discovered and cataloged {len(tasks_data)} tasks with full metadata!")
         return tasks_data
 
-    def get_task_info(self, slug: str) -> Dict[str, Any]:
-        for t in self.tasks_index:
-            if t.get("slug") == slug:
-                return t
-        return {}
-
-    async def harvest_statement(self, slug: str) -> bool:
+    async def harvest_statement(self, slug: str, worker: CDPWorker) -> bool:
         task_dir = TASKS_DIR / slug
         task_dir.mkdir(parents=True, exist_ok=True)
         statement_file = task_dir / "statement.md"
@@ -177,17 +186,22 @@ class CSAcademyHarvester:
             return True
 
         url = f"https://csacademy.com/contest/archive/task/{slug}/"
-        logger.info(f"Harvesting statement for task '{slug}' ({url})...")
-        await self.cdp.navigate(url, wait_seconds=1.5)
+        await worker.navigate(url, wait_seconds=0.8)
 
-        loaded = await self.cdp.wait_for_condition(
-            "document.querySelector('h1') !== null", max_wait=6.0
+        loaded = await worker.wait_for_condition(
+            "document.querySelector('h1') !== null && (document.querySelector('p') !== null || document.querySelector('table') !== null)", max_wait=8.0
         )
         if not loaded:
-            logger.warning(f"Timeout waiting for task '{slug}' to render.")
-            return False
+            # Retry once with fresh navigation to survive network bursts
+            await worker.navigate(url, wait_seconds=1.0)
+            loaded = await worker.wait_for_condition(
+                "document.querySelector('h1') !== null && (document.querySelector('p') !== null || document.querySelector('table') !== null)", max_wait=10.0
+            )
+            if not loaded:
+                logger.warning(f"Timeout waiting for task '{slug}' to render after retry.")
+                return False
 
-        extracted = await self.cdp.evaluate(
+        extracted = await worker.evaluate(
             """(() => {
                 let h1 = document.querySelector('h1');
                 if (!h1) return null;
@@ -258,7 +272,6 @@ class CSAcademyHarvester:
         memory_limit = extracted.get("memory_limit", "N/A")
         content = extracted.get("content", "")
 
-        # Clean markdown formatting
         md_content = f"# {title}\n\n"
         md_content += f"**Time Limit:** `{time_limit}`  \n"
         md_content += f"**Memory Limit:** `{memory_limit}`  \n"
@@ -286,14 +299,15 @@ class CSAcademyHarvester:
         }
         save_json(problem_file, problem_metadata)
 
-        if slug not in self.ledger["completed_statements"]:
-            self.ledger["completed_statements"].append(slug)
-            save_json(ARCHIVE_LEDGER_PATH, self.ledger)
+        async with self.lock:
+            if slug not in self.ledger["completed_statements"]:
+                self.ledger["completed_statements"].append(slug)
+                save_json(ARCHIVE_LEDGER_PATH, self.ledger)
 
-        logger.info(f"Saved statement & metadata for '{slug}'")
+        logger.info(f"Saved statement for '{slug}'")
         return True
 
-    async def harvest_statistics(self, slug: str) -> bool:
+    async def harvest_statistics(self, slug: str, worker: CDPWorker) -> bool:
         task_dir = TASKS_DIR / slug
         task_dir.mkdir(parents=True, exist_ok=True)
         stats_file = task_dir / "statistics.json"
@@ -302,16 +316,16 @@ class CSAcademyHarvester:
             return True
 
         url = f"https://csacademy.com/contest/archive/task/{slug}/statistics/"
-        logger.info(f"Harvesting statistics & leaderboard for task '{slug}' ({url})...")
-        await self.cdp.navigate(url, wait_seconds=1.5)
+        await worker.navigate(url, wait_seconds=1.0)
 
-        # Wait for submission links or tables to load asynchronously
-        await self.cdp.wait_for_condition(
-            "document.querySelector('a[href*=\"/submission/\"]') !== null || document.body.innerText.includes('CPU Time')",
-            max_wait=6.0,
+        # Wait until submission links load or statistics page is completely rendered
+        await worker.wait_for_condition(
+            "document.querySelector('a[href*=\"/submission/\"]') !== null || (!document.body.innerText.includes('Loading') && (document.body.innerText.includes('solved') || document.body.innerText.includes('No submissions') || document.querySelectorAll('table').length > 0))",
+            max_wait=8.0,
+            interval=0.15,
         )
 
-        stats_data = await self.cdp.evaluate(
+        stats_data = await worker.evaluate(
             """(() => {
                 let tables = Array.from(document.querySelectorAll('table'));
                 let lowest_cpu = [];
@@ -358,6 +372,54 @@ class CSAcademyHarvester:
             })()"""
         )
 
+        # Fallback to submissions feed if statistics table is empty (e.g. partial points / non-100 / archive feed)
+        if not stats_data or (len(stats_data.get("lowest_cpu", [])) == 0 and len(stats_data.get("lowest_memory", [])) == 0):
+            feed_url = f"https://csacademy.com/contest/archive/task/{slug}/submissions/"
+            await worker.navigate(feed_url, wait_seconds=1.0)
+            await worker.wait_for_condition(
+                "document.querySelector('a[href*=\"/submission/\"]') !== null || !document.body.innerText.includes('Loading')",
+                max_wait=6.0,
+            )
+            feed_data = await worker.evaluate(
+                """(() => {
+                    let links = Array.from(document.querySelectorAll('a[href*="/submission/"]'));
+                    let submissions = [];
+                    let seen = new Set();
+                    for (let a of links) {
+                        let m = a.href.match(/\\/submission\\/(\\d+)/);
+                        if (!m || seen.has(m[1])) continue;
+                        seen.add(m[1]);
+                        let parent = a.closest('[class*="row"], tr, div') || a.parentElement;
+                        let text = parent ? parent.innerText.replace(/\\s+/g, ' ') : '';
+                        
+                        let userMatch = text.match(/(?:Job\\s*#\\d+\\s+[^\\s]+\\s+[^\\s]+\\s+[^\\s]+)?\\s*([A-Za-z0-9_.-]+)\\s*--/);
+                        let user = userMatch ? userMatch[1] : 'Unknown';
+                        
+                        submissions.push({
+                            job_id: m[1],
+                            user: user,
+                            metric: 'feed',
+                            submission_url: a.href,
+                            text: text
+                        });
+                    }
+                    
+                    // Prioritize highest score (100 points / Accepted first, then partial points > 0)
+                    submissions.sort((a, b) => {
+                        let scoreA = (a.text.includes('100 points') || a.text.includes('Accepted')) ? 1000 : parseInt((a.text.match(/(\\d+)\\s*points/) || [])[1] || 0);
+                        let scoreB = (b.text.includes('100 points') || b.text.includes('Accepted')) ? 1000 : parseInt((b.text.match(/(\\d+)\\s*points/) || [])[1] || 0);
+                        return scoreB - scoreA;
+                    });
+                    
+                    return submissions.slice(0, 20);
+                })()"""
+            )
+            if feed_data:
+                stats_data = {
+                    "lowest_cpu": feed_data[:10],
+                    "lowest_memory": feed_data[10:20] if len(feed_data) > 10 else feed_data[:10],
+                }
+
         if not stats_data:
             logger.warning(f"Failed to extract statistics for {slug}")
             return False
@@ -374,33 +436,33 @@ class CSAcademyHarvester:
 
         save_json(stats_file, stats_payload)
 
-        # Queue jobs for archival
-        new_jobs = 0
-        for entry in stats_data.get("lowest_cpu", []) + stats_data.get("lowest_memory", []):
-            job_id = entry["job_id"]
-            if job_id not in self.jobs_queue:
-                self.jobs_queue[job_id] = {
-                    "job_id": job_id,
-                    "task_slug": slug,
-                    "user": entry.get("user"),
-                    "metric": entry.get("metric"),
-                    "url": entry.get("submission_url", f"https://csacademy.com/submission/{job_id}"),
-                    "status": "pending",
-                }
-                new_jobs += 1
+        async with self.lock:
+            new_jobs = 0
+            for entry in stats_data.get("lowest_cpu", []) + stats_data.get("lowest_memory", []):
+                job_id = entry["job_id"]
+                if job_id not in self.jobs_queue:
+                    self.jobs_queue[job_id] = {
+                        "job_id": job_id,
+                        "task_slug": slug,
+                        "user": entry.get("user"),
+                        "metric": entry.get("metric"),
+                        "url": entry.get("submission_url", f"https://csacademy.com/submission/{job_id}"),
+                        "status": "pending",
+                    }
+                    new_jobs += 1
 
-        if new_jobs > 0:
-            self.ledger["total_jobs_queued"] = len(self.jobs_queue)
-            save_json(JOBS_QUEUE_PATH, self.jobs_queue)
+            if new_jobs > 0:
+                self.ledger["total_jobs_queued"] = len(self.jobs_queue)
+                save_json(JOBS_QUEUE_PATH, self.jobs_queue)
 
-        if slug not in self.ledger["completed_statistics"]:
-            self.ledger["completed_statistics"].append(slug)
-            save_json(ARCHIVE_LEDGER_PATH, self.ledger)
+            if slug not in self.ledger["completed_statistics"]:
+                self.ledger["completed_statistics"].append(slug)
+                save_json(ARCHIVE_LEDGER_PATH, self.ledger)
 
         logger.info(f"Saved statistics for '{slug}' (Queued {new_jobs} new jobs, total queue: {len(self.jobs_queue)})")
         return True
 
-    async def harvest_submission(self, job_id: str) -> bool:
+    async def harvest_submission(self, job_id: str, worker: CDPWorker) -> bool:
         job_info = self.jobs_queue.get(job_id, {})
         slug = job_info.get("task_slug", "unknown")
         
@@ -413,15 +475,15 @@ class CSAcademyHarvester:
             return True
 
         url = f"https://csacademy.com/submission/{job_id}"
-        logger.info(f"Harvesting submission #{job_id} for '{slug}' ({url})...")
-        await self.cdp.navigate(url, wait_seconds=1.5)
+        await worker.navigate(url, wait_seconds=0.5)
 
-        await self.cdp.wait_for_condition(
-            "document.querySelector('.ace_editor') !== null || document.querySelector('table') !== null",
-            max_wait=6.0,
+        await worker.wait_for_condition(
+            "(document.querySelector('.ace_editor') !== null && ((window.ace && window.ace.edit(document.querySelector('.ace_editor')).getValue().length > 0) || document.querySelector('.ace_line') !== null)) || document.querySelector('table') !== null",
+            max_wait=8.0,
+            interval=0.15,
         )
 
-        sub_data = await self.cdp.evaluate(
+        sub_data = await worker.evaluate(
             """(() => {
                 let aceEl = document.querySelector('.ace_editor');
                 let code = '';
@@ -486,11 +548,9 @@ class CSAcademyHarvester:
         ext = get_file_extension(language)
         solution_file = sub_dir / f"solution.{ext}"
 
-        # Write clean original source code
         with open(solution_file, "w", encoding="utf-8") as f:
             f.write(sub_data["code"])
 
-        # Write metadata.json
         metadata = {
             "job_id": job_id,
             "task_slug": slug,
@@ -504,95 +564,132 @@ class CSAcademyHarvester:
             "url": url,
         }
         save_json(meta_file, metadata)
-
-        # Write results.json
         save_json(results_file, sub_data.get("test_results", []))
 
-        # Update submissions index for the task
-        sub_index_file = TASKS_DIR / slug / "submissions" / "index.json"
-        sub_index = load_json(sub_index_file, [])
-        if not any(s.get("job_id") == job_id for s in sub_index):
-            sub_index.append(metadata)
-            save_json(sub_index_file, sub_index)
+        async with self.lock:
+            sub_index_file = TASKS_DIR / slug / "submissions" / "index.json"
+            sub_index = load_json(sub_index_file, [])
+            if not any(s.get("job_id") == job_id for s in sub_index):
+                sub_index.append(metadata)
+                save_json(sub_index_file, sub_index)
 
-        # Mark job completed
-        if job_id in self.jobs_queue:
-            self.jobs_queue[job_id]["status"] = "archived"
-            save_json(JOBS_QUEUE_PATH, self.jobs_queue)
+            if job_id in self.jobs_queue:
+                self.jobs_queue[job_id]["status"] = "archived"
+                save_json(JOBS_QUEUE_PATH, self.jobs_queue)
 
-        if job_id not in self.ledger["completed_submissions"]:
-            self.ledger["completed_submissions"].append(job_id)
-            self.ledger["total_jobs_archived"] = len(self.ledger["completed_submissions"])
-            save_json(ARCHIVE_LEDGER_PATH, self.ledger)
+            if job_id not in self.ledger["completed_submissions"]:
+                self.ledger["completed_submissions"].append(job_id)
+                self.ledger["total_jobs_archived"] = len(self.ledger["completed_submissions"])
+                save_json(ARCHIVE_LEDGER_PATH, self.ledger)
 
         logger.info(f"Archived submission #{job_id} ({language}, {metadata.get('cpu_time')}, {metadata.get('memory')})")
         return True
 
-    async def run_pipeline(self, max_tasks: Optional[int] = None, specific_slug: Optional[str] = None):
-        if specific_slug:
-            tasks = [{"slug": specific_slug, "title": specific_slug, "url": f"https://csacademy.com/contest/archive/task/{specific_slug}/"}]
-        else:
-            if not self.tasks_index:
-                await self.discover_tasks()
-            tasks = self.tasks_index
+    async def run_parallel_pipeline(self, max_tasks: Optional[int] = None, specific_slug: Optional[str] = None):
+        workers = await self.cdp_engine.get_worker_pool(size=self.concurrency)
+        logger.info(f"Optimized CDP Worker Pool initialized with {len(workers)} persistent tabs.")
 
-        if max_tasks:
-            tasks = tasks[:max_tasks]
+        try:
+            if specific_slug:
+                tasks = [{"slug": specific_slug, "title": specific_slug, "url": f"https://csacademy.com/contest/archive/task/{specific_slug}/"}]
+            else:
+                if not self.tasks_index:
+                    await self.discover_tasks(workers[0])
+                tasks = self.tasks_index
 
-        logger.info(f"Starting pipeline execution for {len(tasks)} tasks...")
+            if max_tasks:
+                tasks = tasks[:max_tasks]
 
-        # Step 1: Harvest Statements and Statistics
-        for idx, task in enumerate(tasks, start=1):
-            slug = task["slug"]
-            logger.info(f"[{idx}/{len(tasks)}] Processing task: {slug}")
-            try:
-                await self.harvest_statement(slug)
-                await self.harvest_statistics(slug)
-            except Exception as e:
-                logger.error(f"Error processing task {slug}: {e}")
+            pending_tasks = [t for t in tasks if t["slug"] not in self.ledger["completed_statistics"] or t["slug"] not in self.ledger["completed_statements"]]
+            logger.info(f"Starting parallel processing for {len(pending_tasks)} pending tasks across {len(workers)} workers...")
 
-        # Step 2: Harvest Submissions in Queue
-        pending_jobs = [j_id for j_id, j_data in self.jobs_queue.items() if j_data.get("status") != "archived"]
-        logger.info(f"Harvesting {len(pending_jobs)} pending solution submissions...")
+            task_queue = asyncio.Queue()
+            for t in pending_tasks:
+                await task_queue.put(t)
 
-        for idx, job_id in enumerate(pending_jobs, start=1):
-            logger.info(f"[{idx}/{len(pending_jobs)}] Processing submission #{job_id}...")
-            try:
-                await self.harvest_submission(job_id)
-            except Exception as e:
-                logger.error(f"Error archiving submission #{job_id}: {e}")
+            async def task_worker_loop(w_idx: int, worker: CDPWorker):
+                while not task_queue.empty():
+                    try:
+                        task = task_queue.get_nowait()
+                    except asyncio.QueueEmpty:
+                        break
+                    slug = task["slug"]
+                    logger.info(f"[Worker {w_idx}] Processing task: {slug}")
+                    try:
+                        await self.harvest_statement(slug, worker)
+                        await self.harvest_statistics(slug, worker)
+                    except Exception as e:
+                        logger.error(f"[Worker {w_idx}] Error on task {slug}: {e}")
+                    finally:
+                        task_queue.task_done()
 
-        logger.info("Pipeline execution batch completed successfully!")
+            if pending_tasks:
+                await asyncio.gather(*(task_worker_loop(i, w) for i, w in enumerate(workers)))
+
+            pending_jobs = [j_id for j_id, j_data in self.jobs_queue.items() if j_data.get("status") != "archived"]
+            logger.info(f"Starting parallel harvesting for {len(pending_jobs)} pending solution submissions across {len(workers)} workers...")
+
+            job_queue = asyncio.Queue()
+            for j_id in pending_jobs:
+                await job_queue.put(j_id)
+
+            t_start = time.time()
+            total_jobs = len(pending_jobs)
+            completed_count = 0
+
+            async def job_worker_loop(w_idx: int, worker: CDPWorker):
+                nonlocal completed_count
+                while not job_queue.empty():
+                    try:
+                        job_id = job_queue.get_nowait()
+                    except asyncio.QueueEmpty:
+                        break
+                    try:
+                        await self.harvest_submission(job_id, worker)
+                        completed_count += 1
+                        if completed_count % 10 == 0 or completed_count == total_jobs:
+                            elapsed = max(0.1, time.time() - t_start)
+                            rate = completed_count / elapsed
+                            logger.info(f"Progress: [{completed_count}/{total_jobs} jobs] - {rate:.1f} jobs/sec")
+                    except Exception as e:
+                        logger.error(f"[Worker {w_idx}] Error archiving submission #{job_id}: {e}")
+                    finally:
+                        job_queue.task_done()
+
+            if pending_jobs:
+                await asyncio.gather(*(job_worker_loop(i, w) for i, w in enumerate(workers)))
+
+            logger.info("Parallel pipeline execution batch completed successfully!")
+
+        finally:
+            await self.cdp_engine.close()
 
 
 async def main():
-    parser = argparse.ArgumentParser(description="CS Academy Autonomous CP Archiver")
+    parser = argparse.ArgumentParser(description="CS Academy Autonomous Parallel CP Archiver")
     parser.add_argument("--discover", action="store_true", help="Discover all tasks and save to index")
     parser.add_argument("--slug", type=str, help="Run harvester for a single task slug")
     parser.add_argument("--max-tasks", type=int, help="Limit number of tasks to process")
+    parser.add_argument("--concurrency", "-c", type=int, default=6, help="Number of concurrent worker tabs (default: 6)")
     parser.add_argument("--host", type=str, default="127.0.0.1", help="CDP host")
     parser.add_argument("--port", type=int, default=9222, help="CDP port")
     args = parser.parse_args()
 
     cdp = CDPEngine(cdp_host=args.host, cdp_port=args.port)
-    await cdp.connect()
+    harvester = CSAcademyHarvester(cdp, concurrency=args.concurrency)
 
-    harvester = CSAcademyHarvester(cdp)
-
-    try:
-        if args.discover:
-            await harvester.discover_tasks()
-        elif args.slug:
-            # Clear cache for single slug run
-            if args.slug in harvester.ledger["completed_statements"]:
-                harvester.ledger["completed_statements"].remove(args.slug)
-            if args.slug in harvester.ledger["completed_statistics"]:
-                harvester.ledger["completed_statistics"].remove(args.slug)
-            await harvester.run_pipeline(specific_slug=args.slug)
-        else:
-            await harvester.run_pipeline(max_tasks=args.max_tasks)
-    finally:
+    if args.discover:
+        primary = await cdp.get_primary_worker()
+        await harvester.discover_tasks(primary)
         await cdp.close()
+    elif args.slug:
+        if args.slug in harvester.ledger["completed_statements"]:
+            harvester.ledger["completed_statements"].remove(args.slug)
+        if args.slug in harvester.ledger["completed_statistics"]:
+            harvester.ledger["completed_statistics"].remove(args.slug)
+        await harvester.run_parallel_pipeline(specific_slug=args.slug)
+    else:
+        await harvester.run_parallel_pipeline(max_tasks=args.max_tasks)
 
 
 if __name__ == "__main__":

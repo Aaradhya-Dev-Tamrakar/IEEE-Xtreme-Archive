@@ -1,0 +1,13 @@
+{
+  "slug": "force_graph",
+  "title": "Force Graph",
+  "contest": "Beta Round #5",
+  "difficulty": "MEDIUM",
+  "time_limit": "2000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 204,
+  "tried_count": 239,
+  "solved_ratio": "85%",
+  "url": "https://csacademy.com/contest/archive/task/force_graph/",
+  "platform": "csacademy"
+}

@@ -1,0 +1,12 @@
+{
+  "job_id": "137887",
+  "task_slug": "recursive_shuffle",
+  "user": "spatarel",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "35 ms",
+  "memory": "672 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/137887"
+}

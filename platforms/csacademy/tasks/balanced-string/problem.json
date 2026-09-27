@@ -1,0 +1,13 @@
+{
+  "slug": "balanced-string",
+  "title": "Balanced String",
+  "contest": "IOI 2016 Training Round #5",
+  "difficulty": "HARD",
+  "time_limit": "500 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 104,
+  "tried_count": 173,
+  "solved_ratio": "60%",
+  "url": "https://csacademy.com/contest/archive/task/balanced-string/",
+  "platform": "csacademy"
+}

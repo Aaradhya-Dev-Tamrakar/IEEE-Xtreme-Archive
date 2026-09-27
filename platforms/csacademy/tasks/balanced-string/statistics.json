@@ -1,0 +1,150 @@
+{
+  "slug": "balanced-string",
+  "solvers_count": 104,
+  "tried_count": 173,
+  "solved_ratio": "60%",
+  "lowest_cpu": [
+    {
+      "job_id": "7545814",
+      "user": "N1tr0us_Acid",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7545814",
+      "text": "Job #7545814 26 Sep 2026 08:48:46 N1tr0us_Acid -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7545813",
+      "user": "N1tr0us_Acid",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7545813",
+      "text": "Job #7545813 26 Sep 2026 08:48:27 N1tr0us_Acid -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544937",
+      "user": "Daylighten",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544937",
+      "text": "Job #7544937 22 Sep 2026 19:04:34 Daylighten -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544936",
+      "user": "Daylighten",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544936",
+      "text": "Job #7544936 22 Sep 2026 19:04:16 Daylighten -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544828",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544828",
+      "text": "Job #7544828 22 Sep 2026 07:12:54 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544827",
+      "user": "zhanglewei4598",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544827",
+      "text": "Job #7544827 22 Sep 2026 07:12:07 zhanglewei4598 -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544727",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544727",
+      "text": "Job #7544727 21 Sep 2026 21:05:28 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544638",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544638",
+      "text": "Job #7544638 21 Sep 2026 17:35:37 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544636",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544636",
+      "text": "Job #7544636 21 Sep 2026 17:30:45 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544593",
+      "user": "Antares_qwq",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544593",
+      "text": "Job #7544593 21 Sep 2026 15:29:15 Antares_qwq -- Task Balanced String Archive -- 100 points"
+    }
+  ],
+  "lowest_memory": [
+    {
+      "job_id": "7544587",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544587",
+      "text": "Job #7544587 21 Sep 2026 14:29:00 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544493",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544493",
+      "text": "Job #7544493 21 Sep 2026 13:12:31 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544492",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544492",
+      "text": "Job #7544492 21 Sep 2026 13:12:15 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544467",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544467",
+      "text": "Job #7544467 21 Sep 2026 12:38:34 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544466",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544466",
+      "text": "Job #7544466 21 Sep 2026 12:38:18 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544254",
+      "user": "Guan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544254",
+      "text": "Job #7544254 21 Sep 2026 08:26:16 Yunchang Guan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544252",
+      "user": "chenmohan",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544252",
+      "text": "Job #7544252 21 Sep 2026 08:25:32 chenmohan -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544170",
+      "user": "ChennieLsTQL",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544170",
+      "text": "Job #7544170 21 Sep 2026 07:34:39 ChennieLsTQL -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544169",
+      "user": "ChennieLsTQL",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544169",
+      "text": "Job #7544169 21 Sep 2026 07:33:54 ChennieLsTQL -- Task Balanced String Archive -- 100 points"
+    },
+    {
+      "job_id": "7544166",
+      "user": "ChennieLsTQL",
+      "metric": "feed",
+      "submission_url": "https://csacademy.com/submission/7544166",
+      "text": "Job #7544166 21 Sep 2026 07:33:11 ChennieLsTQL -- Task Balanced String Archive -- 100 points"
+    }
+  ]
+}

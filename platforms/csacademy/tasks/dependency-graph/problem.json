@@ -1,0 +1,13 @@
+{
+  "slug": "dependency-graph",
+  "title": "Dependency Graph",
+  "contest": "Beta Round #8",
+  "difficulty": "HARD",
+  "time_limit": "2000 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 57,
+  "tried_count": 77,
+  "solved_ratio": "74%",
+  "url": "https://csacademy.com/contest/archive/task/dependency-graph/",
+  "platform": "csacademy"
+}

@@ -1,0 +1,12 @@
+{
+  "job_id": "136100",
+  "task_slug": "recursive_shuffle",
+  "user": "Ed_Os",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "63 ms",
+  "memory": "664 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/136100"
+}

@@ -1,0 +1,12 @@
+{
+  "job_id": "3744556",
+  "task_slug": "recursive_shuffle",
+  "user": "Storm",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "45 ms",
+  "memory": "648 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/3744556"
+}

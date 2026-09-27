@@ -1,0 +1,13 @@
+{
+  "slug": "subarray-medians",
+  "title": "Subarray Medians",
+  "contest": "Round #10",
+  "difficulty": "MEDIUM",
+  "time_limit": "1250 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 280,
+  "tried_count": 431,
+  "solved_ratio": "64%",
+  "url": "https://csacademy.com/contest/archive/task/subarray-medians/",
+  "platform": "csacademy"
+}

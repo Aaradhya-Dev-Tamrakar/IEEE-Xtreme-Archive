@@ -1,0 +1,13 @@
+{
+  "slug": "random_nim_generator",
+  "title": "Random Nim Generator",
+  "contest": "Round #11",
+  "difficulty": "HARD",
+  "time_limit": "3000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 311,
+  "tried_count": 340,
+  "solved_ratio": "91%",
+  "url": "https://csacademy.com/contest/archive/task/random_nim_generator/",
+  "platform": "csacademy"
+}

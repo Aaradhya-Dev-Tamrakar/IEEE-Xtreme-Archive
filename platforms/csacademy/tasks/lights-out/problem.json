@@ -1,0 +1,13 @@
+{
+  "slug": "lights-out",
+  "title": "Lights Out",
+  "contest": "IOI 2016 Training Round #5",
+  "difficulty": "MEDIUM",
+  "time_limit": "500 ms",
+  "memory_limit": "512 MB",
+  "solved_count": 152,
+  "tried_count": 178,
+  "solved_ratio": "85%",
+  "url": "https://csacademy.com/contest/archive/task/lights-out/",
+  "platform": "csacademy"
+}

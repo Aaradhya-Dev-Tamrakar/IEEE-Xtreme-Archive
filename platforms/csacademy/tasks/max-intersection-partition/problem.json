@@ -1,0 +1,13 @@
+{
+  "slug": "max-intersection-partition",
+  "title": "Max Intersection Partition",
+  "contest": "Round #11",
+  "difficulty": null,
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 94,
+  "tried_count": 113,
+  "solved_ratio": "83%",
+  "url": "https://csacademy.com/contest/archive/task/max-intersection-partition/",
+  "platform": "csacademy"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "telegraph",
+  "title": "Telegraph",
+  "contest": "IOI 2016 Training Round #3",
+  "difficulty": "HARD",
+  "time_limit": "1500 ms",
+  "memory_limit": "1 GB",
+  "solved_count": 95,
+  "tried_count": 154,
+  "solved_ratio": "61%",
+  "url": "https://csacademy.com/contest/archive/task/telegraph/",
+  "platform": "csacademy"
+}
