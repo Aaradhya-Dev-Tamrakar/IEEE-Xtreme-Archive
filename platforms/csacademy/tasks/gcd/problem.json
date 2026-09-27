@@ -4,5 +4,10 @@
   "time_limit": "500 ms",
   "memory_limit": "128 MB",
   "url": "https://csacademy.com/contest/archive/task/gcd/",
-  "platform": "csacademy"
+  "platform": "csacademy",
+  "contest": null,
+  "difficulty": "TUTORIAL",
+  "solved_count": 8124,
+  "tried_count": 10228,
+  "solved_ratio": "79%"
 }

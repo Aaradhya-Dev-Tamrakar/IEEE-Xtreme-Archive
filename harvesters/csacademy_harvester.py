@@ -161,6 +161,12 @@ class CSAcademyHarvester:
         logger.info(f"Successfully discovered and cataloged {len(tasks_data)} tasks with difficulty and contest metadata!")
         return tasks_data
 
+    def get_task_info(self, slug: str) -> Dict[str, Any]:
+        for t in self.tasks_index:
+            if t.get("slug") == slug:
+                return t
+        return {}
+
     async def harvest_statement(self, slug: str) -> bool:
         task_dir = TASKS_DIR / slug
         task_dir.mkdir(parents=True, exist_ok=True)
@@ -258,18 +264,23 @@ class CSAcademyHarvester:
         md_content += f"**Memory Limit:** `{memory_limit}`  \n"
         md_content += f"**Source:** [{url}]({url})  \n\n"
         md_content += "---\n\n"
-        # Deduplicate consecutive newlines
         cleaned_content = re.sub(r"\n{3,}", "\n\n", content)
         md_content += cleaned_content + "\n"
 
         with open(statement_file, "w", encoding="utf-8") as f:
             f.write(md_content)
 
+        task_info = self.get_task_info(slug)
         problem_metadata = {
             "slug": slug,
             "title": title,
+            "contest": task_info.get("contest"),
+            "difficulty": task_info.get("difficulty"),
             "time_limit": time_limit,
             "memory_limit": memory_limit,
+            "solved_count": task_info.get("solved_count"),
+            "tried_count": task_info.get("tried_count"),
+            "solved_ratio": task_info.get("solved_ratio"),
             "url": url,
             "platform": "csacademy",
         }
@@ -296,7 +307,7 @@ class CSAcademyHarvester:
 
         # Wait for submission links or tables to load asynchronously
         await self.cdp.wait_for_condition(
-            "document.querySelector('a[href*=\"/submission/\"]') !== null || document.body.innerText.includes('solvers')",
+            "document.querySelector('a[href*=\"/submission/\"]') !== null || document.body.innerText.includes('CPU Time')",
             max_wait=6.0,
         )
 
@@ -340,12 +351,7 @@ class CSAcademyHarvester:
                     }
                 }
                 
-                let pageText = document.body.innerText;
-                let solversMatch = pageText.match(/(\\d+)\\s+solvers/i) || pageText.match(/Solved by\\s+(\\d+)/i);
-                let solversCount = solversMatch ? parseInt(solversMatch[1], 10) : null;
-                
                 return {
-                    solvers_count: solversCount,
                     lowest_cpu: lowest_cpu,
                     lowest_memory: lowest_memory
                 };
@@ -356,7 +362,17 @@ class CSAcademyHarvester:
             logger.warning(f"Failed to extract statistics for {slug}")
             return False
 
-        save_json(stats_file, stats_data)
+        task_info = self.get_task_info(slug)
+        stats_payload = {
+            "slug": slug,
+            "solvers_count": task_info.get("solved_count"),
+            "tried_count": task_info.get("tried_count"),
+            "solved_ratio": task_info.get("solved_ratio"),
+            "lowest_cpu": stats_data.get("lowest_cpu", []),
+            "lowest_memory": stats_data.get("lowest_memory", []),
+        }
+
+        save_json(stats_file, stats_payload)
 
         # Queue jobs for archival
         new_jobs = 0

@@ -4,5 +4,10 @@
   "time_limit": "1000 ms",
   "memory_limit": "128 MB",
   "url": "https://csacademy.com/contest/archive/task/matrix_exploration/",
-  "platform": "csacademy"
+  "platform": "csacademy",
+  "contest": null,
+  "difficulty": "EASY",
+  "solved_count": 1719,
+  "tried_count": 2504,
+  "solved_ratio": "68%"
 }

@@ -1,5 +1,5 @@
 {
-  "solvers_count": null,
+  "solvers_count": 1198,
   "lowest_cpu": [
     {
       "job_id": "3786101",
@@ -123,5 +123,7 @@
       "metric": "752 KB",
       "submission_url": "https://csacademy.com/submission/187272"
     }
-  ]
+  ],
+  "tried_count": 1686,
+  "solved_ratio": "71%"
 }

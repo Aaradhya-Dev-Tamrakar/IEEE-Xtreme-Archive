@@ -4,5 +4,10 @@
   "time_limit": "500 ms",
   "memory_limit": "128 MB",
   "url": "https://csacademy.com/contest/archive/task/addition/",
-  "platform": "csacademy"
+  "platform": "csacademy",
+  "contest": null,
+  "difficulty": "TUTORIAL",
+  "solved_count": 13712,
+  "tried_count": 14479,
+  "solved_ratio": "94%"
 }

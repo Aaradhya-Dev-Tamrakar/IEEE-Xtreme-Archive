@@ -4,5 +4,10 @@
   "time_limit": "1000 ms",
   "memory_limit": "128 MB",
   "url": "https://csacademy.com/contest/archive/task/word_ordering/",
-  "platform": "csacademy"
+  "platform": "csacademy",
+  "contest": "Beta Round #1",
+  "difficulty": "EASY",
+  "solved_count": 1588,
+  "tried_count": 2222,
+  "solved_ratio": "71%"
 }
