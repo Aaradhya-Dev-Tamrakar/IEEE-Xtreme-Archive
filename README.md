@@ -14,6 +14,8 @@ Autonomous Competitive Programming corpus, structured problem statements with La
 | **Archived Optimal Solutions** | `532` | Un-truncated source files + test matrices |
 | **Active Platform** | `CS Academy` | Primary judge for PreXtreme & training contests |
 | **Harvester Engine** | `CDP Asynchronous Engine` | Headless WebSocket CDP attached to Chrome |
+| **Google Drive Archive** | [`IEEE-Xtreme-Archive`](https://drive.google.com/drive/folders/1Z2IAQ7Sf1pZWTn5EniiSBpuH7gLeaWLu) | Briefings subfolder: [`1DrXUosZl3...`](https://drive.google.com/drive/folders/1DrXUosZl3_Ihh8Ud2ZTW83aL6g7NA-iu) |
+| **NotebookLM Corpus** | [IEEE-Xtreme Algorithmic Corpus](https://notebooklm.google.com/notebook/071b19a5-960f-429c-91e4-384669bea974) | Grounded with 12 sources via `super-nlm` (`071b19a5...`) |
 
 ### Harvested Tasks Sample (30 Completed)
 
