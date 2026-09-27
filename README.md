@@ -111,6 +111,20 @@ Start-Process "C:\Program Files\Google\Chrome\Application\chrome.exe" -ArgumentL
 
 All runs are fully checkpointed in `ledger/archive_ledger.json` and can be safely interrupted and resumed at any time.
 
+### 3. Repository Synchronization (`sync.ps1`)
+
+All git operations are protected by the repository's dedicated `sync.ps1` synchronization engine:
+```powershell
+# Routine auto-sync with secret scanning & integrity check:
+.\sync.ps1
+
+# Semantic feature commit:
+.\sync.ps1 -m "feat(scope): detailed summary"
+
+# Safe pull only:
+.\sync.ps1 -PullOnly
+```
+
 ---
 
 ## 🧠 Dedicated Antigravity Skill (`cp-archive-harvester`)

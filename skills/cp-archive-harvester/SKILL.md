@@ -63,6 +63,12 @@ Iterates over all pending cataloged tasks continuously with automated ledger che
 python harvesters/csacademy_harvester.py
 ```
 
+### Mode E: Repository Synchronization (`sync.ps1`)
+All version control operations must run through `sync.ps1`:
+```powershell
+.\sync.ps1 -m "feat(scope): detailed summary"
+```
+
 ---
 
 ## 3. Corpus Storage Schema
