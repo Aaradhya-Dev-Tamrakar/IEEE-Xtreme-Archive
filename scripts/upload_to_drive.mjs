@@ -101,13 +101,25 @@ async function main() {
     console.log(`Done! (ID: ${res.id})`);
   }
 
-  // Also upload audit report and blueprint
+  // Also upload audit report
   const auditPath = path.join(ROOT_DIR, "audit", "corpus_audit.md");
   if (fs.existsSync(auditPath)) {
     const content = fs.readFileSync(auditPath, "utf-8");
     process.stdout.write(`Uploading corpus_audit.md... `);
     const res = await uploadFile("corpus_audit.md", content, TARGET_FOLDER_ID);
     console.log(`Done! (ID: ${res.id})`);
+  }
+
+  // Upload warehouse files
+  const warehouseFiles = ["corpus_warehouse.md", "index_map.md"];
+  for (const wf of warehouseFiles) {
+    const wfPath = path.join(ROOT_DIR, "warehouse", wf);
+    if (fs.existsSync(wfPath)) {
+      const content = fs.readFileSync(wfPath, "utf-8");
+      process.stdout.write(`Uploading warehouse/${wf} (${(content.length / 1024).toFixed(1)} KB)... `);
+      const res = await uploadFile(wf, content, TARGET_FOLDER_ID);
+      console.log(`Done! (ID: ${res.id})`);
+    }
   }
 
   console.log("\nAll files successfully uploaded to Google Drive!");
