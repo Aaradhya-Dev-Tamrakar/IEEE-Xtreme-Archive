@@ -9,13 +9,13 @@ Autonomous Competitive Programming corpus, structured problem statements with La
 | Metric | Count / Status | Notes |
 | :--- | :--- | :--- |
 | **Total Discovered Tasks** | `669` | Cataloged in [`ledger/tasks_index.json`](ledger/tasks_index.json) |
-| **Fully Archived Tasks** | `5` | Statements, limits, statistics & solutions |
-| **Pending Tasks** | `664` | In queue for autonomous harvesting |
-| **Archived 100-pt Solutions** | `97` | Un-truncated source files + test matrices |
+| **Fully Archived Tasks** | `30` | Statements, limits, statistics & solutions |
+| **Pending Tasks** | `639` | In queue for autonomous harvesting |
+| **Archived 100-pt Solutions** | `390` | Un-truncated source files + test matrices |
 | **Active Platform** | `CS Academy` | Primary judge for PreXtreme & training contests |
 | **Harvester Engine** | `CDP Asynchronous Engine` | Headless WebSocket CDP attached to Chrome |
 
-### Harvested Tasks Detail
+### Harvested Tasks Sample (30 Completed)
 
 | Task Slug | Task Title | Difficulty | Solved Ratio | Archived Solutions | Problem Statement |
 | :--- | :--- | :---: | :---: | :---: | :---: |
@@ -24,6 +24,10 @@ Autonomous Competitive Programming corpus, structured problem statements with La
 | `matrix_exploration` | Matrix Exploration | EASY | 68% (1719 / 2504) | 17 | [statement.md](platforms/csacademy/tasks/matrix_exploration/statement.md) |
 | `word_ordering` | Word Ordering (Beta Round #1) | EASY | 71% (1588 / 2222) | 20 | [statement.md](platforms/csacademy/tasks/word_ordering/statement.md) |
 | `sorting_partition` | Sorting Partition (Beta Round #1) | EASY | 71% (1198 / 1686) | 20 | [statement.md](platforms/csacademy/tasks/sorting_partition/statement.md) |
+| `swap_permutation` | Swap Permutation (Beta Round #1) | MEDIUM | 62% (581 / 923) | 20 | [statement.md](platforms/csacademy/tasks/swap_permutation/statement.md) |
+| `two_progressions` | Two Progressions (Beta Round #1) | HARD | 58% (167 / 286) | 20 | [statement.md](platforms/csacademy/tasks/two_progressions/statement.md) |
+| `online_xormax` | Online XOR Max | HARD | 37% (74 / 197) | 17 | [statement.md](platforms/csacademy/tasks/online_xormax/statement.md) |
+| *... and 22 more* | *(See `ledger/archive_ledger.json` for full list)* | — | — | — | — |
 
 ---
 

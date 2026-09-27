@@ -1,0 +1,12 @@
+{
+  "job_id": "1563778",
+  "task_slug": "a_game",
+  "user": "Alexandru Lungu",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "14 ms",
+  "memory": "656 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/1563778"
+}

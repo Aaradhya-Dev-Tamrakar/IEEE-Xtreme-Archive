@@ -1,0 +1,130 @@
+{
+  "slug": "number_elimination",
+  "solvers_count": 195,
+  "tried_count": 290,
+  "solved_ratio": "67%",
+  "lowest_cpu": [
+    {
+      "job_id": "4032526",
+      "user": "Zeeshan Asad",
+      "metric": "8 ms",
+      "submission_url": "https://csacademy.com/submission/4032526"
+    },
+    {
+      "job_id": "3836117",
+      "user": "CODIGO",
+      "metric": "10 ms",
+      "submission_url": "https://csacademy.com/submission/3836117"
+    },
+    {
+      "job_id": "3163258",
+      "user": "2qbingxuan",
+      "metric": "11 ms",
+      "submission_url": "https://csacademy.com/submission/3163258"
+    },
+    {
+      "job_id": "4032539",
+      "user": "lmqzzz",
+      "metric": "11 ms",
+      "submission_url": "https://csacademy.com/submission/4032539"
+    },
+    {
+      "job_id": "3286635",
+      "user": "SvitChallengers",
+      "metric": "11 ms",
+      "submission_url": "https://csacademy.com/submission/3286635"
+    },
+    {
+      "job_id": "3557657",
+      "user": "harryzhr",
+      "metric": "12 ms",
+      "submission_url": "https://csacademy.com/submission/3557657"
+    },
+    {
+      "job_id": "4853701",
+      "user": "Createch",
+      "metric": "12 ms",
+      "submission_url": "https://csacademy.com/submission/4853701"
+    },
+    {
+      "job_id": "4803122",
+      "user": "BJUTa",
+      "metric": "13 ms",
+      "submission_url": "https://csacademy.com/submission/4803122"
+    },
+    {
+      "job_id": "5042030",
+      "user": "tensortitans",
+      "metric": "13 ms",
+      "submission_url": "https://csacademy.com/submission/5042030"
+    },
+    {
+      "job_id": "5827381",
+      "user": "Ahmadyaseen",
+      "metric": "13 ms",
+      "submission_url": "https://csacademy.com/submission/5827381"
+    }
+  ],
+  "lowest_memory": [
+    {
+      "job_id": "1155445",
+      "user": "wwwwodddd",
+      "metric": "1136 KB",
+      "submission_url": "https://csacademy.com/submission/1155445"
+    },
+    {
+      "job_id": "1649202",
+      "user": "Magolor",
+      "metric": "1144 KB",
+      "submission_url": "https://csacademy.com/submission/1649202"
+    },
+    {
+      "job_id": "6093247",
+      "user": "kaiboy",
+      "metric": "1192 KB",
+      "submission_url": "https://csacademy.com/submission/6093247"
+    },
+    {
+      "job_id": "3807383",
+      "user": "CodingBuddies",
+      "metric": "1384 KB",
+      "submission_url": "https://csacademy.com/submission/3807383"
+    },
+    {
+      "job_id": "3962169",
+      "user": "Athul George",
+      "metric": "1408 KB",
+      "submission_url": "https://csacademy.com/submission/3962169"
+    },
+    {
+      "job_id": "3557610",
+      "user": "cyf",
+      "metric": "1436 KB",
+      "submission_url": "https://csacademy.com/submission/3557610"
+    },
+    {
+      "job_id": "3873231",
+      "user": "Multipartite",
+      "metric": "1440 KB",
+      "submission_url": "https://csacademy.com/submission/3873231"
+    },
+    {
+      "job_id": "4733686",
+      "user": "atodo",
+      "metric": "1444 KB",
+      "submission_url": "https://csacademy.com/submission/4733686"
+    },
+    {
+      "job_id": "3556739",
+      "user": "syl123456",
+      "metric": "1512 KB",
+      "submission_url": "https://csacademy.com/submission/3556739"
+    },
+    {
+      "job_id": "191231",
+      "user": "marX",
+      "metric": "1516 KB",
+      "submission_url": "https://csacademy.com/submission/191231"
+    }
+  ]
+}

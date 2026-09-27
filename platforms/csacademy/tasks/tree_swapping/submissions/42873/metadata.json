@@ -1,0 +1,12 @@
+{
+  "job_id": "42873",
+  "task_slug": "tree_swapping",
+  "user": "zarandy",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "978 ms",
+  "memory": "10.1 MB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/42873"
+}

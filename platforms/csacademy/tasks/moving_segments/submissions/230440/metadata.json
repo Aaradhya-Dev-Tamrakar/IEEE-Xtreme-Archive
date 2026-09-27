@@ -1,0 +1,12 @@
+{
+  "job_id": "230440",
+  "task_slug": "moving_segments",
+  "user": "ElBatanony",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "202 ms",
+  "memory": "1128 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/230440"
+}

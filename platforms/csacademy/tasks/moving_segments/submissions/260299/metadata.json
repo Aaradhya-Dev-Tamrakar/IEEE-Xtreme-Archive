@@ -1,0 +1,12 @@
+{
+  "job_id": "260299",
+  "task_slug": "moving_segments",
+  "user": "arknave",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "135 ms",
+  "memory": "1124 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/260299"
+}

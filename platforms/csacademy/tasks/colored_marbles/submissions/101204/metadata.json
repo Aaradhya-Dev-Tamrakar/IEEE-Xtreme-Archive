@@ -1,0 +1,12 @@
+{
+  "job_id": "101204",
+  "task_slug": "colored_marbles",
+  "user": "alderz",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "21 ms",
+  "memory": "712 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/101204"
+}

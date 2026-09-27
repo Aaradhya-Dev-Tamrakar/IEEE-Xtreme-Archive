@@ -1,0 +1,12 @@
+{
+  "job_id": "15861",
+  "task_slug": "minmax_subarray",
+  "user": "livia",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "1 ms",
+  "memory": "1320 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/15861"
+}

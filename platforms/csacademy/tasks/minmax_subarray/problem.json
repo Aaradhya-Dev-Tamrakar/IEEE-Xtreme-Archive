@@ -1,0 +1,13 @@
+{
+  "slug": "minmax_subarray",
+  "title": "MinMax Subarray",
+  "contest": "Beta Round #3",
+  "difficulty": "EASY",
+  "time_limit": "1000 ms",
+  "memory_limit": "128 MB",
+  "solved_count": 1222,
+  "tried_count": 1374,
+  "solved_ratio": "88%",
+  "url": "https://csacademy.com/contest/archive/task/minmax_subarray/",
+  "platform": "csacademy"
+}

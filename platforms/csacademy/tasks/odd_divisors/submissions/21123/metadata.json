@@ -1,0 +1,12 @@
+{
+  "job_id": "21123",
+  "task_slug": "odd_divisors",
+  "user": "waterfalls",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "51 ms",
+  "memory": "1504 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/21123"
+}

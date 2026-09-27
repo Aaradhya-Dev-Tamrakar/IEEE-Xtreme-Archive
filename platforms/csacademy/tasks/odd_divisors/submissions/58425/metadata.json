@@ -1,0 +1,12 @@
+{
+  "job_id": "58425",
+  "task_slug": "odd_divisors",
+  "user": "GoogleBot",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "67 ms",
+  "memory": "1320 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/58425"
+}

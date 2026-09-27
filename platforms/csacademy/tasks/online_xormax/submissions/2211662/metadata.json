@@ -1,0 +1,12 @@
+{
+  "job_id": "2211662",
+  "task_slug": "online_xormax",
+  "user": "totorato",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "970 ms",
+  "memory": "40.5 MB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/2211662"
+}

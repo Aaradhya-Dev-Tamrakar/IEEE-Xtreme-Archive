@@ -1,0 +1,12 @@
+{
+  "job_id": "3178480",
+  "task_slug": "online_gcd",
+  "user": "NanUni008",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "32 ms",
+  "memory": "1164 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/3178480"
+}

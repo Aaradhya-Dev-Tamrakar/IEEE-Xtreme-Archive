@@ -1,0 +1,12 @@
+{
+  "job_id": "321820",
+  "task_slug": "moving_segments",
+  "user": "saeed_odak",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "92 ms",
+  "memory": "1144 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/321820"
+}

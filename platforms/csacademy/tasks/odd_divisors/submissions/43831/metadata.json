@@ -1,0 +1,12 @@
+{
+  "job_id": "43831",
+  "task_slug": "odd_divisors",
+  "user": "suchir",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "87 ms",
+  "memory": "1320 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/43831"
+}

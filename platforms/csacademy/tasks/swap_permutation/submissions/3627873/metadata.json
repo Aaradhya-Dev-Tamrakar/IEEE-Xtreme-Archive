@@ -1,0 +1,12 @@
+{
+  "job_id": "3627873",
+  "task_slug": "swap_permutation",
+  "user": "Giorgos Bambanis",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "60 ms",
+  "memory": "1100 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/3627873"
+}

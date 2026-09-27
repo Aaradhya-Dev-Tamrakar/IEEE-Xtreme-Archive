@@ -1,0 +1,38 @@
+[
+  {
+    "test_number": "5",
+    "cpu_usage": "29 ms",
+    "memory_usage": "1140 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "4",
+    "cpu_usage": "18 ms",
+    "memory_usage": "1204 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "3",
+    "cpu_usage": "3 ms",
+    "memory_usage": "1204 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "2",
+    "cpu_usage": "1 ms",
+    "memory_usage": "1256 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "1",
+    "cpu_usage": "0 ms",
+    "memory_usage": "1220 KB",
+    "result": "OK"
+  },
+  {
+    "test_number": "0",
+    "cpu_usage": "1 ms",
+    "memory_usage": "1200 KB",
+    "result": "OK"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "job_id": "21603",
+  "task_slug": "odd_divisors",
+  "user": "theo",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "29 ms",
+  "memory": "1256 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/21603"
+}

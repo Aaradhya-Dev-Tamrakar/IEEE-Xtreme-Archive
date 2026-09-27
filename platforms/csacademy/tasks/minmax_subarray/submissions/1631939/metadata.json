@@ -1,0 +1,12 @@
+{
+  "job_id": "1631939",
+  "task_slug": "minmax_subarray",
+  "user": "Tiramister",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "9 ms",
+  "memory": "648 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/1631939"
+}

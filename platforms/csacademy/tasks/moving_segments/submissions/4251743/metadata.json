@@ -1,0 +1,12 @@
+{
+  "job_id": "4251743",
+  "task_slug": "moving_segments",
+  "user": "SMD",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "25 ms",
+  "memory": "1964 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/4251743"
+}

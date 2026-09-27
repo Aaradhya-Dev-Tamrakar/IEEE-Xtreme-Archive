@@ -1,0 +1,12 @@
+{
+  "job_id": "186876",
+  "task_slug": "swap_permutation",
+  "user": "lukomskiy",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "82 ms",
+  "memory": "772 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/186876"
+}

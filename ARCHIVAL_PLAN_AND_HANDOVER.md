@@ -2,11 +2,11 @@
 
 **ID:** `SPEC-CP-ARCHIVE-001`  
 **Date:** 2026-09-27  
-**Status:** In Progress / Harvester Operational (Batch 1 Complete)  
+**Status:** In Progress / Harvester Operational (Batch 2 Complete)  
 **Authors:** Aaradhya Dev Tamrakar, Antigravity Agent  
 **Target Repository:** `F:\Aaradhya-Dev-Tamrakar\IEEE-Xtreme-Archive`  
 **Remote Origin:** [https://github.com/Aaradhya-Dev-Tamrakar/IEEE-Xtreme-Archive](https://github.com/Aaradhya-Dev-Tamrakar/IEEE-Xtreme-Archive)  
-**Live Progress:** 669 tasks cataloged, 5 tasks fully harvested, 97 optimal 100-pt solutions archived.
+**Live Progress:** 669 tasks cataloged, 30 tasks fully harvested, 390 optimal 100-pt solutions archived.
 
 ---
 
@@ -138,5 +138,6 @@ Start-Process "C:\Program Files\Google\Chrome\Application\chrome.exe" -ArgumentL
 | **2026-09-27** | CDP Engine & Harvester Engine | Implementation | `cdp_engine.py` & `csacademy_harvester.py` operational | `8237539` |
 | **2026-09-27** | Master Catalog Discovery | Phase 1 (All Tasks) | 669 tasks cataloged with difficulty, ratio, contest info | `8237539` |
 | **2026-09-27** | Batch 1 Harvesting | 5 tasks, 97 solutions | 100% success rate: statements, math, code, test matrices | `8237539` |
-| **2026-09-27** | Dedicated Skill & Metadata Enrichment | Skill Definition | Created `cp-archive-harvester` skill globally & in-repo, enriched metadata | *(Pending commit)* |
+| **2026-09-27** | Dedicated Skill & Metadata Enrichment | Skill Definition | Created `cp-archive-harvester` skill globally & in-repo, enriched metadata | `b6624fe` |
+| **2026-09-27** | Automation & Batch 2 Harvest | 30 tasks, 390 solutions | Dedicated `sync.ps1` operational; 30 tasks completely archived | *(Pending sync)* |
 

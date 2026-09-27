@@ -1,0 +1,12 @@
+{
+  "job_id": "222451",
+  "task_slug": "moving_segments",
+  "user": "KrK",
+  "verdict": "Accepted",
+  "language": "C++",
+  "cpu_time": "85 ms",
+  "memory": "1136 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/222451"
+}

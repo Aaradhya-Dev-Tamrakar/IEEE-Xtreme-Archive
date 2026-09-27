@@ -1,0 +1,12 @@
+{
+  "job_id": "2116319",
+  "task_slug": "online_xormax",
+  "user": "littleming",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "1294 ms",
+  "memory": "39.4 MB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/2116319"
+}
