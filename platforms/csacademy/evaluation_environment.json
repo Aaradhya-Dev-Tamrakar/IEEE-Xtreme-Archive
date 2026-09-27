@@ -1,0 +1,48 @@
+{
+  "judge_os": "Ubuntu 25.04 x64",
+  "multithreading_enabled": true,
+  "last_updated": "2025-09-12",
+  "version": "Nitrogen",
+  "compilers": {
+    "cpp": {
+      "language": "C++",
+      "compiler": "g++ 15.2.0",
+      "flags": "-std=c++23 -static -O2 -pthread -Wall -Wno-unused-result -DCS_ACADEMY -DONLINE_JUDGE",
+      "available_libraries": [
+        "Boost 1.90",
+        "Eigen 3.4.0 (<Eigen/Dense>)",
+        "AC Library (<atcoder/all>)",
+        "GMP 6.3.0",
+        "MPFR 4.2.2",
+        "zlib",
+        "bzip2",
+        "liblzma",
+        "zstd"
+      ]
+    },
+    "c": {
+      "language": "C",
+      "compiler": "gcc 15.2.0",
+      "flags": "-std=gnu23 -static -O2 -pthread -Wall -Wno-unused-result -DCS_ACADEMY -DONLINE_JUDGE",
+      "available_libraries": ["GMP 6.3.0", "MPFR 4.2.2", "zlib", "bzip2", "liblzma", "zstd"]
+    },
+    "python3": {
+      "language": "Python 3",
+      "version": "Python 3.13.3",
+      "modules": ["numpy", "scipy"]
+    },
+    "pypy3": {
+      "language": "PyPy 3",
+      "version": "Python 3.11.11, PyPy 7.9.13"
+    },
+    "java": {
+      "language": "Java",
+      "compiler": "OpenJDK Java 21",
+      "flags": "java -XX:+UseSerialGC -XX:-UsePerfData -XX:CICompilerCount=2 -Xmx4g -Xss256m -DONLINE_JUDGE -DCS_ACADEMY Main"
+    },
+    "rust": {
+      "language": "Rust",
+      "version": "rustc 1.71.1"
+    }
+  }
+}
