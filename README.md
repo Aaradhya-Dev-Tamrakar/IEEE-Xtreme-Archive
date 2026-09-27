@@ -37,13 +37,26 @@ Autonomous Competitive Programming corpus, structured problem statements with La
 IEEE-Xtreme-Archive/
 ├── ARCHIVAL_PLAN_AND_HANDOVER.md       # Master architectural blueprint & execution specs
 ├── README.md                           # Live status dashboard & usage instructions
+├── audit/                              # Quality audits & formal verification
+│   └── corpus_audit.md                 # Adversarial audit report (99.85% health score)
+├── briefings/                          # Algorithmic archetypes & NotebookLM study guides
+│   ├── catalog.md                      # Master catalog of 669 tasks across 10 archetypes
+│   └── 01_dynamic_programming.md ...   # Topic guides (DP, Graphs, Trees, Range Queries, etc.)
+├── cli/                                # Offline practice and auto-testing runner
+│   ├── solve.py                        # Interactive CLI (list, pick, test against sample I/O)
+│   └── README.md                       # CLI documentation and guide
+├── datasets/                           # Machine learning instruction-tuning datasets
+│   └── cp_instruction_dataset.jsonl    # Dual Alpaca/ShareGPT dataset (474 optimal pairs)
 ├── harvesters/                         # Autonomous extraction & CDP scraping engines
 │   ├── cdp_engine.py                   # Async Chrome DevTools Protocol (CDP) client
 │   └── csacademy_harvester.py          # CS Academy pipeline runner & solution archiver
 ├── ledger/                             # Resumable checkpoint ledgers & task discovery indexes
 │   ├── tasks_index.json                # Master index of all 669 discovered tasks
 │   ├── jobs_queue.json                 # Pending & archived solution job queue
-│   └── archive_ledger.json             # Execution checkpoint ledger
+│   ├── archive_ledger.json             # Execution checkpoint ledger
+│   └── corpus.db                       # Sub-millisecond SQLite database with FTS5 search
+├── scripts/                            # Dataset and database generation pipelines
+│   └── generate_datasets.py            # High-speed ETL script (0.438s build time)
 ├── skills/
 │   └── cp-archive-harvester/
 │       └── SKILL.md                    # Dedicated Antigravity skill handbook
@@ -51,13 +64,13 @@ IEEE-Xtreme-Archive/
     └── csacademy/
         ├── evaluation_environment.json # Ubuntu 25.04 & compiler runtime specifications
         └── tasks/
-            └── <task_slug>/            # e.g., addition, gcd, sorting_partition
+            └── <task_slug>/            # 662 archived tasks (addition, gcd, etc.)
                 ├── problem.json        # Limits, score type, metadata
                 ├── statement.md        # Full Markdown statement with LaTeX math & I/O tables
                 ├── statistics.json     # Solvers count, top CPU & memory solutions
                 └── submissions/
                     ├── index.json      # Registry of all optimal solutions for this task
-                    └── <job_id>/       # e.g., 53192
+                    └── <job_id>/       # 532 optimal solutions
                         ├── metadata.json # Author, verdict, runtime, memory, language
                         ├── solution.<ext># Pristine un-truncated source code (cpp, py, java)
                         └── results.json  # Granular per-test-case verification matrix
