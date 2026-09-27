@@ -1,0 +1,12 @@
+{
+  "job_id": "1688779",
+  "task_slug": "gcd",
+  "user": "cbl_toan",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "9 ms",
+  "memory": "632 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/1688779"
+}

@@ -1,0 +1,12 @@
+{
+  "job_id": "1520375",
+  "task_slug": "gcd",
+  "user": "medias",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "9 ms",
+  "memory": "632 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/1520375"
+}

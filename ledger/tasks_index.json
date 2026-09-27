@@ -1,0 +1,6692 @@
+[
+  {
+    "slug": "addition",
+    "title": "Addition",
+    "contest": null,
+    "difficulty": "TUTORIAL",
+    "solved_ratio": "94%",
+    "solved_count": 13712,
+    "tried_count": 14479,
+    "url": "https://csacademy.com/contest/archive/task/addition/"
+  },
+  {
+    "slug": "gcd",
+    "title": "Greatest Common Divisor",
+    "contest": null,
+    "difficulty": "TUTORIAL",
+    "solved_ratio": "79%",
+    "solved_count": 8124,
+    "tried_count": 10228,
+    "url": "https://csacademy.com/contest/archive/task/gcd/"
+  },
+  {
+    "slug": "matrix_exploration",
+    "title": "Matrix Exploration",
+    "contest": null,
+    "difficulty": "EASY",
+    "solved_ratio": "68%",
+    "solved_count": 1719,
+    "tried_count": 2504,
+    "url": "https://csacademy.com/contest/archive/task/matrix_exploration/"
+  },
+  {
+    "slug": "word_ordering",
+    "title": "Word Ordering",
+    "contest": "Beta Round #1",
+    "difficulty": "EASY",
+    "solved_ratio": "71%",
+    "solved_count": 1588,
+    "tried_count": 2222,
+    "url": "https://csacademy.com/contest/archive/task/word_ordering/"
+  },
+  {
+    "slug": "sorting_partition",
+    "title": "Sorting Partition",
+    "contest": "Beta Round #1",
+    "difficulty": "EASY",
+    "solved_ratio": "71%",
+    "solved_count": 1198,
+    "tried_count": 1686,
+    "url": "https://csacademy.com/contest/archive/task/sorting_partition/"
+  },
+  {
+    "slug": "unfair_game",
+    "title": "Unfair Game",
+    "contest": "Beta Round #1",
+    "difficulty": "EASY",
+    "solved_ratio": "65%",
+    "solved_count": 1071,
+    "tried_count": 1629,
+    "url": "https://csacademy.com/contest/archive/task/unfair_game/"
+  },
+  {
+    "slug": "swap_permutation",
+    "title": "Swap Permutation",
+    "contest": "Beta Round #1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "62%",
+    "solved_count": 581,
+    "tried_count": 923,
+    "url": "https://csacademy.com/contest/archive/task/swap_permutation/"
+  },
+  {
+    "slug": "colored_marbles",
+    "title": "Colored Marbles",
+    "contest": "Beta Round #1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "50%",
+    "solved_count": 295,
+    "tried_count": 582,
+    "url": "https://csacademy.com/contest/archive/task/colored_marbles/"
+  },
+  {
+    "slug": "platforms",
+    "title": "Platforms",
+    "contest": "Beta Round #1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "60%",
+    "solved_count": 305,
+    "tried_count": 504,
+    "url": "https://csacademy.com/contest/archive/task/platforms/"
+  },
+  {
+    "slug": "two_progressions",
+    "title": "Two Progressions",
+    "contest": "Beta Round #1",
+    "difficulty": "HARD",
+    "solved_ratio": "58%",
+    "solved_count": 167,
+    "tried_count": 286,
+    "url": "https://csacademy.com/contest/archive/task/two_progressions/"
+  },
+  {
+    "slug": "number_elimination",
+    "title": "Number Elimination",
+    "contest": "Beta Round #1",
+    "difficulty": "HARD",
+    "solved_ratio": "67%",
+    "solved_count": 195,
+    "tried_count": 290,
+    "url": "https://csacademy.com/contest/archive/task/number_elimination/"
+  },
+  {
+    "slug": "word_permutation",
+    "title": "Word Permutation",
+    "contest": "Beta Round #2",
+    "difficulty": "EASY",
+    "solved_ratio": "81%",
+    "solved_count": 2377,
+    "tried_count": 2902,
+    "url": "https://csacademy.com/contest/archive/task/word_permutation/"
+  },
+  {
+    "slug": "online_gcd",
+    "title": "Online Gcd",
+    "contest": "Beta Round #2",
+    "difficulty": "EASY",
+    "solved_ratio": "80%",
+    "solved_count": 1153,
+    "tried_count": 1433,
+    "url": "https://csacademy.com/contest/archive/task/online_gcd/"
+  },
+  {
+    "slug": "circular_subarrays",
+    "title": "Circular Subarrays",
+    "contest": "Beta Round #2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "78%",
+    "solved_count": 483,
+    "tried_count": 613,
+    "url": "https://csacademy.com/contest/archive/task/circular_subarrays/"
+  },
+  {
+    "slug": "lightbulbs",
+    "title": "Lightbulbs",
+    "contest": "Beta Round #2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "79%",
+    "solved_count": 569,
+    "tried_count": 717,
+    "url": "https://csacademy.com/contest/archive/task/lightbulbs/"
+  },
+  {
+    "slug": "matrix_coloring",
+    "title": "Matrix Coloring",
+    "contest": "Beta Round #2",
+    "difficulty": "HARD",
+    "solved_ratio": "57%",
+    "solved_count": 161,
+    "tried_count": 282,
+    "url": "https://csacademy.com/contest/archive/task/matrix_coloring/"
+  },
+  {
+    "slug": "tree_game",
+    "title": "Tree Game",
+    "contest": "Beta Round #2",
+    "difficulty": "HARD",
+    "solved_ratio": "62%",
+    "solved_count": 144,
+    "tried_count": 229,
+    "url": "https://csacademy.com/contest/archive/task/tree_game/"
+  },
+  {
+    "slug": "minmax_subarray",
+    "title": "MinMax Subarray",
+    "contest": "Beta Round #3",
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 1222,
+    "tried_count": 1374,
+    "url": "https://csacademy.com/contest/archive/task/minmax_subarray/"
+  },
+  {
+    "slug": "divisor_clique",
+    "title": "Divisor Clique",
+    "contest": "Beta Round #3",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 1596,
+    "tried_count": 1738,
+    "url": "https://csacademy.com/contest/archive/task/divisor_clique/"
+  },
+  {
+    "slug": "moving_segments",
+    "title": "Moving Segments",
+    "contest": "Beta Round #3",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 467,
+    "tried_count": 570,
+    "url": "https://csacademy.com/contest/archive/task/moving_segments/"
+  },
+  {
+    "slug": "a_game",
+    "title": "A-Game",
+    "contest": "Beta Round #3",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "79%",
+    "solved_count": 461,
+    "tried_count": 583,
+    "url": "https://csacademy.com/contest/archive/task/a_game/"
+  },
+  {
+    "slug": "tree_swapping",
+    "title": "Tree Swapping",
+    "contest": "Beta Round #3",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "76%",
+    "solved_count": 230,
+    "tried_count": 302,
+    "url": "https://csacademy.com/contest/archive/task/tree_swapping/"
+  },
+  {
+    "slug": "anagrams",
+    "title": "Anagrams",
+    "contest": "Beta Round #4",
+    "difficulty": "EASY",
+    "solved_ratio": "80%",
+    "solved_count": 4038,
+    "tried_count": 4993,
+    "url": "https://csacademy.com/contest/archive/task/anagrams/"
+  },
+  {
+    "slug": "odd_divisors",
+    "title": "Odd Divisors",
+    "contest": "Beta Round #4",
+    "difficulty": "EASY",
+    "solved_ratio": "60%",
+    "solved_count": 1179,
+    "tried_count": 1943,
+    "url": "https://csacademy.com/contest/archive/task/odd_divisors/"
+  },
+  {
+    "slug": "swap_pairing",
+    "title": "Swap Pairing",
+    "contest": "Beta Round #4",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "78%",
+    "solved_count": 427,
+    "tried_count": 546,
+    "url": "https://csacademy.com/contest/archive/task/swap_pairing/"
+  },
+  {
+    "slug": "library_book",
+    "title": "Library Book",
+    "contest": "Beta Round #4",
+    "difficulty": "HARD",
+    "solved_ratio": "71%",
+    "solved_count": 130,
+    "tried_count": 183,
+    "url": "https://csacademy.com/contest/archive/task/library_book/"
+  },
+  {
+    "slug": "online_xormax",
+    "title": "Online XorMax",
+    "contest": "Beta Round #4",
+    "difficulty": "HARD",
+    "solved_ratio": "74%",
+    "solved_count": 155,
+    "tried_count": 207,
+    "url": "https://csacademy.com/contest/archive/task/online_xormax/"
+  },
+  {
+    "slug": "soldiers",
+    "title": "Soldiers",
+    "contest": "Beta Round #4",
+    "difficulty": null,
+    "solved_ratio": "51%",
+    "solved_count": 66,
+    "tried_count": 127,
+    "url": "https://csacademy.com/contest/archive/task/soldiers/"
+  },
+  {
+    "slug": "matrix_rotations",
+    "title": "Matrix Rotations",
+    "contest": "Beta Round #5",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 1583,
+    "tried_count": 1737,
+    "url": "https://csacademy.com/contest/archive/task/matrix_rotations/"
+  },
+  {
+    "slug": "long_journey",
+    "title": "Long Journey",
+    "contest": "Beta Round #5",
+    "difficulty": "EASY",
+    "solved_ratio": "83%",
+    "solved_count": 621,
+    "tried_count": 740,
+    "url": "https://csacademy.com/contest/archive/task/long_journey/"
+  },
+  {
+    "slug": "recursive_shuffle",
+    "title": "Recursive Shuffle",
+    "contest": "Beta Round #5",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "76%",
+    "solved_count": 244,
+    "tried_count": 317,
+    "url": "https://csacademy.com/contest/archive/task/recursive_shuffle/"
+  },
+  {
+    "slug": "force_graph",
+    "title": "Force Graph",
+    "contest": "Beta Round #5",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "85%",
+    "solved_count": 204,
+    "tried_count": 239,
+    "url": "https://csacademy.com/contest/archive/task/force_graph/"
+  },
+  {
+    "slug": "binary_matching",
+    "title": "Binary Matching",
+    "contest": "Beta Round #5",
+    "difficulty": "HARD",
+    "solved_ratio": "73%",
+    "solved_count": 106,
+    "tried_count": 145,
+    "url": "https://csacademy.com/contest/archive/task/binary_matching/"
+  },
+  {
+    "slug": "cycle_tree",
+    "title": "Cycle Tree",
+    "contest": "Beta Round #5",
+    "difficulty": null,
+    "solved_ratio": "63%",
+    "solved_count": 65,
+    "tried_count": 102,
+    "url": "https://csacademy.com/contest/archive/task/cycle_tree/"
+  },
+  {
+    "slug": "similar_words",
+    "title": "Similar Words",
+    "contest": "Beta Round #6",
+    "difficulty": "EASY",
+    "solved_ratio": "79%",
+    "solved_count": 539,
+    "tried_count": 682,
+    "url": "https://csacademy.com/contest/archive/task/similar_words/"
+  },
+  {
+    "slug": "dominoes",
+    "title": "Dominoes",
+    "contest": "Beta Round #6",
+    "difficulty": "EASY",
+    "solved_ratio": "80%",
+    "solved_count": 1030,
+    "tried_count": 1277,
+    "url": "https://csacademy.com/contest/archive/task/dominoes/"
+  },
+  {
+    "slug": "exponential_game",
+    "title": "Exponential Game",
+    "contest": "Beta Round #6",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 287,
+    "tried_count": 354,
+    "url": "https://csacademy.com/contest/archive/task/exponential_game/"
+  },
+  {
+    "slug": "perm_matrix",
+    "title": "Perm Matrix",
+    "contest": "Beta Round #6",
+    "difficulty": "HARD",
+    "solved_ratio": "59%",
+    "solved_count": 110,
+    "tried_count": 185,
+    "url": "https://csacademy.com/contest/archive/task/perm_matrix/"
+  },
+  {
+    "slug": "lis_generator",
+    "title": "LIS Generator",
+    "contest": "Beta Round #6",
+    "difficulty": "HARD",
+    "solved_ratio": "75%",
+    "solved_count": 162,
+    "tried_count": 215,
+    "url": "https://csacademy.com/contest/archive/task/lis_generator/"
+  },
+  {
+    "slug": "xor_cycle",
+    "title": "Xor Cycle",
+    "contest": "Beta Round #6",
+    "difficulty": "HARD",
+    "solved_ratio": "89%",
+    "solved_count": 222,
+    "tried_count": 249,
+    "url": "https://csacademy.com/contest/archive/task/xor_cycle/"
+  },
+  {
+    "slug": "hallway",
+    "title": "Hallway",
+    "contest": "IOI 2016 Training Round #1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "71%",
+    "solved_count": 164,
+    "tried_count": 228,
+    "url": "https://csacademy.com/contest/archive/task/hallway/"
+  },
+  {
+    "slug": "polygon_partition",
+    "title": "Polygon Partition",
+    "contest": "IOI 2016 Training Round #1",
+    "difficulty": "HARD",
+    "solved_ratio": "81%",
+    "solved_count": 147,
+    "tried_count": 180,
+    "url": "https://csacademy.com/contest/archive/task/polygon_partition/"
+  },
+  {
+    "slug": "farey_sequence",
+    "title": "Farey Sequence",
+    "contest": "IOI 2016 Training Round #1",
+    "difficulty": "HARD",
+    "solved_ratio": "63%",
+    "solved_count": 136,
+    "tried_count": 214,
+    "url": "https://csacademy.com/contest/archive/task/farey_sequence/"
+  },
+  {
+    "slug": "one_letter",
+    "title": "One Letter",
+    "contest": "Beta Round #7",
+    "difficulty": "EASY",
+    "solved_ratio": "84%",
+    "solved_count": 2754,
+    "tried_count": 3272,
+    "url": "https://csacademy.com/contest/archive/task/one_letter/"
+  },
+  {
+    "slug": "subarray_removal",
+    "title": "Subarray Removal",
+    "contest": "Beta Round #7",
+    "difficulty": "EASY",
+    "solved_ratio": "66%",
+    "solved_count": 395,
+    "tried_count": 597,
+    "url": "https://csacademy.com/contest/archive/task/subarray_removal/"
+  },
+  {
+    "slug": "partial_ladder_graph",
+    "title": "Partial Ladder Graph",
+    "contest": "Beta Round #7",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 254,
+    "tried_count": 287,
+    "url": "https://csacademy.com/contest/archive/task/partial_ladder_graph/"
+  },
+  {
+    "slug": "array_coloring",
+    "title": "Array Coloring",
+    "contest": "Beta Round #7",
+    "difficulty": "HARD",
+    "solved_ratio": "85%",
+    "solved_count": 201,
+    "tried_count": 236,
+    "url": "https://csacademy.com/contest/archive/task/array_coloring/"
+  },
+  {
+    "slug": "distinct_neighbours",
+    "title": "Distinct Neighbours",
+    "contest": "Beta Round #7",
+    "difficulty": "HARD",
+    "solved_ratio": "88%",
+    "solved_count": 221,
+    "tried_count": 251,
+    "url": "https://csacademy.com/contest/archive/task/distinct_neighbours/"
+  },
+  {
+    "slug": "circular_shift_sort",
+    "title": "Circular Shift Sort",
+    "contest": "Beta Round #7",
+    "difficulty": null,
+    "solved_ratio": "64%",
+    "solved_count": 57,
+    "tried_count": 89,
+    "url": "https://csacademy.com/contest/archive/task/circular_shift_sort/"
+  },
+  {
+    "slug": "increasing_subarrays",
+    "title": "Increasing Subarrays",
+    "contest": "IOI 2016 Training Round #2",
+    "difficulty": "HARD",
+    "solved_ratio": "72%",
+    "solved_count": 210,
+    "tried_count": 289,
+    "url": "https://csacademy.com/contest/archive/task/increasing_subarrays/"
+  },
+  {
+    "slug": "cograph_clique",
+    "title": "Cograph Clique",
+    "contest": "IOI 2016 Training Round #2",
+    "difficulty": "HARD",
+    "solved_ratio": "81%",
+    "solved_count": 99,
+    "tried_count": 122,
+    "url": "https://csacademy.com/contest/archive/task/cograph_clique/"
+  },
+  {
+    "slug": "points_in_polygon",
+    "title": "Points in Polygon",
+    "contest": "IOI 2016 Training Round #2",
+    "difficulty": "HARD",
+    "solved_ratio": "41%",
+    "solved_count": 63,
+    "tried_count": 152,
+    "url": "https://csacademy.com/contest/archive/task/points_in_polygon/"
+  },
+  {
+    "slug": "tree-nodes-destruction",
+    "title": "Tree Nodes Destruction",
+    "contest": "IOI 2016 Training Round #3",
+    "difficulty": "HARD",
+    "solved_ratio": "83%",
+    "solved_count": 180,
+    "tried_count": 216,
+    "url": "https://csacademy.com/contest/archive/task/tree-nodes-destruction/"
+  },
+  {
+    "slug": "network-rumour",
+    "title": "Network Rumour",
+    "contest": "IOI 2016 Training Round #3",
+    "difficulty": "HARD",
+    "solved_ratio": "79%",
+    "solved_count": 130,
+    "tried_count": 163,
+    "url": "https://csacademy.com/contest/archive/task/network-rumour/"
+  },
+  {
+    "slug": "telegraph",
+    "title": "Telegraph",
+    "contest": "IOI 2016 Training Round #3",
+    "difficulty": "HARD",
+    "solved_ratio": "61%",
+    "solved_count": 95,
+    "tried_count": 154,
+    "url": "https://csacademy.com/contest/archive/task/telegraph/"
+  },
+  {
+    "slug": "neighbour-sum-replacement",
+    "title": "Neighbour Sum Replacement",
+    "contest": "Beta Round #8",
+    "difficulty": "EASY",
+    "solved_ratio": "96%",
+    "solved_count": 804,
+    "tried_count": 837,
+    "url": "https://csacademy.com/contest/archive/task/neighbour-sum-replacement/"
+  },
+  {
+    "slug": "alphabet-rotation",
+    "title": "Alphabet Rotation",
+    "contest": "Beta Round #8",
+    "difficulty": "EASY",
+    "solved_ratio": "81%",
+    "solved_count": 628,
+    "tried_count": 766,
+    "url": "https://csacademy.com/contest/archive/task/alphabet-rotation/"
+  },
+  {
+    "slug": "consecutive-subsequence",
+    "title": "Consecutive Subsequence",
+    "contest": "Beta Round #8",
+    "difficulty": "EASY",
+    "solved_ratio": "81%",
+    "solved_count": 645,
+    "tried_count": 787,
+    "url": "https://csacademy.com/contest/archive/task/consecutive-subsequence/"
+  },
+  {
+    "slug": "strange-distance",
+    "title": "Strange Distance",
+    "contest": "Beta Round #8",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "74%",
+    "solved_count": 298,
+    "tried_count": 400,
+    "url": "https://csacademy.com/contest/archive/task/strange-distance/"
+  },
+  {
+    "slug": "max-score-tree",
+    "title": "Max Score Tree",
+    "contest": "Beta Round #8",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "87%",
+    "solved_count": 288,
+    "tried_count": 328,
+    "url": "https://csacademy.com/contest/archive/task/max-score-tree/"
+  },
+  {
+    "slug": "cube-coloring",
+    "title": "Cube Coloring",
+    "contest": "Beta Round #8",
+    "difficulty": "HARD",
+    "solved_ratio": "83%",
+    "solved_count": 172,
+    "tried_count": 205,
+    "url": "https://csacademy.com/contest/archive/task/cube-coloring/"
+  },
+  {
+    "slug": "dependency-graph",
+    "title": "Dependency Graph",
+    "contest": "Beta Round #8",
+    "difficulty": "HARD",
+    "solved_ratio": "74%",
+    "solved_count": 57,
+    "tried_count": 77,
+    "url": "https://csacademy.com/contest/archive/task/dependency-graph/"
+  },
+  {
+    "slug": "k-consecutive",
+    "title": "K-consecutive",
+    "contest": "IOI 2016 Training Round #4",
+    "difficulty": "HARD",
+    "solved_ratio": "79%",
+    "solved_count": 184,
+    "tried_count": 231,
+    "url": "https://csacademy.com/contest/archive/task/k-consecutive/"
+  },
+  {
+    "slug": "nonempty-rectangles",
+    "title": "Nonempty Rectangles",
+    "contest": "IOI 2016 Training Round #4",
+    "difficulty": "HARD",
+    "solved_ratio": "68%",
+    "solved_count": 106,
+    "tried_count": 155,
+    "url": "https://csacademy.com/contest/archive/task/nonempty-rectangles/"
+  },
+  {
+    "slug": "invsort",
+    "title": "Invsort",
+    "contest": "IOI 2016 Training Round #4",
+    "difficulty": "HARD",
+    "solved_ratio": "61%",
+    "solved_count": 118,
+    "tried_count": 193,
+    "url": "https://csacademy.com/contest/archive/task/invsort/"
+  },
+  {
+    "slug": "3-divisible-pairs",
+    "title": "3-divisible Pairs",
+    "contest": "(Out of Beta) Round #9",
+    "difficulty": "EASY",
+    "solved_ratio": "66%",
+    "solved_count": 4283,
+    "tried_count": 6457,
+    "url": "https://csacademy.com/contest/archive/task/3-divisible-pairs/"
+  },
+  {
+    "slug": "dictionary-pagination",
+    "title": "Dictionary Pagination",
+    "contest": "(Out of Beta) Round #9",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 901,
+    "tried_count": 982,
+    "url": "https://csacademy.com/contest/archive/task/dictionary-pagination/"
+  },
+  {
+    "slug": "flip-game",
+    "title": "Flip Game",
+    "contest": "(Out of Beta) Round #9",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 1149,
+    "tried_count": 1403,
+    "url": "https://csacademy.com/contest/archive/task/flip-game/"
+  },
+  {
+    "slug": "array-removal",
+    "title": "Array Removal",
+    "contest": "(Out of Beta) Round #9",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "89%",
+    "solved_count": 693,
+    "tried_count": 775,
+    "url": "https://csacademy.com/contest/archive/task/array-removal/"
+  },
+  {
+    "slug": "sum-of-squares",
+    "title": "Sum of Squares",
+    "contest": "(Out of Beta) Round #9",
+    "difficulty": "HARD",
+    "solved_ratio": "76%",
+    "solved_count": 179,
+    "tried_count": 235,
+    "url": "https://csacademy.com/contest/archive/task/sum-of-squares/"
+  },
+  {
+    "slug": "101-palindromes",
+    "title": "101 Palindromes",
+    "contest": "(Out of Beta) Round #9",
+    "difficulty": "HARD",
+    "solved_ratio": "80%",
+    "solved_count": 187,
+    "tried_count": 231,
+    "url": "https://csacademy.com/contest/archive/task/101-palindromes/"
+  },
+  {
+    "slug": "jetpack",
+    "title": "Jetpack",
+    "contest": "(Out of Beta) Round #9",
+    "difficulty": null,
+    "solved_ratio": "68%",
+    "solved_count": 86,
+    "tried_count": 126,
+    "url": "https://csacademy.com/contest/archive/task/jetpack/"
+  },
+  {
+    "slug": "donkey-paradox",
+    "title": "Donkey Paradox",
+    "contest": "Round #10",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 2390,
+    "tried_count": 2615,
+    "url": "https://csacademy.com/contest/archive/task/donkey-paradox/"
+  },
+  {
+    "slug": "pokemon-evolution",
+    "title": "Pokémon Evolution",
+    "contest": "Round #10",
+    "difficulty": "EASY",
+    "solved_ratio": "73%",
+    "solved_count": 2335,
+    "tried_count": 3192,
+    "url": "https://csacademy.com/contest/archive/task/pokemon-evolution/"
+  },
+  {
+    "slug": "shifted-diagonal-sum",
+    "title": "Shifted Diagonal Sum",
+    "contest": "Round #10",
+    "difficulty": "EASY",
+    "solved_ratio": "89%",
+    "solved_count": 575,
+    "tried_count": 643,
+    "url": "https://csacademy.com/contest/archive/task/shifted-diagonal-sum/"
+  },
+  {
+    "slug": "subarray-medians",
+    "title": "Subarray Medians",
+    "contest": "Round #10",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "64%",
+    "solved_count": 280,
+    "tried_count": 431,
+    "url": "https://csacademy.com/contest/archive/task/subarray-medians/"
+  },
+  {
+    "slug": "xor-closure",
+    "title": "Xor Closure",
+    "contest": "Round #10",
+    "difficulty": "HARD",
+    "solved_ratio": "86%",
+    "solved_count": 568,
+    "tried_count": 654,
+    "url": "https://csacademy.com/contest/archive/task/xor-closure/"
+  },
+  {
+    "slug": "expected-tree-degrees",
+    "title": "Expected Tree Degrees",
+    "contest": "Round #10",
+    "difficulty": "HARD",
+    "solved_ratio": "89%",
+    "solved_count": 199,
+    "tried_count": 222,
+    "url": "https://csacademy.com/contest/archive/task/expected-tree-degrees/"
+  },
+  {
+    "slug": "yurys-tree",
+    "title": "Yury's Tree",
+    "contest": "Round #10",
+    "difficulty": null,
+    "solved_ratio": "64%",
+    "solved_count": 84,
+    "tried_count": 131,
+    "url": "https://csacademy.com/contest/archive/task/yurys-tree/"
+  },
+  {
+    "slug": "lights-out",
+    "title": "Lights Out",
+    "contest": "IOI 2016 Training Round #5",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "85%",
+    "solved_count": 152,
+    "tried_count": 178,
+    "url": "https://csacademy.com/contest/archive/task/lights-out/"
+  },
+  {
+    "slug": "balanced-string",
+    "title": "Balanced String",
+    "contest": "IOI 2016 Training Round #5",
+    "difficulty": "HARD",
+    "solved_ratio": "60%",
+    "solved_count": 104,
+    "tried_count": 173,
+    "url": "https://csacademy.com/contest/archive/task/balanced-string/"
+  },
+  {
+    "slug": "empty-triangles",
+    "title": "Empty Triangles",
+    "contest": "IOI 2016 Training Round #5",
+    "difficulty": "HARD",
+    "solved_ratio": "54%",
+    "solved_count": 65,
+    "tried_count": 119,
+    "url": "https://csacademy.com/contest/archive/task/empty-triangles/"
+  },
+  {
+    "slug": "tree-square",
+    "title": "Tree Square",
+    "contest": "IOI 2016 Training Round #5",
+    "difficulty": "HARD",
+    "solved_ratio": "62%",
+    "solved_count": 61,
+    "tried_count": 97,
+    "url": "https://csacademy.com/contest/archive/task/tree-square/"
+  },
+  {
+    "slug": "single-digit-numbers",
+    "title": "Single Digit Numbers",
+    "contest": "Round #11",
+    "difficulty": "EASY",
+    "solved_ratio": "94%",
+    "solved_count": 856,
+    "tried_count": 902,
+    "url": "https://csacademy.com/contest/archive/task/single-digit-numbers/"
+  },
+  {
+    "slug": "long-pressed-name",
+    "title": "Long Pressed Name",
+    "contest": "Round #11",
+    "difficulty": "EASY",
+    "solved_ratio": "84%",
+    "solved_count": 624,
+    "tried_count": 736,
+    "url": "https://csacademy.com/contest/archive/task/long-pressed-name/"
+  },
+  {
+    "slug": "connect-the-graph",
+    "title": "Connect the Graph",
+    "contest": "Round #11",
+    "difficulty": "EASY",
+    "solved_ratio": "82%",
+    "solved_count": 667,
+    "tried_count": 808,
+    "url": "https://csacademy.com/contest/archive/task/connect-the-graph/"
+  },
+  {
+    "slug": "a-single-one",
+    "title": "A Single One",
+    "contest": "Round #11",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "62%",
+    "solved_count": 226,
+    "tried_count": 360,
+    "url": "https://csacademy.com/contest/archive/task/a-single-one/"
+  },
+  {
+    "slug": "connected-tree-subgraphs",
+    "title": "Connected Tree Subgraphs",
+    "contest": "Round #11",
+    "difficulty": "HARD",
+    "solved_ratio": "93%",
+    "solved_count": 297,
+    "tried_count": 318,
+    "url": "https://csacademy.com/contest/archive/task/connected-tree-subgraphs/"
+  },
+  {
+    "slug": "random_nim_generator",
+    "title": "Random Nim Generator",
+    "contest": "Round #11",
+    "difficulty": "HARD",
+    "solved_ratio": "91%",
+    "solved_count": 311,
+    "tried_count": 340,
+    "url": "https://csacademy.com/contest/archive/task/random_nim_generator/"
+  },
+  {
+    "slug": "max-intersection-partition",
+    "title": "Max Intersection Partition",
+    "contest": "Round #11",
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 94,
+    "tried_count": 113,
+    "url": "https://csacademy.com/contest/archive/task/max-intersection-partition/"
+  },
+  {
+    "slug": "odd-divisor-count",
+    "title": "Odd Divisor Count",
+    "contest": "Round #12 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "93%",
+    "solved_count": 4201,
+    "tried_count": 4515,
+    "url": "https://csacademy.com/contest/archive/task/odd-divisor-count/"
+  },
+  {
+    "slug": "positive-product-subarrays",
+    "title": "Positive Product Subarrays",
+    "contest": "Round #12 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 935,
+    "tried_count": 1008,
+    "url": "https://csacademy.com/contest/archive/task/positive-product-subarrays/"
+  },
+  {
+    "slug": "independent-rectangles",
+    "title": "Independent Rectangles",
+    "contest": "Round #12 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "77%",
+    "solved_count": 527,
+    "tried_count": 681,
+    "url": "https://csacademy.com/contest/archive/task/independent-rectangles/"
+  },
+  {
+    "slug": "bitwise-and-queries",
+    "title": "Bitwise And Queries",
+    "contest": "Round #12 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "79%",
+    "solved_count": 390,
+    "tried_count": 491,
+    "url": "https://csacademy.com/contest/archive/task/bitwise-and-queries/"
+  },
+  {
+    "slug": "prefix-suffix-counting",
+    "title": "Prefix Suffix Counting",
+    "contest": "Round #12 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "79%",
+    "solved_count": 160,
+    "tried_count": 202,
+    "url": "https://csacademy.com/contest/archive/task/prefix-suffix-counting/"
+  },
+  {
+    "slug": "dominant-point",
+    "title": "Dominant Point",
+    "contest": "Round #13",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 887,
+    "tried_count": 911,
+    "url": "https://csacademy.com/contest/archive/task/dominant-point/"
+  },
+  {
+    "slug": "pokemon-fight",
+    "title": "Pokemon Fight",
+    "contest": "Round #13",
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 698,
+    "tried_count": 788,
+    "url": "https://csacademy.com/contest/archive/task/pokemon-fight/"
+  },
+  {
+    "slug": "balanced-min-pairing",
+    "title": "Balanced Min Pairing",
+    "contest": "Round #13",
+    "difficulty": "EASY",
+    "solved_ratio": "79%",
+    "solved_count": 450,
+    "tried_count": 565,
+    "url": "https://csacademy.com/contest/archive/task/balanced-min-pairing/"
+  },
+  {
+    "slug": "num-cube-sets",
+    "title": "Num Cube Sets",
+    "contest": "Round #13",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "80%",
+    "solved_count": 346,
+    "tried_count": 430,
+    "url": "https://csacademy.com/contest/archive/task/num-cube-sets/"
+  },
+  {
+    "slug": "and-closure",
+    "title": "And Closure",
+    "contest": "Round #13",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 466,
+    "tried_count": 529,
+    "url": "https://csacademy.com/contest/archive/task/and-closure/"
+  },
+  {
+    "slug": "interval-expected-max",
+    "title": "Interval Expected Max",
+    "contest": "Round #13",
+    "difficulty": "HARD",
+    "solved_ratio": "78%",
+    "solved_count": 155,
+    "tried_count": 198,
+    "url": "https://csacademy.com/contest/archive/task/interval-expected-max/"
+  },
+  {
+    "slug": "field-activation",
+    "title": "Field Activation",
+    "contest": "Round #13",
+    "difficulty": "HARD",
+    "solved_ratio": "79%",
+    "solved_count": 79,
+    "tried_count": 99,
+    "url": "https://csacademy.com/contest/archive/task/field-activation/"
+  },
+  {
+    "slug": "k-subsets-removal",
+    "title": "K-subsets Removal",
+    "contest": "Round #14 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "96%",
+    "solved_count": 700,
+    "tried_count": 724,
+    "url": "https://csacademy.com/contest/archive/task/k-subsets-removal/"
+  },
+  {
+    "slug": "min-swap-counting",
+    "title": "Min Swap Counting",
+    "contest": "Round #14 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 722,
+    "tried_count": 777,
+    "url": "https://csacademy.com/contest/archive/task/min-swap-counting/"
+  },
+  {
+    "slug": "surrounded-rectangle",
+    "title": "Surrounded Rectangle",
+    "contest": "Round #14 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "76%",
+    "solved_count": 402,
+    "tried_count": 526,
+    "url": "https://csacademy.com/contest/archive/task/surrounded-rectangle/"
+  },
+  {
+    "slug": "subarrays-xor-sum",
+    "title": "Subarrays Xor Sum",
+    "contest": "Round #14 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "83%",
+    "solved_count": 235,
+    "tried_count": 280,
+    "url": "https://csacademy.com/contest/archive/task/subarrays-xor-sum/"
+  },
+  {
+    "slug": "bounded-diameter-trees",
+    "title": "Bounded Diameter Trees",
+    "contest": "Round #14 (Div. 2 only)",
+    "difficulty": "HARD",
+    "solved_ratio": "85%",
+    "solved_count": 85,
+    "tried_count": 100,
+    "url": "https://csacademy.com/contest/archive/task/bounded-diameter-trees/"
+  },
+  {
+    "slug": "t-shapes",
+    "title": "T-shapes",
+    "contest": "Round #15",
+    "difficulty": "EASY",
+    "solved_ratio": "93%",
+    "solved_count": 646,
+    "tried_count": 691,
+    "url": "https://csacademy.com/contest/archive/task/t-shapes/"
+  },
+  {
+    "slug": "alternating-subarray",
+    "title": "Alternating Subarray",
+    "contest": "Round #15",
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 682,
+    "tried_count": 772,
+    "url": "https://csacademy.com/contest/archive/task/alternating-subarray/"
+  },
+  {
+    "slug": "k-consequal",
+    "title": "K Consequal",
+    "contest": "Round #15",
+    "difficulty": "EASY",
+    "solved_ratio": "81%",
+    "solved_count": 765,
+    "tried_count": 934,
+    "url": "https://csacademy.com/contest/archive/task/k-consequal/"
+  },
+  {
+    "slug": "base-k-xor",
+    "title": "Base K Xor",
+    "contest": "Round #15",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "85%",
+    "solved_count": 184,
+    "tried_count": 215,
+    "url": "https://csacademy.com/contest/archive/task/base-k-xor/"
+  },
+  {
+    "slug": "server-hacking",
+    "title": "Server Hacking",
+    "contest": "Round #15",
+    "difficulty": "HARD",
+    "solved_ratio": "71%",
+    "solved_count": 65,
+    "tried_count": 91,
+    "url": "https://csacademy.com/contest/archive/task/server-hacking/"
+  },
+  {
+    "slug": "substring-restrictions",
+    "title": "Substring Restrictions",
+    "contest": "Round #15",
+    "difficulty": "HARD",
+    "solved_ratio": "71%",
+    "solved_count": 228,
+    "tried_count": 320,
+    "url": "https://csacademy.com/contest/archive/task/substring-restrictions/"
+  },
+  {
+    "slug": "points-matching",
+    "title": "Points Matching",
+    "contest": "Round #15",
+    "difficulty": "HARD",
+    "solved_ratio": "73%",
+    "solved_count": 61,
+    "tried_count": 83,
+    "url": "https://csacademy.com/contest/archive/task/points-matching/"
+  },
+  {
+    "slug": "interactive-partial-sums",
+    "title": "Interactive Partial Sums",
+    "contest": null,
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 488,
+    "tried_count": 549,
+    "url": "https://csacademy.com/contest/archive/task/interactive-partial-sums/"
+  },
+  {
+    "slug": "binary-search",
+    "title": "Binary Search",
+    "contest": null,
+    "difficulty": "TUTORIAL",
+    "solved_ratio": "89%",
+    "solved_count": 601,
+    "tried_count": 668,
+    "url": "https://csacademy.com/contest/archive/task/binary-search/"
+  },
+  {
+    "slug": "adaptive-binary-search",
+    "title": "Adaptive Binary Search",
+    "contest": null,
+    "difficulty": "TUTORIAL",
+    "solved_ratio": "87%",
+    "solved_count": 703,
+    "tried_count": 802,
+    "url": "https://csacademy.com/contest/archive/task/adaptive-binary-search/"
+  },
+  {
+    "slug": "previous-divisors",
+    "title": "Previous Divisors",
+    "contest": "Round #16 (Interactive only)",
+    "difficulty": "EASY",
+    "solved_ratio": "81%",
+    "solved_count": 504,
+    "tried_count": 615,
+    "url": "https://csacademy.com/contest/archive/task/previous-divisors/"
+  },
+  {
+    "slug": "guess-the-number",
+    "title": "Guess the Number",
+    "contest": "Round #16 (Interactive only)",
+    "difficulty": "EASY",
+    "solved_ratio": "85%",
+    "solved_count": 403,
+    "tried_count": 471,
+    "url": "https://csacademy.com/contest/archive/task/guess-the-number/"
+  },
+  {
+    "slug": "marble-weights",
+    "title": "Marble Weights",
+    "contest": "Round #16 (Interactive only)",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 444,
+    "tried_count": 480,
+    "url": "https://csacademy.com/contest/archive/task/marble-weights/"
+  },
+  {
+    "slug": "fake-coins",
+    "title": "Fake Coins",
+    "contest": "Round #16 (Interactive only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "77%",
+    "solved_count": 139,
+    "tried_count": 179,
+    "url": "https://csacademy.com/contest/archive/task/fake-coins/"
+  },
+  {
+    "slug": "tree-node-distances",
+    "title": "Tree Node Distances",
+    "contest": "Round #16 (Interactive only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "79%",
+    "solved_count": 154,
+    "tried_count": 193,
+    "url": "https://csacademy.com/contest/archive/task/tree-node-distances/"
+  },
+  {
+    "slug": "letter-by-letter",
+    "title": "Letter by Letter",
+    "contest": "Round #16 (Interactive only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "70%",
+    "solved_count": 164,
+    "tried_count": 234,
+    "url": "https://csacademy.com/contest/archive/task/letter-by-letter/"
+  },
+  {
+    "slug": "tree-from-leaves",
+    "title": "Tree From Leaves",
+    "contest": "Round #16 (Interactive only)",
+    "difficulty": "HARD",
+    "solved_ratio": "77%",
+    "solved_count": 55,
+    "tried_count": 71,
+    "url": "https://csacademy.com/contest/archive/task/tree-from-leaves/"
+  },
+  {
+    "slug": "template-addition",
+    "title": "Template Addition",
+    "contest": null,
+    "difficulty": "TUTORIAL",
+    "solved_ratio": "94%",
+    "solved_count": 715,
+    "tried_count": 756,
+    "url": "https://csacademy.com/contest/archive/task/template-addition/"
+  },
+  {
+    "slug": "dragons",
+    "title": "Dragons",
+    "contest": "Round #17 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 429,
+    "tried_count": 466,
+    "url": "https://csacademy.com/contest/archive/task/dragons/"
+  },
+  {
+    "slug": "path-travel",
+    "title": "Path Travel",
+    "contest": "Round #17 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "90%",
+    "solved_count": 391,
+    "tried_count": 434,
+    "url": "https://csacademy.com/contest/archive/task/path-travel/"
+  },
+  {
+    "slug": "to-front-to-back",
+    "title": "To Front - To Back",
+    "contest": "Round #17 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 371,
+    "tried_count": 418,
+    "url": "https://csacademy.com/contest/archive/task/to-front-to-back/"
+  },
+  {
+    "slug": "largest-and-subset",
+    "title": "Largest And Subset",
+    "contest": "Round #17 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "94%",
+    "solved_count": 419,
+    "tried_count": 445,
+    "url": "https://csacademy.com/contest/archive/task/largest-and-subset/"
+  },
+  {
+    "slug": "marbles-graph-game",
+    "title": "Marbles Graph Game",
+    "contest": "Round #17 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "69%",
+    "solved_count": 148,
+    "tried_count": 212,
+    "url": "https://csacademy.com/contest/archive/task/marbles-graph-game/"
+  },
+  {
+    "slug": "jeans-and-shirts",
+    "title": "Jeans and Shirts",
+    "contest": "Round #18",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 600,
+    "tried_count": 616,
+    "url": "https://csacademy.com/contest/archive/task/jeans-and-shirts/"
+  },
+  {
+    "slug": "bottle-recycling",
+    "title": "Bottle Recycling",
+    "contest": "Round #18",
+    "difficulty": "EASY",
+    "solved_ratio": "94%",
+    "solved_count": 624,
+    "tried_count": 658,
+    "url": "https://csacademy.com/contest/archive/task/bottle-recycling/"
+  },
+  {
+    "slug": "squarish-rectangle",
+    "title": "Squarish Rectangle",
+    "contest": "Round #18",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 534,
+    "tried_count": 557,
+    "url": "https://csacademy.com/contest/archive/task/squarish-rectangle/"
+  },
+  {
+    "slug": "concatenated-string",
+    "title": "Concatenated String",
+    "contest": "Round #18",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 406,
+    "tried_count": 460,
+    "url": "https://csacademy.com/contest/archive/task/concatenated-string/"
+  },
+  {
+    "slug": "consecutive-digit-signs",
+    "title": "Consecutive Digits Signs",
+    "contest": "Round #18",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "89%",
+    "solved_count": 299,
+    "tried_count": 333,
+    "url": "https://csacademy.com/contest/archive/task/consecutive-digit-signs/"
+  },
+  {
+    "slug": "gcd-on-a-circle",
+    "title": "Gcd on a Circle",
+    "contest": "Round #18",
+    "difficulty": "HARD",
+    "solved_ratio": "83%",
+    "solved_count": 171,
+    "tried_count": 206,
+    "url": "https://csacademy.com/contest/archive/task/gcd-on-a-circle/"
+  },
+  {
+    "slug": "minimize-ancestor-cost",
+    "title": "Minimize Ancestor Cost",
+    "contest": "Round #18",
+    "difficulty": "HARD",
+    "solved_ratio": "80%",
+    "solved_count": 117,
+    "tried_count": 146,
+    "url": "https://csacademy.com/contest/archive/task/minimize-ancestor-cost/"
+  },
+  {
+    "slug": "randomly-permuted-costs",
+    "title": "Randomly Permuted Costs",
+    "contest": "Round #18",
+    "difficulty": null,
+    "solved_ratio": "68%",
+    "solved_count": 58,
+    "tried_count": 85,
+    "url": "https://csacademy.com/contest/archive/task/randomly-permuted-costs/"
+  },
+  {
+    "slug": "best-array-cut",
+    "title": "Best Array Cut",
+    "contest": "Round #19 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "93%",
+    "solved_count": 552,
+    "tried_count": 591,
+    "url": "https://csacademy.com/contest/archive/task/best-array-cut/"
+  },
+  {
+    "slug": "dominoes-rotations",
+    "title": "Dominoes Rotations",
+    "contest": "Round #19 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 350,
+    "tried_count": 367,
+    "url": "https://csacademy.com/contest/archive/task/dominoes-rotations/"
+  },
+  {
+    "slug": "cities-robbery",
+    "title": "Cities Robbery",
+    "contest": "Round #19 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "82%",
+    "solved_count": 296,
+    "tried_count": 358,
+    "url": "https://csacademy.com/contest/archive/task/cities-robbery/"
+  },
+  {
+    "slug": "smallest-array-permutation",
+    "title": "Smallest Array Permutation",
+    "contest": "Round #19 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "80%",
+    "solved_count": 147,
+    "tried_count": 182,
+    "url": "https://csacademy.com/contest/archive/task/smallest-array-permutation/"
+  },
+  {
+    "slug": "road-trips",
+    "title": "Road Trips",
+    "contest": "Round #19 (Div. 2 only)",
+    "difficulty": "HARD",
+    "solved_ratio": "83%",
+    "solved_count": 104,
+    "tried_count": 124,
+    "url": "https://csacademy.com/contest/archive/task/road-trips/"
+  },
+  {
+    "slug": "two-guards",
+    "title": "Two Guards",
+    "contest": "Round #20 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "90%",
+    "solved_count": 600,
+    "tried_count": 663,
+    "url": "https://csacademy.com/contest/archive/task/two-guards/"
+  },
+  {
+    "slug": "increasing-pair",
+    "title": "Increasing Pair",
+    "contest": "Round #20 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "80%",
+    "solved_count": 665,
+    "tried_count": 828,
+    "url": "https://csacademy.com/contest/archive/task/increasing-pair/"
+  },
+  {
+    "slug": "city-upgrades",
+    "title": "City Upgrades",
+    "contest": "Round #20 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "79%",
+    "solved_count": 367,
+    "tried_count": 460,
+    "url": "https://csacademy.com/contest/archive/task/city-upgrades/"
+  },
+  {
+    "slug": "stepping-number",
+    "title": "Stepping Number",
+    "contest": "Round #20 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 189,
+    "tried_count": 233,
+    "url": "https://csacademy.com/contest/archive/task/stepping-number/"
+  },
+  {
+    "slug": "palindromic-concatenation",
+    "title": "Palindromic Concatenation",
+    "contest": "Round #20 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "74%",
+    "solved_count": 117,
+    "tried_count": 158,
+    "url": "https://csacademy.com/contest/archive/task/palindromic-concatenation/"
+  },
+  {
+    "slug": "min-coin-payment",
+    "title": "Min Coin Payment",
+    "contest": "Round #21",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 673,
+    "tried_count": 683,
+    "url": "https://csacademy.com/contest/archive/task/min-coin-payment/"
+  },
+  {
+    "slug": "prime-distance",
+    "title": "Prime Distance",
+    "contest": "Round #21",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 460,
+    "tried_count": 495,
+    "url": "https://csacademy.com/contest/archive/task/prime-distance/"
+  },
+  {
+    "slug": "max-wave-array",
+    "title": "Max Wave Array",
+    "contest": "Round #21",
+    "difficulty": "EASY",
+    "solved_ratio": "84%",
+    "solved_count": 456,
+    "tried_count": 540,
+    "url": "https://csacademy.com/contest/archive/task/max-wave-array/"
+  },
+  {
+    "slug": "0-k-multiple",
+    "title": "0-K Multiple",
+    "contest": "Round #21",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "63%",
+    "solved_count": 470,
+    "tried_count": 742,
+    "url": "https://csacademy.com/contest/archive/task/0-k-multiple/"
+  },
+  {
+    "slug": "special-mvc",
+    "title": "Special MVC",
+    "contest": "Round #21",
+    "difficulty": "HARD",
+    "solved_ratio": "56%",
+    "solved_count": 50,
+    "tried_count": 89,
+    "url": "https://csacademy.com/contest/archive/task/special-mvc/"
+  },
+  {
+    "slug": "tournament-cycle",
+    "title": "Tournament Cycle",
+    "contest": "Round #21",
+    "difficulty": "HARD",
+    "solved_ratio": "95%",
+    "solved_count": 113,
+    "tried_count": 118,
+    "url": "https://csacademy.com/contest/archive/task/tournament-cycle/"
+  },
+  {
+    "slug": "catch-the-thief",
+    "title": "Catch the Thief",
+    "contest": "Round #21",
+    "difficulty": "HARD",
+    "solved_ratio": "66%",
+    "solved_count": 40,
+    "tried_count": 60,
+    "url": "https://csacademy.com/contest/archive/task/catch-the-thief/"
+  },
+  {
+    "slug": "triangle-count",
+    "title": "Triangle Count",
+    "contest": "Round #22 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "99%",
+    "solved_count": 614,
+    "tried_count": 618,
+    "url": "https://csacademy.com/contest/archive/task/triangle-count/"
+  },
+  {
+    "slug": "frequency-exception",
+    "title": "Frequency Exception",
+    "contest": "Round #22 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "90%",
+    "solved_count": 457,
+    "tried_count": 507,
+    "url": "https://csacademy.com/contest/archive/task/frequency-exception/"
+  },
+  {
+    "slug": "black-shapes",
+    "title": "Black Shapes",
+    "contest": "Round #22 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 463,
+    "tried_count": 524,
+    "url": "https://csacademy.com/contest/archive/task/black-shapes/"
+  },
+  {
+    "slug": "distinct_rotations",
+    "title": "Distinct Rotations",
+    "contest": "Round #22 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "86%",
+    "solved_count": 172,
+    "tried_count": 200,
+    "url": "https://csacademy.com/contest/archive/task/distinct_rotations/"
+  },
+  {
+    "slug": "limited-swaps",
+    "title": "Limited Swaps",
+    "contest": "Round #22 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "79%",
+    "solved_count": 250,
+    "tried_count": 316,
+    "url": "https://csacademy.com/contest/archive/task/limited-swaps/"
+  },
+  {
+    "slug": "football-tournament",
+    "title": "Football Tournament",
+    "contest": "Round #23 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 522,
+    "tried_count": 548,
+    "url": "https://csacademy.com/contest/archive/task/football-tournament/"
+  },
+  {
+    "slug": "fast-travel",
+    "title": "Fast Travel",
+    "contest": "Round #23 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "80%",
+    "solved_count": 360,
+    "tried_count": 447,
+    "url": "https://csacademy.com/contest/archive/task/fast-travel/"
+  },
+  {
+    "slug": "permutation-matrix",
+    "title": "Permutation Matrix",
+    "contest": "Round #23 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "76%",
+    "solved_count": 262,
+    "tried_count": 342,
+    "url": "https://csacademy.com/contest/archive/task/permutation-matrix/"
+  },
+  {
+    "slug": "disk-mechanism",
+    "title": "Disk Mechanism",
+    "contest": "Round #23 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "92%",
+    "solved_count": 208,
+    "tried_count": 225,
+    "url": "https://csacademy.com/contest/archive/task/disk-mechanism/"
+  },
+  {
+    "slug": "no-prime-sum",
+    "title": "No Prime Sum",
+    "contest": "Round #23 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "71%",
+    "solved_count": 351,
+    "tried_count": 489,
+    "url": "https://csacademy.com/contest/archive/task/no-prime-sum/"
+  },
+  {
+    "slug": "vector-size",
+    "title": "Vector Size",
+    "contest": "Round #24",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 708,
+    "tried_count": 724,
+    "url": "https://csacademy.com/contest/archive/task/vector-size/"
+  },
+  {
+    "slug": "kth-special-number",
+    "title": "Kth Special Number",
+    "contest": "Round #24",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 830,
+    "tried_count": 868,
+    "url": "https://csacademy.com/contest/archive/task/kth-special-number/"
+  },
+  {
+    "slug": "black-white-necklace",
+    "title": "Black White Necklace",
+    "contest": "Round #24",
+    "difficulty": "EASY",
+    "solved_ratio": "81%",
+    "solved_count": 412,
+    "tried_count": 508,
+    "url": "https://csacademy.com/contest/archive/task/black-white-necklace/"
+  },
+  {
+    "slug": "bst-fixed-height",
+    "title": "BST Fixed Height",
+    "contest": "Round #24",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "83%",
+    "solved_count": 308,
+    "tried_count": 370,
+    "url": "https://csacademy.com/contest/archive/task/bst-fixed-height/"
+  },
+  {
+    "slug": "ball-sampling",
+    "title": "Ball Sampling",
+    "contest": "Round #24",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "94%",
+    "solved_count": 255,
+    "tried_count": 270,
+    "url": "https://csacademy.com/contest/archive/task/ball-sampling/"
+  },
+  {
+    "slug": "subsequence-queries",
+    "title": "Subsequence Queries",
+    "contest": "Round #24",
+    "difficulty": "HARD",
+    "solved_ratio": "73%",
+    "solved_count": 101,
+    "tried_count": 137,
+    "url": "https://csacademy.com/contest/archive/task/subsequence-queries/"
+  },
+  {
+    "slug": "colored-forests",
+    "title": "Colored Forests",
+    "contest": "Round #24",
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 86,
+    "tried_count": 97,
+    "url": "https://csacademy.com/contest/archive/task/colored-forests/"
+  },
+  {
+    "slug": "0-sum-array",
+    "title": "0-Sum Array",
+    "contest": "Round #25 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "93%",
+    "solved_count": 1424,
+    "tried_count": 1527,
+    "url": "https://csacademy.com/contest/archive/task/0-sum-array/"
+  },
+  {
+    "slug": "suspect-interval",
+    "title": "Suspect Interval",
+    "contest": "Round #25 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 536,
+    "tried_count": 583,
+    "url": "https://csacademy.com/contest/archive/task/suspect-interval/"
+  },
+  {
+    "slug": "rectangle-path",
+    "title": "Rectangle Path",
+    "contest": "Round #25 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "85%",
+    "solved_count": 390,
+    "tried_count": 455,
+    "url": "https://csacademy.com/contest/archive/task/rectangle-path/"
+  },
+  {
+    "slug": "min-ends-subsequence",
+    "title": "Min Ends Subsequence",
+    "contest": "Round #25 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 268,
+    "tried_count": 303,
+    "url": "https://csacademy.com/contest/archive/task/min-ends-subsequence/"
+  },
+  {
+    "slug": "zone-capture",
+    "title": "Zone Capture",
+    "contest": "Round #25 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "79%",
+    "solved_count": 126,
+    "tried_count": 158,
+    "url": "https://csacademy.com/contest/archive/task/zone-capture/"
+  },
+  {
+    "slug": "limited-vocabulary",
+    "title": "Limited Vocabulary",
+    "contest": "Round #26 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 668,
+    "tried_count": 686,
+    "url": "https://csacademy.com/contest/archive/task/limited-vocabulary/"
+  },
+  {
+    "slug": "odd-pair-sums",
+    "title": "Odd Pair Sums",
+    "contest": "Round #26 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "94%",
+    "solved_count": 650,
+    "tried_count": 686,
+    "url": "https://csacademy.com/contest/archive/task/odd-pair-sums/"
+  },
+  {
+    "slug": "bounded-distinct",
+    "title": "Bounded Distinct",
+    "contest": "Round #26 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "89%",
+    "solved_count": 371,
+    "tried_count": 416,
+    "url": "https://csacademy.com/contest/archive/task/bounded-distinct/"
+  },
+  {
+    "slug": "build-the-towers",
+    "title": "Build the Towers",
+    "contest": "Round #26 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 169,
+    "tried_count": 192,
+    "url": "https://csacademy.com/contest/archive/task/build-the-towers/"
+  },
+  {
+    "slug": "critical-cells",
+    "title": "Critical Cells",
+    "contest": "Round #26 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "87%",
+    "solved_count": 200,
+    "tried_count": 228,
+    "url": "https://csacademy.com/contest/archive/task/critical-cells/"
+  },
+  {
+    "slug": "backpack-packing",
+    "title": "Backpack Packing",
+    "contest": "Round #27",
+    "difficulty": "EASY",
+    "solved_ratio": "94%",
+    "solved_count": 661,
+    "tried_count": 702,
+    "url": "https://csacademy.com/contest/archive/task/backpack-packing/"
+  },
+  {
+    "slug": "max-even-subarray",
+    "title": "Max Even Subarray",
+    "contest": "Round #27",
+    "difficulty": "EASY",
+    "solved_ratio": "89%",
+    "solved_count": 1007,
+    "tried_count": 1129,
+    "url": "https://csacademy.com/contest/archive/task/max-even-subarray/"
+  },
+  {
+    "slug": "huge-matrix",
+    "title": "Huge Matrix",
+    "contest": "Round #27",
+    "difficulty": "EASY",
+    "solved_ratio": "89%",
+    "solved_count": 446,
+    "tried_count": 499,
+    "url": "https://csacademy.com/contest/archive/task/huge-matrix/"
+  },
+  {
+    "slug": "x-distance",
+    "title": "X Distance",
+    "contest": "Round #27",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "92%",
+    "solved_count": 675,
+    "tried_count": 731,
+    "url": "https://csacademy.com/contest/archive/task/x-distance/"
+  },
+  {
+    "slug": "palindrome-centers",
+    "title": "Palindrome Centers",
+    "contest": "Round #27",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "86%",
+    "solved_count": 157,
+    "tried_count": 181,
+    "url": "https://csacademy.com/contest/archive/task/palindrome-centers/"
+  },
+  {
+    "slug": "triplet-queries",
+    "title": "Triplet Queries",
+    "contest": "Round #27",
+    "difficulty": "HARD",
+    "solved_ratio": "83%",
+    "solved_count": 49,
+    "tried_count": 59,
+    "url": "https://csacademy.com/contest/archive/task/triplet-queries/"
+  },
+  {
+    "slug": "permutation-towers",
+    "title": "Permutation Towers",
+    "contest": "Round #27",
+    "difficulty": "HARD",
+    "solved_ratio": "91%",
+    "solved_count": 126,
+    "tried_count": 137,
+    "url": "https://csacademy.com/contest/archive/task/permutation-towers/"
+  },
+  {
+    "slug": "meow",
+    "title": "Meow",
+    "contest": "Romanian IOI 2017 Selection #2",
+    "difficulty": "HARD",
+    "solved_ratio": "47%",
+    "solved_count": 71,
+    "tried_count": 150,
+    "url": "https://csacademy.com/contest/archive/task/meow/"
+  },
+  {
+    "slug": "pirouettes",
+    "title": "Pirouettes",
+    "contest": "Romanian IOI 2017 Selection #2",
+    "difficulty": "HARD",
+    "solved_ratio": "62%",
+    "solved_count": 68,
+    "tried_count": 108,
+    "url": "https://csacademy.com/contest/archive/task/pirouettes/"
+  },
+  {
+    "slug": "popcorn",
+    "title": "Popcorn",
+    "contest": "Romanian IOI 2017 Selection #2",
+    "difficulty": null,
+    "solved_ratio": "32%",
+    "solved_count": 46,
+    "tried_count": 143,
+    "url": "https://csacademy.com/contest/archive/task/popcorn/"
+  },
+  {
+    "slug": "bfs",
+    "title": "Bfs",
+    "contest": "Romanian IOI 2017 Selection #3",
+    "difficulty": "HARD",
+    "solved_ratio": "58%",
+    "solved_count": 65,
+    "tried_count": 112,
+    "url": "https://csacademy.com/contest/archive/task/bfs/"
+  },
+  {
+    "slug": "pitmutation",
+    "title": "Pitmutation",
+    "contest": "Romanian IOI 2017 Selection #3",
+    "difficulty": "HARD",
+    "solved_ratio": "75%",
+    "solved_count": 78,
+    "tried_count": 104,
+    "url": "https://csacademy.com/contest/archive/task/pitmutation/"
+  },
+  {
+    "slug": "revenge",
+    "title": "Revenge",
+    "contest": "Romanian IOI 2017 Selection #3",
+    "difficulty": "HARD",
+    "solved_ratio": "62%",
+    "solved_count": 59,
+    "tried_count": 95,
+    "url": "https://csacademy.com/contest/archive/task/revenge/"
+  },
+  {
+    "slug": "add-and-divide",
+    "title": "Add and Divide",
+    "contest": "Round #28 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "96%",
+    "solved_count": 1079,
+    "tried_count": 1122,
+    "url": "https://csacademy.com/contest/archive/task/add-and-divide/"
+  },
+  {
+    "slug": "final-index",
+    "title": "Final Index",
+    "contest": "Round #28 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 448,
+    "tried_count": 492,
+    "url": "https://csacademy.com/contest/archive/task/final-index/"
+  },
+  {
+    "slug": "card-shuffle",
+    "title": "Card Shuffle",
+    "contest": "Round #28 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "87%",
+    "solved_count": 379,
+    "tried_count": 431,
+    "url": "https://csacademy.com/contest/archive/task/card-shuffle/"
+  },
+  {
+    "slug": "water-bottles",
+    "title": "Water Bottles",
+    "contest": "Round #28 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "67%",
+    "solved_count": 200,
+    "tried_count": 297,
+    "url": "https://csacademy.com/contest/archive/task/water-bottles/"
+  },
+  {
+    "slug": "metal-examination",
+    "title": "Metal Examination",
+    "contest": "Round #28 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "75%",
+    "solved_count": 87,
+    "tried_count": 116,
+    "url": "https://csacademy.com/contest/archive/task/metal-examination/"
+  },
+  {
+    "slug": "nogcd",
+    "title": "Nogcd",
+    "contest": "Romanian IOI 2017 Selection #1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "80%",
+    "solved_count": 225,
+    "tried_count": 280,
+    "url": "https://csacademy.com/contest/archive/task/nogcd/"
+  },
+  {
+    "slug": "manhattan",
+    "title": "Manhattan",
+    "contest": "Romanian IOI 2017 Selection #1",
+    "difficulty": "HARD",
+    "solved_ratio": "50%",
+    "solved_count": 56,
+    "tried_count": 110,
+    "url": "https://csacademy.com/contest/archive/task/manhattan/"
+  },
+  {
+    "slug": "rooms",
+    "title": "Rooms",
+    "contest": "Romanian IOI 2017 Selection #1",
+    "difficulty": "HARD",
+    "solved_ratio": "77%",
+    "solved_count": 179,
+    "tried_count": 232,
+    "url": "https://csacademy.com/contest/archive/task/rooms/"
+  },
+  {
+    "slug": "missing-number",
+    "title": "Missing Number",
+    "contest": "Round #29 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "87%",
+    "solved_count": 633,
+    "tried_count": 721,
+    "url": "https://csacademy.com/contest/archive/task/missing-number/"
+  },
+  {
+    "slug": "postivie-xor",
+    "title": "Positive Xor",
+    "contest": "Round #29 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "83%",
+    "solved_count": 495,
+    "tried_count": 592,
+    "url": "https://csacademy.com/contest/archive/task/postivie-xor/"
+  },
+  {
+    "slug": "equality",
+    "title": "Equality",
+    "contest": "Round #29 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "76%",
+    "solved_count": 393,
+    "tried_count": 516,
+    "url": "https://csacademy.com/contest/archive/task/equality/"
+  },
+  {
+    "slug": "odd-palindromes",
+    "title": "Odd Palindromes",
+    "contest": "Round #29 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 194,
+    "tried_count": 237,
+    "url": "https://csacademy.com/contest/archive/task/odd-palindromes/"
+  },
+  {
+    "slug": "root-change",
+    "title": "Root Change",
+    "contest": "Round #29 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 107,
+    "tried_count": 132,
+    "url": "https://csacademy.com/contest/archive/task/root-change/"
+  },
+  {
+    "slug": "chocolate",
+    "title": "Chocolate",
+    "contest": "Romanian IOI 2017 Selection #4",
+    "difficulty": null,
+    "solved_ratio": "40%",
+    "solved_count": 32,
+    "tried_count": 80,
+    "url": "https://csacademy.com/contest/archive/task/chocolate/"
+  },
+  {
+    "slug": "lamp",
+    "title": "Lamp",
+    "contest": "Romanian IOI 2017 Selection #4",
+    "difficulty": "HARD",
+    "solved_ratio": "61%",
+    "solved_count": 42,
+    "tried_count": 68,
+    "url": "https://csacademy.com/contest/archive/task/lamp/"
+  },
+  {
+    "slug": "necromancer",
+    "title": "Necromancer",
+    "contest": "Romanian IOI 2017 Selection #4",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "77%",
+    "solved_count": 111,
+    "tried_count": 144,
+    "url": "https://csacademy.com/contest/archive/task/necromancer/"
+  },
+  {
+    "slug": "numbers-game",
+    "title": "Numbers Game",
+    "contest": "Round #30 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 596,
+    "tried_count": 614,
+    "url": "https://csacademy.com/contest/archive/task/numbers-game/"
+  },
+  {
+    "slug": "jokers",
+    "title": "Jokers",
+    "contest": "Round #30 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 381,
+    "tried_count": 418,
+    "url": "https://csacademy.com/contest/archive/task/jokers/"
+  },
+  {
+    "slug": "constant-sum",
+    "title": "Constant Sum",
+    "contest": "Round #30 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 439,
+    "tried_count": 475,
+    "url": "https://csacademy.com/contest/archive/task/constant-sum/"
+  },
+  {
+    "slug": "prefix-free-subset",
+    "title": "Prefix Free Subset",
+    "contest": "Round #30 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "83%",
+    "solved_count": 309,
+    "tried_count": 371,
+    "url": "https://csacademy.com/contest/archive/task/prefix-free-subset/"
+  },
+  {
+    "slug": "triplet-min-sum",
+    "title": "Triplet Min Sum",
+    "contest": "Round #30 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "96%",
+    "solved_count": 336,
+    "tried_count": 348,
+    "url": "https://csacademy.com/contest/archive/task/triplet-min-sum/"
+  },
+  {
+    "slug": "insert-in-sorted-array",
+    "title": "Insert in Sorted Array",
+    "contest": "Round #31",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 778,
+    "tried_count": 800,
+    "url": "https://csacademy.com/contest/archive/task/insert-in-sorted-array/"
+  },
+  {
+    "slug": "karaoke-group",
+    "title": "Karaoke Group",
+    "contest": "Round #31",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 520,
+    "tried_count": 542,
+    "url": "https://csacademy.com/contest/archive/task/karaoke-group/"
+  },
+  {
+    "slug": "recursive-string",
+    "title": "Recursive String",
+    "contest": "Round #31",
+    "difficulty": "EASY",
+    "solved_ratio": "77%",
+    "solved_count": 863,
+    "tried_count": 1115,
+    "url": "https://csacademy.com/contest/archive/task/recursive-string/"
+  },
+  {
+    "slug": "second-minimum",
+    "title": "Second Minimum",
+    "contest": "Round #31",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "84%",
+    "solved_count": 351,
+    "tried_count": 415,
+    "url": "https://csacademy.com/contest/archive/task/second-minimum/"
+  },
+  {
+    "slug": "uniform-trees",
+    "title": "Uniform Trees",
+    "contest": "Round #31",
+    "difficulty": "HARD",
+    "solved_ratio": "72%",
+    "solved_count": 175,
+    "tried_count": 243,
+    "url": "https://csacademy.com/contest/archive/task/uniform-trees/"
+  },
+  {
+    "slug": "token-grid",
+    "title": "Tokens on a grid",
+    "contest": "Round #31",
+    "difficulty": "HARD",
+    "solved_ratio": "78%",
+    "solved_count": 99,
+    "tried_count": 126,
+    "url": "https://csacademy.com/contest/archive/task/token-grid/"
+  },
+  {
+    "slug": "balanced-strings",
+    "title": "Balanced Strings",
+    "contest": "Round #31",
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 45,
+    "tried_count": 55,
+    "url": "https://csacademy.com/contest/archive/task/balanced-strings/"
+  },
+  {
+    "slug": "flareon",
+    "title": "Flareon",
+    "contest": "Romanian IOI 2017 Selection #6",
+    "difficulty": "HARD",
+    "solved_ratio": "75%",
+    "solved_count": 110,
+    "tried_count": 145,
+    "url": "https://csacademy.com/contest/archive/task/flareon/"
+  },
+  {
+    "slug": "jolteon",
+    "title": "Jolteon",
+    "contest": "Romanian IOI 2017 Selection #6",
+    "difficulty": "HARD",
+    "solved_ratio": "56%",
+    "solved_count": 61,
+    "tried_count": 108,
+    "url": "https://csacademy.com/contest/archive/task/jolteon/"
+  },
+  {
+    "slug": "vaporeon",
+    "title": "Vaporeon",
+    "contest": "Romanian IOI 2017 Selection #6",
+    "difficulty": null,
+    "solved_ratio": "72%",
+    "solved_count": 54,
+    "tried_count": 75,
+    "url": "https://csacademy.com/contest/archive/task/vaporeon/"
+  },
+  {
+    "slug": "next-dance-move",
+    "title": "Next Dance Move",
+    "contest": "Round #32",
+    "difficulty": "EASY",
+    "solved_ratio": "94%",
+    "solved_count": 1028,
+    "tried_count": 1083,
+    "url": "https://csacademy.com/contest/archive/task/next-dance-move/"
+  },
+  {
+    "slug": "food-pairing",
+    "title": "Food Pairing",
+    "contest": "Round #32",
+    "difficulty": "EASY",
+    "solved_ratio": "90%",
+    "solved_count": 510,
+    "tried_count": 562,
+    "url": "https://csacademy.com/contest/archive/task/food-pairing/"
+  },
+  {
+    "slug": "subarray-partition",
+    "title": "Subarray Partition",
+    "contest": "Round #32",
+    "difficulty": "EASY",
+    "solved_ratio": "87%",
+    "solved_count": 531,
+    "tried_count": 604,
+    "url": "https://csacademy.com/contest/archive/task/subarray-partition/"
+  },
+  {
+    "slug": "sqrt-frac-easy",
+    "title": "Square Root Frac (Easy)",
+    "contest": "Round #32",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "69%",
+    "solved_count": 272,
+    "tried_count": 393,
+    "url": "https://csacademy.com/contest/archive/task/sqrt-frac-easy/"
+  },
+  {
+    "slug": "equidistant-points",
+    "title": "Equidistant Points",
+    "contest": "Round #32",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "89%",
+    "solved_count": 388,
+    "tried_count": 435,
+    "url": "https://csacademy.com/contest/archive/task/equidistant-points/"
+  },
+  {
+    "slug": "light-count",
+    "title": "Light Count",
+    "contest": "Round #32",
+    "difficulty": "HARD",
+    "solved_ratio": "68%",
+    "solved_count": 135,
+    "tried_count": 198,
+    "url": "https://csacademy.com/contest/archive/task/light-count/"
+  },
+  {
+    "slug": "sum-of-powers",
+    "title": "Sum of Powers",
+    "contest": "Round #32",
+    "difficulty": "HARD",
+    "solved_ratio": "86%",
+    "solved_count": 140,
+    "tried_count": 161,
+    "url": "https://csacademy.com/contest/archive/task/sum-of-powers/"
+  },
+  {
+    "slug": "sqrt-frac-hard",
+    "title": "Square Root Frac (Hard)",
+    "contest": "Round #32",
+    "difficulty": null,
+    "solved_ratio": "55%",
+    "solved_count": 34,
+    "tried_count": 61,
+    "url": "https://csacademy.com/contest/archive/task/sqrt-frac-hard/"
+  },
+  {
+    "slug": "bounding-box",
+    "title": "Bounding Box",
+    "contest": "Round #33 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 721,
+    "tried_count": 733,
+    "url": "https://csacademy.com/contest/archive/task/bounding-box/"
+  },
+  {
+    "slug": "numbers-tournament",
+    "title": "Numbers Tournament",
+    "contest": "Round #33 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "90%",
+    "solved_count": 429,
+    "tried_count": 476,
+    "url": "https://csacademy.com/contest/archive/task/numbers-tournament/"
+  },
+  {
+    "slug": "div-3",
+    "title": "Div 3",
+    "contest": "Round #33 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "86%",
+    "solved_count": 1184,
+    "tried_count": 1367,
+    "url": "https://csacademy.com/contest/archive/task/div-3/"
+  },
+  {
+    "slug": "subinterval-division",
+    "title": "Subinterval Division",
+    "contest": "Round #33 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "61%",
+    "solved_count": 101,
+    "tried_count": 163,
+    "url": "https://csacademy.com/contest/archive/task/subinterval-division/"
+  },
+  {
+    "slug": "free-palindromes",
+    "title": "Free Palindromes",
+    "contest": "Round #33 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "66%",
+    "solved_count": 143,
+    "tried_count": 214,
+    "url": "https://csacademy.com/contest/archive/task/free-palindromes/"
+  },
+  {
+    "slug": "server-attack",
+    "title": "Server Attack",
+    "contest": "Round #34 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 718,
+    "tried_count": 735,
+    "url": "https://csacademy.com/contest/archive/task/server-attack/"
+  },
+  {
+    "slug": "choose-the-price",
+    "title": "Choose the Price",
+    "contest": "Round #34 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 831,
+    "tried_count": 843,
+    "url": "https://csacademy.com/contest/archive/task/choose-the-price/"
+  },
+  {
+    "slug": "max-or-subarray",
+    "title": "Max Or Subarray",
+    "contest": "Round #34 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "81%",
+    "solved_count": 521,
+    "tried_count": 637,
+    "url": "https://csacademy.com/contest/archive/task/max-or-subarray/"
+  },
+  {
+    "slug": "minimize-max-diff",
+    "title": "Minimize Max Diff",
+    "contest": "Round #34 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "84%",
+    "solved_count": 672,
+    "tried_count": 800,
+    "url": "https://csacademy.com/contest/archive/task/minimize-max-diff/"
+  },
+  {
+    "slug": "point-in-kgon",
+    "title": "Point in Kgon",
+    "contest": "Round #34 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "91%",
+    "solved_count": 161,
+    "tried_count": 176,
+    "url": "https://csacademy.com/contest/archive/task/point-in-kgon/"
+  },
+  {
+    "slug": "refrigerator-letters",
+    "title": "Refrigerator Letters",
+    "contest": "Round #35",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 925,
+    "tried_count": 953,
+    "url": "https://csacademy.com/contest/archive/task/refrigerator-letters/"
+  },
+  {
+    "slug": "decreasing-subarrays",
+    "title": "Decreasing Subarrays",
+    "contest": "Round #35",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 808,
+    "tried_count": 832,
+    "url": "https://csacademy.com/contest/archive/task/decreasing-subarrays/"
+  },
+  {
+    "slug": "equal-sums",
+    "title": "Equal Sums",
+    "contest": "Round #35",
+    "difficulty": "EASY",
+    "solved_ratio": "93%",
+    "solved_count": 543,
+    "tried_count": 582,
+    "url": "https://csacademy.com/contest/archive/task/equal-sums/"
+  },
+  {
+    "slug": "least-even-digits",
+    "title": "Least Even Digits",
+    "contest": "Round #35",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "68%",
+    "solved_count": 305,
+    "tried_count": 443,
+    "url": "https://csacademy.com/contest/archive/task/least-even-digits/"
+  },
+  {
+    "slug": "build-binary-matrix",
+    "title": "Build Binary Matrix",
+    "contest": "Round #35",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "74%",
+    "solved_count": 139,
+    "tried_count": 186,
+    "url": "https://csacademy.com/contest/archive/task/build-binary-matrix/"
+  },
+  {
+    "slug": "min-max-sum",
+    "title": "Min Max Sum",
+    "contest": "Round #35",
+    "difficulty": "HARD",
+    "solved_ratio": "84%",
+    "solved_count": 127,
+    "tried_count": 150,
+    "url": "https://csacademy.com/contest/archive/task/min-max-sum/"
+  },
+  {
+    "slug": "counting-quests",
+    "title": "Counting Quests",
+    "contest": "Round #35",
+    "difficulty": null,
+    "solved_ratio": "91%",
+    "solved_count": 79,
+    "tried_count": 86,
+    "url": "https://csacademy.com/contest/archive/task/counting-quests/"
+  },
+  {
+    "slug": "strings",
+    "title": "Strings",
+    "contest": "Balkan OI 2017 Day 1",
+    "difficulty": "HARD",
+    "solved_ratio": "67%",
+    "solved_count": 208,
+    "tried_count": 306,
+    "url": "https://csacademy.com/contest/archive/task/strings/"
+  },
+  {
+    "slug": "sheets",
+    "title": "Sheets",
+    "contest": "Balkan OI 2017 Day 1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "80%",
+    "solved_count": 184,
+    "tried_count": 229,
+    "url": "https://csacademy.com/contest/archive/task/sheets/"
+  },
+  {
+    "slug": "tale",
+    "title": "Tale",
+    "contest": "Balkan OI 2017 Day 1",
+    "difficulty": null,
+    "solved_ratio": "20%",
+    "solved_count": 30,
+    "tried_count": 148,
+    "url": "https://csacademy.com/contest/archive/task/tale/"
+  },
+  {
+    "slug": "bicycle-rental",
+    "title": "Bicycle Rental",
+    "contest": "Round #36 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 981,
+    "tried_count": 1007,
+    "url": "https://csacademy.com/contest/archive/task/bicycle-rental/"
+  },
+  {
+    "slug": "safe-spots",
+    "title": "Safe Spots",
+    "contest": "Round #36 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 606,
+    "tried_count": 682,
+    "url": "https://csacademy.com/contest/archive/task/safe-spots/"
+  },
+  {
+    "slug": "socks-pairs",
+    "title": "Socks Pairs",
+    "contest": "Round #36 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "66%",
+    "solved_count": 305,
+    "tried_count": 461,
+    "url": "https://csacademy.com/contest/archive/task/socks-pairs/"
+  },
+  {
+    "slug": "tree-nodes-sets",
+    "title": "Tree Nodes Sets",
+    "contest": "Round #36 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 294,
+    "tried_count": 334,
+    "url": "https://csacademy.com/contest/archive/task/tree-nodes-sets/"
+  },
+  {
+    "slug": "bbox-count",
+    "title": "BBox Count",
+    "contest": "Round #36 (Div. 2 only)",
+    "difficulty": "HARD",
+    "solved_ratio": "90%",
+    "solved_count": 73,
+    "tried_count": 81,
+    "url": "https://csacademy.com/contest/archive/task/bbox-count/"
+  },
+  {
+    "slug": "cats",
+    "title": "Cats",
+    "contest": "Balkan OI 2017 Day 2",
+    "difficulty": "HARD",
+    "solved_ratio": "62%",
+    "solved_count": 109,
+    "tried_count": 175,
+    "url": "https://csacademy.com/contest/archive/task/cats/"
+  },
+  {
+    "slug": "monsters",
+    "title": "Monsters",
+    "contest": "Balkan OI 2017 Day 2",
+    "difficulty": "HARD",
+    "solved_ratio": "71%",
+    "solved_count": 136,
+    "tried_count": 191,
+    "url": "https://csacademy.com/contest/archive/task/monsters/"
+  },
+  {
+    "slug": "city-attractions",
+    "title": "City Attractions",
+    "contest": "Balkan OI 2017 Day 2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "69%",
+    "solved_count": 268,
+    "tried_count": 385,
+    "url": "https://csacademy.com/contest/archive/task/city-attractions/"
+  },
+  {
+    "slug": "boring-number",
+    "title": "Boring Number",
+    "contest": "Round #37 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "96%",
+    "solved_count": 813,
+    "tried_count": 844,
+    "url": "https://csacademy.com/contest/archive/task/boring-number/"
+  },
+  {
+    "slug": "group-split",
+    "title": "Group Split",
+    "contest": "Round #37 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "85%",
+    "solved_count": 630,
+    "tried_count": 740,
+    "url": "https://csacademy.com/contest/archive/task/group-split/"
+  },
+  {
+    "slug": "fantastic-4",
+    "title": "Fantastic 4",
+    "contest": "Round #37 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "22%",
+    "solved_count": 91,
+    "tried_count": 406,
+    "url": "https://csacademy.com/contest/archive/task/fantastic-4/"
+  },
+  {
+    "slug": "reconstruct-graph",
+    "title": "Reconstruct Graph",
+    "contest": "Round #37 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "90%",
+    "solved_count": 172,
+    "tried_count": 190,
+    "url": "https://csacademy.com/contest/archive/task/reconstruct-graph/"
+  },
+  {
+    "slug": "recursive-arrays",
+    "title": "Recursive Arrays",
+    "contest": "Round #37 (Div. 2 only)",
+    "difficulty": "HARD",
+    "solved_ratio": "67%",
+    "solved_count": 51,
+    "tried_count": 76,
+    "url": "https://csacademy.com/contest/archive/task/recursive-arrays/"
+  },
+  {
+    "slug": "shoe-pairs",
+    "title": "Shoe Pairs",
+    "contest": "Round #38",
+    "difficulty": "EASY",
+    "solved_ratio": "89%",
+    "solved_count": 3709,
+    "tried_count": 4158,
+    "url": "https://csacademy.com/contest/archive/task/shoe-pairs/"
+  },
+  {
+    "slug": "attack-and-speed",
+    "title": "Attack and Speed",
+    "contest": "Round #38",
+    "difficulty": "EASY",
+    "solved_ratio": "87%",
+    "solved_count": 2189,
+    "tried_count": 2496,
+    "url": "https://csacademy.com/contest/archive/task/attack-and-speed/"
+  },
+  {
+    "slug": "bounded-difference",
+    "title": "Bounded Difference",
+    "contest": "Round #38",
+    "difficulty": "EASY",
+    "solved_ratio": "82%",
+    "solved_count": 482,
+    "tried_count": 583,
+    "url": "https://csacademy.com/contest/archive/task/bounded-difference/"
+  },
+  {
+    "slug": "tree-antichain-easy",
+    "title": "Tree Antichain (Easy)",
+    "contest": "Round #38",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "80%",
+    "solved_count": 389,
+    "tried_count": 481,
+    "url": "https://csacademy.com/contest/archive/task/tree-antichain-easy/"
+  },
+  {
+    "slug": "path-union",
+    "title": "Path Union",
+    "contest": "Round #38",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 208,
+    "tried_count": 235,
+    "url": "https://csacademy.com/contest/archive/task/path-union/"
+  },
+  {
+    "slug": "tree-antichain-hard",
+    "title": "Tree Antichain (Hard)",
+    "contest": "Round #38",
+    "difficulty": "HARD",
+    "solved_ratio": "73%",
+    "solved_count": 99,
+    "tried_count": 135,
+    "url": "https://csacademy.com/contest/archive/task/tree-antichain-hard/"
+  },
+  {
+    "slug": "parallel-lines",
+    "title": "Parallel Lines",
+    "contest": "Round #38",
+    "difficulty": "HARD",
+    "solved_ratio": "53%",
+    "solved_count": 69,
+    "tried_count": 129,
+    "url": "https://csacademy.com/contest/archive/task/parallel-lines/"
+  },
+  {
+    "slug": "checkroom-hooks",
+    "title": "Checkroom Hooks",
+    "contest": "Round #38",
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 42,
+    "tried_count": 49,
+    "url": "https://csacademy.com/contest/archive/task/checkroom-hooks/"
+  },
+  {
+    "slug": "one-way-streets",
+    "title": "One Way Streets",
+    "contest": "CEOI 2017 Day 1",
+    "difficulty": "HARD",
+    "solved_ratio": "79%",
+    "solved_count": 199,
+    "tried_count": 249,
+    "url": "https://csacademy.com/contest/archive/task/one-way-streets/"
+  },
+  {
+    "slug": "sure-bet",
+    "title": "Sure Bet",
+    "contest": "CEOI 2017 Day 1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "87%",
+    "solved_count": 341,
+    "tried_count": 390,
+    "url": "https://csacademy.com/contest/archive/task/sure-bet/"
+  },
+  {
+    "slug": "mousetrap",
+    "title": "Mousetrap",
+    "contest": "CEOI 2017 Day 1",
+    "difficulty": "HARD",
+    "solved_ratio": "53%",
+    "solved_count": 64,
+    "tried_count": 119,
+    "url": "https://csacademy.com/contest/archive/task/mousetrap/"
+  },
+  {
+    "slug": "building-bridges",
+    "title": "Building Bridges",
+    "contest": "CEOI 2017 Day 2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "71%",
+    "solved_count": 156,
+    "tried_count": 218,
+    "url": "https://csacademy.com/contest/archive/task/building-bridges/"
+  },
+  {
+    "slug": "palindromic-partitions",
+    "title": "Palindromic Partitions",
+    "contest": "CEOI 2017 Day 2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "84%",
+    "solved_count": 226,
+    "tried_count": 269,
+    "url": "https://csacademy.com/contest/archive/task/palindromic-partitions/"
+  },
+  {
+    "slug": "chase",
+    "title": "Chase",
+    "contest": "CEOI 2017 Day 2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "62%",
+    "solved_count": 91,
+    "tried_count": 146,
+    "url": "https://csacademy.com/contest/archive/task/chase/"
+  },
+  {
+    "slug": "removed-pages",
+    "title": "Removed Pages",
+    "contest": "Round #39 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 989,
+    "tried_count": 1010,
+    "url": "https://csacademy.com/contest/archive/task/removed-pages/"
+  },
+  {
+    "slug": "circle-elimination",
+    "title": "Circle Elimination",
+    "contest": "Round #39 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "94%",
+    "solved_count": 813,
+    "tried_count": 860,
+    "url": "https://csacademy.com/contest/archive/task/circle-elimination/"
+  },
+  {
+    "slug": "reconstruct-sum",
+    "title": "Reconstruct Sum",
+    "contest": "Round #39 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "96%",
+    "solved_count": 390,
+    "tried_count": 403,
+    "url": "https://csacademy.com/contest/archive/task/reconstruct-sum/"
+  },
+  {
+    "slug": "seven-segment-display",
+    "title": "Seven-segment Display",
+    "contest": "Round #39 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "76%",
+    "solved_count": 327,
+    "tried_count": 425,
+    "url": "https://csacademy.com/contest/archive/task/seven-segment-display/"
+  },
+  {
+    "slug": "k-swap",
+    "title": "K Swap",
+    "contest": "Round #39 (Div. 2 only)",
+    "difficulty": "HARD",
+    "solved_ratio": "67%",
+    "solved_count": 95,
+    "tried_count": 141,
+    "url": "https://csacademy.com/contest/archive/task/k-swap/"
+  },
+  {
+    "slug": "move-the-bishop",
+    "title": "Move the Bishop",
+    "contest": "Round #40 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 1343,
+    "tried_count": 1473,
+    "url": "https://csacademy.com/contest/archive/task/move-the-bishop/"
+  },
+  {
+    "slug": "switch-the-lights",
+    "title": "Switch the Lights",
+    "contest": "Round #40 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 585,
+    "tried_count": 634,
+    "url": "https://csacademy.com/contest/archive/task/switch-the-lights/"
+  },
+  {
+    "slug": "erase-value",
+    "title": "Erase Value",
+    "contest": "Round #40 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 1964,
+    "tried_count": 2023,
+    "url": "https://csacademy.com/contest/archive/task/erase-value/"
+  },
+  {
+    "slug": "restricted-permutations",
+    "title": "Restricted Permutations",
+    "contest": "Round #40 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "94%",
+    "solved_count": 395,
+    "tried_count": 417,
+    "url": "https://csacademy.com/contest/archive/task/restricted-permutations/"
+  },
+  {
+    "slug": "direct-the-graph",
+    "title": "Direct the Graph",
+    "contest": "Round #40 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "91%",
+    "solved_count": 161,
+    "tried_count": 176,
+    "url": "https://csacademy.com/contest/archive/task/direct-the-graph/"
+  },
+  {
+    "slug": "cinema-seats",
+    "title": "Cinema Seats",
+    "contest": "Round #41",
+    "difficulty": "EASY",
+    "solved_ratio": "87%",
+    "solved_count": 759,
+    "tried_count": 867,
+    "url": "https://csacademy.com/contest/archive/task/cinema-seats/"
+  },
+  {
+    "slug": "min-pairing",
+    "title": "Min Pairing",
+    "contest": "Round #41",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 1844,
+    "tried_count": 1876,
+    "url": "https://csacademy.com/contest/archive/task/min-pairing/"
+  },
+  {
+    "slug": "add-and-subtract",
+    "title": "Add and Subtract",
+    "contest": "Round #41",
+    "difficulty": null,
+    "solved_ratio": "70%",
+    "solved_count": 39,
+    "tried_count": 55,
+    "url": "https://csacademy.com/contest/archive/task/add-and-subtract/"
+  },
+  {
+    "slug": "subset-trees",
+    "title": "Subset Trees",
+    "contest": "Round #41",
+    "difficulty": "HARD",
+    "solved_ratio": "93%",
+    "solved_count": 88,
+    "tried_count": 94,
+    "url": "https://csacademy.com/contest/archive/task/subset-trees/"
+  },
+  {
+    "slug": "candles",
+    "title": "Candles",
+    "contest": "Round #41",
+    "difficulty": "HARD",
+    "solved_ratio": "69%",
+    "solved_count": 320,
+    "tried_count": 458,
+    "url": "https://csacademy.com/contest/archive/task/candles/"
+  },
+  {
+    "slug": "bfs-dfs",
+    "title": "BFS-DFS",
+    "contest": "Round #41",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 869,
+    "tried_count": 983,
+    "url": "https://csacademy.com/contest/archive/task/bfs-dfs/"
+  },
+  {
+    "slug": "tennis-tournament",
+    "title": "Tennis Tournament",
+    "contest": "Round #41",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 680,
+    "tried_count": 733,
+    "url": "https://csacademy.com/contest/archive/task/tennis-tournament/"
+  },
+  {
+    "slug": "xor-submatrix",
+    "title": "Xor Submatrix",
+    "contest": "Round #42 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 326,
+    "tried_count": 398,
+    "url": "https://csacademy.com/contest/archive/task/xor-submatrix/"
+  },
+  {
+    "slug": "prefix-matches",
+    "title": "Prefix Matches",
+    "contest": "Round #42 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "92%",
+    "solved_count": 565,
+    "tried_count": 608,
+    "url": "https://csacademy.com/contest/archive/task/prefix-matches/"
+  },
+  {
+    "slug": "sorting-steps",
+    "title": "Sorting Steps",
+    "contest": "Round #42 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "73%",
+    "solved_count": 458,
+    "tried_count": 623,
+    "url": "https://csacademy.com/contest/archive/task/sorting-steps/"
+  },
+  {
+    "slug": "double-replace",
+    "title": "Double Replace",
+    "contest": "Round #42 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 1034,
+    "tried_count": 1082,
+    "url": "https://csacademy.com/contest/archive/task/double-replace/"
+  },
+  {
+    "slug": "balanced-number",
+    "title": "Balanced Number",
+    "contest": "Round #42 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "93%",
+    "solved_count": 2014,
+    "tried_count": 2164,
+    "url": "https://csacademy.com/contest/archive/task/balanced-number/"
+  },
+  {
+    "slug": "diesel-train",
+    "title": "Diesel Train",
+    "contest": "Round #43",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "90%",
+    "solved_count": 475,
+    "tried_count": 526,
+    "url": "https://csacademy.com/contest/archive/task/diesel-train/"
+  },
+  {
+    "slug": "coprime",
+    "title": "Coprime Pairs",
+    "contest": "Round #43",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "89%",
+    "solved_count": 302,
+    "tried_count": 339,
+    "url": "https://csacademy.com/contest/archive/task/coprime/"
+  },
+  {
+    "slug": "tree-construct",
+    "title": "Tree Reconstruction",
+    "contest": "Round #43",
+    "difficulty": "HARD",
+    "solved_ratio": "63%",
+    "solved_count": 36,
+    "tried_count": 57,
+    "url": "https://csacademy.com/contest/archive/task/tree-construct/"
+  },
+  {
+    "slug": "rectangle-partition",
+    "title": "Rectangle Partition",
+    "contest": "Round #43",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 880,
+    "tried_count": 956,
+    "url": "https://csacademy.com/contest/archive/task/rectangle-partition/"
+  },
+  {
+    "slug": "expected-dice",
+    "title": "Expected Dice",
+    "contest": "Round #43",
+    "difficulty": "EASY",
+    "solved_ratio": "96%",
+    "solved_count": 1482,
+    "tried_count": 1530,
+    "url": "https://csacademy.com/contest/archive/task/expected-dice/"
+  },
+  {
+    "slug": "digital-lcs",
+    "title": "Digital LCS",
+    "contest": "Round #43",
+    "difficulty": "HARD",
+    "solved_ratio": "61%",
+    "solved_count": 27,
+    "tried_count": 44,
+    "url": "https://csacademy.com/contest/archive/task/digital-lcs/"
+  },
+  {
+    "slug": "bad-triplet",
+    "title": "Bad Triplet",
+    "contest": "Round #43",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "86%",
+    "solved_count": 384,
+    "tried_count": 444,
+    "url": "https://csacademy.com/contest/archive/task/bad-triplet/"
+  },
+  {
+    "slug": "array-elimination",
+    "title": "Array Elimination",
+    "contest": "Round #44 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "74%",
+    "solved_count": 153,
+    "tried_count": 205,
+    "url": "https://csacademy.com/contest/archive/task/array-elimination/"
+  },
+  {
+    "slug": "frequent-numbers",
+    "title": "Frequent Numbers",
+    "contest": "Round #44 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 2321,
+    "tried_count": 2439,
+    "url": "https://csacademy.com/contest/archive/task/frequent-numbers/"
+  },
+  {
+    "slug": "count-squares",
+    "title": "Count Squares",
+    "contest": "Round #44 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "94%",
+    "solved_count": 455,
+    "tried_count": 482,
+    "url": "https://csacademy.com/contest/archive/task/count-squares/"
+  },
+  {
+    "slug": "check-dfs",
+    "title": "Check DFS",
+    "contest": "Round #44 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "76%",
+    "solved_count": 1123,
+    "tried_count": 1469,
+    "url": "https://csacademy.com/contest/archive/task/check-dfs/"
+  },
+  {
+    "slug": "square-cover",
+    "title": "Square Cover",
+    "contest": "Round #44 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "91%",
+    "solved_count": 770,
+    "tried_count": 840,
+    "url": "https://csacademy.com/contest/archive/task/square-cover/"
+  },
+  {
+    "slug": "borland",
+    "title": "Borland",
+    "contest": "Junior Challenge 2017 Day 1",
+    "difficulty": "HARD",
+    "solved_ratio": "35%",
+    "solved_count": 87,
+    "tried_count": 245,
+    "url": "https://csacademy.com/contest/archive/task/borland/"
+  },
+  {
+    "slug": "remove-update",
+    "title": "Remove Update",
+    "contest": "Junior Challenge 2017 Day 1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 639,
+    "tried_count": 780,
+    "url": "https://csacademy.com/contest/archive/task/remove-update/"
+  },
+  {
+    "slug": "chromatic-number",
+    "title": "Chromatic Number",
+    "contest": "Junior Challenge 2017 Day 1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "72%",
+    "solved_count": 112,
+    "tried_count": 155,
+    "url": "https://csacademy.com/contest/archive/task/chromatic-number/"
+  },
+  {
+    "slug": "flip-the-prefix",
+    "title": "Flip the Prefix",
+    "contest": "Round #45 (Div. 1.5)",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 683,
+    "tried_count": 736,
+    "url": "https://csacademy.com/contest/archive/task/flip-the-prefix/"
+  },
+  {
+    "slug": "erase-extremes",
+    "title": "Erase Extremes",
+    "contest": "Round #45 (Div. 1.5)",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 825,
+    "tried_count": 835,
+    "url": "https://csacademy.com/contest/archive/task/erase-extremes/"
+  },
+  {
+    "slug": "palindromic-tree",
+    "title": "Palindromic Tree",
+    "contest": "Junior Challenge 2017 Day 1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "53%",
+    "solved_count": 287,
+    "tried_count": 540,
+    "url": "https://csacademy.com/contest/archive/task/palindromic-tree/"
+  },
+  {
+    "slug": "combinatorix",
+    "title": "Combinatorix",
+    "contest": "Round #46 (Div. 1.5)",
+    "difficulty": "HARD",
+    "solved_ratio": "48%",
+    "solved_count": 43,
+    "tried_count": 89,
+    "url": "https://csacademy.com/contest/archive/task/combinatorix/"
+  },
+  {
+    "slug": "ultimateorbs",
+    "title": "Ultimate Orbs",
+    "contest": "Round #46 (Div. 1.5)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "75%",
+    "solved_count": 205,
+    "tried_count": 270,
+    "url": "https://csacademy.com/contest/archive/task/ultimateorbs/"
+  },
+  {
+    "slug": "cntgigelmat",
+    "title": "Count Gigel Matrices",
+    "contest": "Round #46 (Div. 1.5)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "48%",
+    "solved_count": 123,
+    "tried_count": 253,
+    "url": "https://csacademy.com/contest/archive/task/cntgigelmat/"
+  },
+  {
+    "slug": "flip-the-matrix",
+    "title": "Flip the Matrix",
+    "contest": "Round #46 (Div. 1.5)",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 457,
+    "tried_count": 477,
+    "url": "https://csacademy.com/contest/archive/task/flip-the-matrix/"
+  },
+  {
+    "slug": "set-subtraction",
+    "title": "Set Subtraction",
+    "contest": "Round #46 (Div. 1.5)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "89%",
+    "solved_count": 472,
+    "tried_count": 529,
+    "url": "https://csacademy.com/contest/archive/task/set-subtraction/"
+  },
+  {
+    "slug": "letters-deque",
+    "title": "Letters Deque",
+    "contest": "Round #46 (Div. 1.5)",
+    "difficulty": "EASY",
+    "solved_ratio": "99%",
+    "solved_count": 646,
+    "tried_count": 651,
+    "url": "https://csacademy.com/contest/archive/task/letters-deque/"
+  },
+  {
+    "slug": "max-snake",
+    "title": "Max Snake",
+    "contest": "Round #47",
+    "difficulty": "HARD",
+    "solved_ratio": "81%",
+    "solved_count": 44,
+    "tried_count": 54,
+    "url": "https://csacademy.com/contest/archive/task/max-snake/"
+  },
+  {
+    "slug": "gcd-rebuild",
+    "title": "Gcd Rebuild",
+    "contest": "Round #47",
+    "difficulty": "EASY",
+    "solved_ratio": "90%",
+    "solved_count": 673,
+    "tried_count": 742,
+    "url": "https://csacademy.com/contest/archive/task/gcd-rebuild/"
+  },
+  {
+    "slug": "cut-the-trees",
+    "title": "Cut the Trees",
+    "contest": "Round #47",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "73%",
+    "solved_count": 141,
+    "tried_count": 193,
+    "url": "https://csacademy.com/contest/archive/task/cut-the-trees/"
+  },
+  {
+    "slug": "adjacent-vowels",
+    "title": "Adjacent Vowels",
+    "contest": "Round #47",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 1408,
+    "tried_count": 1432,
+    "url": "https://csacademy.com/contest/archive/task/adjacent-vowels/"
+  },
+  {
+    "slug": "heap-count",
+    "title": "Heap Count",
+    "contest": "Round #47",
+    "difficulty": "HARD",
+    "solved_ratio": "81%",
+    "solved_count": 50,
+    "tried_count": 61,
+    "url": "https://csacademy.com/contest/archive/task/heap-count/"
+  },
+  {
+    "slug": "expected-merge",
+    "title": "Expected Merge",
+    "contest": "Round #47",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "89%",
+    "solved_count": 367,
+    "tried_count": 411,
+    "url": "https://csacademy.com/contest/archive/task/expected-merge/"
+  },
+  {
+    "slug": "consecutive-sum",
+    "title": "Consecutive Sum",
+    "contest": "Round #47",
+    "difficulty": "EASY",
+    "solved_ratio": "90%",
+    "solved_count": 880,
+    "tried_count": 975,
+    "url": "https://csacademy.com/contest/archive/task/consecutive-sum/"
+  },
+  {
+    "slug": "particles",
+    "title": "Particles",
+    "contest": "EJOI 2017 Day 1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "70%",
+    "solved_count": 182,
+    "tried_count": 259,
+    "url": "https://csacademy.com/contest/archive/task/particles/"
+  },
+  {
+    "slug": "magic",
+    "title": "Magic",
+    "contest": "EJOI 2017 Day 1",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "71%",
+    "solved_count": 326,
+    "tried_count": 453,
+    "url": "https://csacademy.com/contest/archive/task/magic/"
+  },
+  {
+    "slug": "six",
+    "title": "Six",
+    "contest": "EJOI 2017 Day 1",
+    "difficulty": "HARD",
+    "solved_ratio": "41%",
+    "solved_count": 81,
+    "tried_count": 194,
+    "url": "https://csacademy.com/contest/archive/task/six/"
+  },
+  {
+    "slug": "experience",
+    "title": "Experience",
+    "contest": "EJOI 2017 Day 2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "74%",
+    "solved_count": 158,
+    "tried_count": 213,
+    "url": "https://csacademy.com/contest/archive/task/experience/"
+  },
+  {
+    "slug": "game",
+    "title": "Game",
+    "contest": "EJOI 2017 Day 2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "66%",
+    "solved_count": 196,
+    "tried_count": 293,
+    "url": "https://csacademy.com/contest/archive/task/game/"
+  },
+  {
+    "slug": "camel",
+    "title": "Camel",
+    "contest": "EJOI 2017 Day 2",
+    "difficulty": "HARD",
+    "solved_ratio": "29%",
+    "solved_count": 50,
+    "tried_count": 170,
+    "url": "https://csacademy.com/contest/archive/task/camel/"
+  },
+  {
+    "slug": "dominant-free-sets",
+    "title": "Dominant Free Sets",
+    "contest": "Round #48 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 471,
+    "tried_count": 532,
+    "url": "https://csacademy.com/contest/archive/task/dominant-free-sets/"
+  },
+  {
+    "slug": "matching-substrings",
+    "title": "Matching Substrings",
+    "contest": "Round #48 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "81%",
+    "solved_count": 230,
+    "tried_count": 281,
+    "url": "https://csacademy.com/contest/archive/task/matching-substrings/"
+  },
+  {
+    "slug": "8-divisible",
+    "title": "8 Divisible",
+    "contest": "Round #48 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "65%",
+    "solved_count": 534,
+    "tried_count": 818,
+    "url": "https://csacademy.com/contest/archive/task/8-divisible/"
+  },
+  {
+    "slug": "water-volume",
+    "title": "Water Volume",
+    "contest": "Round #48 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "82%",
+    "solved_count": 820,
+    "tried_count": 991,
+    "url": "https://csacademy.com/contest/archive/task/water-volume/"
+  },
+  {
+    "slug": "game-of-chance",
+    "title": "Game of Chance",
+    "contest": "Round #48 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 1586,
+    "tried_count": 1605,
+    "url": "https://csacademy.com/contest/archive/task/game-of-chance/"
+  },
+  {
+    "slug": "money-machine",
+    "title": "Money Machine",
+    "contest": "Round #49",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 855,
+    "tried_count": 920,
+    "url": "https://csacademy.com/contest/archive/task/money-machine/"
+  },
+  {
+    "slug": "max-substring",
+    "title": "Max Substring",
+    "contest": "Round #49",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "78%",
+    "solved_count": 561,
+    "tried_count": 714,
+    "url": "https://csacademy.com/contest/archive/task/max-substring/"
+  },
+  {
+    "slug": "odd-sum",
+    "title": "Odd Sum",
+    "contest": "Round #49",
+    "difficulty": "EASY",
+    "solved_ratio": "96%",
+    "solved_count": 2764,
+    "tried_count": 2851,
+    "url": "https://csacademy.com/contest/archive/task/odd-sum/"
+  },
+  {
+    "slug": "bunny-on-number-line",
+    "title": "Bunny on Number Line",
+    "contest": "Round #49",
+    "difficulty": "HARD",
+    "solved_ratio": "86%",
+    "solved_count": 38,
+    "tried_count": 44,
+    "url": "https://csacademy.com/contest/archive/task/bunny-on-number-line/"
+  },
+  {
+    "slug": "card-collecting-game",
+    "title": "Card Collecting Game",
+    "contest": "Round #49",
+    "difficulty": null,
+    "solved_ratio": "80%",
+    "solved_count": 55,
+    "tried_count": 68,
+    "url": "https://csacademy.com/contest/archive/task/card-collecting-game/"
+  },
+  {
+    "slug": "bracket-grid",
+    "title": "Bracket Grid",
+    "contest": "Round #49",
+    "difficulty": "HARD",
+    "solved_ratio": "68%",
+    "solved_count": 66,
+    "tried_count": 96,
+    "url": "https://csacademy.com/contest/archive/task/bracket-grid/"
+  },
+  {
+    "slug": "amusement-park",
+    "title": "Amusement Park",
+    "contest": "Round #49",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "75%",
+    "solved_count": 221,
+    "tried_count": 294,
+    "url": "https://csacademy.com/contest/archive/task/amusement-park/"
+  },
+  {
+    "slug": "min-races",
+    "title": "Min Races",
+    "contest": "Round #50 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "85%",
+    "solved_count": 597,
+    "tried_count": 702,
+    "url": "https://csacademy.com/contest/archive/task/min-races/"
+  },
+  {
+    "slug": "min-swaps",
+    "title": "Min Swaps",
+    "contest": "Round #50 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "68%",
+    "solved_count": 185,
+    "tried_count": 270,
+    "url": "https://csacademy.com/contest/archive/task/min-swaps/"
+  },
+  {
+    "slug": "check-square",
+    "title": "Check Square",
+    "contest": "Round #50 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 951,
+    "tried_count": 1000,
+    "url": "https://csacademy.com/contest/archive/task/check-square/"
+  },
+  {
+    "slug": "travel-distance",
+    "title": "Travel Distance",
+    "contest": "Round #50 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 1519,
+    "tried_count": 1549,
+    "url": "https://csacademy.com/contest/archive/task/travel-distance/"
+  },
+  {
+    "slug": "friday-13",
+    "title": "Friday 13",
+    "contest": "Round #50 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 1008,
+    "tried_count": 1059,
+    "url": "https://csacademy.com/contest/archive/task/friday-13/"
+  },
+  {
+    "slug": "manhattan-distances",
+    "title": "Manhattan Distances",
+    "contest": "Round #51 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "84%",
+    "solved_count": 465,
+    "tried_count": 551,
+    "url": "https://csacademy.com/contest/archive/task/manhattan-distances/"
+  },
+  {
+    "slug": "tree-coloring",
+    "title": "Tree Coloring",
+    "contest": "Round #51 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "91%",
+    "solved_count": 457,
+    "tried_count": 500,
+    "url": "https://csacademy.com/contest/archive/task/tree-coloring/"
+  },
+  {
+    "slug": "poisoned-food",
+    "title": "Poisoned Food",
+    "contest": "Round #51 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "96%",
+    "solved_count": 1272,
+    "tried_count": 1312,
+    "url": "https://csacademy.com/contest/archive/task/poisoned-food/"
+  },
+  {
+    "slug": "race-qualifying",
+    "title": "Race Qualifying",
+    "contest": "Round #51 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "85%",
+    "solved_count": 734,
+    "tried_count": 857,
+    "url": "https://csacademy.com/contest/archive/task/race-qualifying/"
+  },
+  {
+    "slug": "wrong-brackets",
+    "title": "Wrong Brackets",
+    "contest": "Round #51 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "90%",
+    "solved_count": 183,
+    "tried_count": 202,
+    "url": "https://csacademy.com/contest/archive/task/wrong-brackets/"
+  },
+  {
+    "slug": "fold",
+    "title": "Fold",
+    "contest": "RMI 2017 Day 1",
+    "difficulty": "HARD",
+    "solved_ratio": "62%",
+    "solved_count": 51,
+    "tried_count": 81,
+    "url": "https://csacademy.com/contest/archive/task/fold/"
+  },
+  {
+    "slug": "hangman2",
+    "title": "Hangman 2",
+    "contest": "RMI 2017 Day 1",
+    "difficulty": "HARD",
+    "solved_ratio": "55%",
+    "solved_count": 206,
+    "tried_count": 369,
+    "url": "https://csacademy.com/contest/archive/task/hangman2/"
+  },
+  {
+    "slug": "fashion",
+    "title": "Fashion",
+    "contest": "RMI 2017 Day 1",
+    "difficulty": "HARD",
+    "solved_ratio": "73%",
+    "solved_count": 195,
+    "tried_count": 264,
+    "url": "https://csacademy.com/contest/archive/task/fashion/"
+  },
+  {
+    "slug": "matdiv2",
+    "title": "Mathison and the divisors 2",
+    "contest": "RMI 2017 Day 2",
+    "difficulty": "HARD",
+    "solved_ratio": "42%",
+    "solved_count": 36,
+    "tried_count": 84,
+    "url": "https://csacademy.com/contest/archive/task/matdiv2/"
+  },
+  {
+    "slug": "circuits",
+    "title": "Circuits",
+    "contest": "RMI 2017 Day 2",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "77%",
+    "solved_count": 118,
+    "tried_count": 152,
+    "url": "https://csacademy.com/contest/archive/task/circuits/"
+  },
+  {
+    "slug": "robot-in-a-labyrinth",
+    "title": "Robot in a Labyrinth",
+    "contest": "Round #52",
+    "difficulty": "HARD",
+    "solved_ratio": "80%",
+    "solved_count": 37,
+    "tried_count": 46,
+    "url": "https://csacademy.com/contest/archive/task/robot-in-a-labyrinth/"
+  },
+  {
+    "slug": "game-on-a-circle",
+    "title": "Game on a Circle",
+    "contest": "Round #52",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "75%",
+    "solved_count": 270,
+    "tried_count": 360,
+    "url": "https://csacademy.com/contest/archive/task/game-on-a-circle/"
+  },
+  {
+    "slug": "an-unstable-graph",
+    "title": "An Unstable Graph",
+    "contest": "Round #52",
+    "difficulty": "HARD",
+    "solved_ratio": "83%",
+    "solved_count": 94,
+    "tried_count": 113,
+    "url": "https://csacademy.com/contest/archive/task/an-unstable-graph/"
+  },
+  {
+    "slug": "cut-the-tree",
+    "title": "Cut the Tree",
+    "contest": "Round #52",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "77%",
+    "solved_count": 199,
+    "tried_count": 256,
+    "url": "https://csacademy.com/contest/archive/task/cut-the-tree/"
+  },
+  {
+    "slug": "virus-on-a-tree",
+    "title": "Virus on a Tree",
+    "contest": "Round #52",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "87%",
+    "solved_count": 797,
+    "tried_count": 908,
+    "url": "https://csacademy.com/contest/archive/task/virus-on-a-tree/"
+  },
+  {
+    "slug": "sum-triplets",
+    "title": "Sum Triplets",
+    "contest": "Round #52",
+    "difficulty": "EASY",
+    "solved_ratio": "77%",
+    "solved_count": 743,
+    "tried_count": 960,
+    "url": "https://csacademy.com/contest/archive/task/sum-triplets/"
+  },
+  {
+    "slug": "lucky-days",
+    "title": "Lucky Days",
+    "contest": "Round #52",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 1535,
+    "tried_count": 1562,
+    "url": "https://csacademy.com/contest/archive/task/lucky-days/"
+  },
+  {
+    "slug": "monotone-subarray",
+    "title": "Monotone Subarray",
+    "contest": "Round #53 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "93%",
+    "solved_count": 1106,
+    "tried_count": 1185,
+    "url": "https://csacademy.com/contest/archive/task/monotone-subarray/"
+  },
+  {
+    "slug": "histogram-partition",
+    "title": "Histogram Partition",
+    "contest": "Round #53 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "82%",
+    "solved_count": 690,
+    "tried_count": 838,
+    "url": "https://csacademy.com/contest/archive/task/histogram-partition/"
+  },
+  {
+    "slug": "maxor",
+    "title": "Maxor",
+    "contest": "Round #53 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "77%",
+    "solved_count": 269,
+    "tried_count": 347,
+    "url": "https://csacademy.com/contest/archive/task/maxor/"
+  },
+  {
+    "slug": "parallel-rectangles",
+    "title": "Parallel Rectangles",
+    "contest": "Round #53 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "66%",
+    "solved_count": 106,
+    "tried_count": 159,
+    "url": "https://csacademy.com/contest/archive/task/parallel-rectangles/"
+  },
+  {
+    "slug": "open-the-bottles",
+    "title": "Open the Bottles",
+    "contest": "Round #53 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 1418,
+    "tried_count": 1443,
+    "url": "https://csacademy.com/contest/archive/task/open-the-bottles/"
+  },
+  {
+    "slug": "closest-numbers",
+    "title": "Closest Numbers",
+    "contest": "Round #54",
+    "difficulty": "HARD",
+    "solved_ratio": "63%",
+    "solved_count": 77,
+    "tried_count": 122,
+    "url": "https://csacademy.com/contest/archive/task/closest-numbers/"
+  },
+  {
+    "slug": "late-edges",
+    "title": "Late Edges",
+    "contest": "Round #54",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "74%",
+    "solved_count": 323,
+    "tried_count": 433,
+    "url": "https://csacademy.com/contest/archive/task/late-edges/"
+  },
+  {
+    "slug": "pair-swap",
+    "title": "Pair Swap",
+    "contest": "Round #54",
+    "difficulty": "EASY",
+    "solved_ratio": "80%",
+    "solved_count": 967,
+    "tried_count": 1206,
+    "url": "https://csacademy.com/contest/archive/task/pair-swap/"
+  },
+  {
+    "slug": "fill-the-glasses",
+    "title": "Fill the Glasses",
+    "contest": "Round #54",
+    "difficulty": "EASY",
+    "solved_ratio": "95%",
+    "solved_count": 2090,
+    "tried_count": 2178,
+    "url": "https://csacademy.com/contest/archive/task/fill-the-glasses/"
+  },
+  {
+    "slug": "voting",
+    "title": "Voting",
+    "contest": "Round #54",
+    "difficulty": "HARD",
+    "solved_ratio": "72%",
+    "solved_count": 105,
+    "tried_count": 144,
+    "url": "https://csacademy.com/contest/archive/task/voting/"
+  },
+  {
+    "slug": "spanning-trees",
+    "title": "Spanning Trees",
+    "contest": "Round #54",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "90%",
+    "solved_count": 588,
+    "tried_count": 653,
+    "url": "https://csacademy.com/contest/archive/task/spanning-trees/"
+  },
+  {
+    "slug": "acronyms",
+    "title": "Acronyms",
+    "contest": "Round #54",
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 1119,
+    "tried_count": 1270,
+    "url": "https://csacademy.com/contest/archive/task/acronyms/"
+  },
+  {
+    "slug": "black-white-tree",
+    "title": "Black White Tree",
+    "contest": "Round #55 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "70%",
+    "solved_count": 168,
+    "tried_count": 238,
+    "url": "https://csacademy.com/contest/archive/task/black-white-tree/"
+  },
+  {
+    "slug": "matrix-palindromes",
+    "title": "Matrix Palindromes",
+    "contest": "Round #55 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "73%",
+    "solved_count": 233,
+    "tried_count": 316,
+    "url": "https://csacademy.com/contest/archive/task/matrix-palindromes/"
+  },
+  {
+    "slug": "build-the-fence",
+    "title": "Build the Fence",
+    "contest": "Round #55 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "88%",
+    "solved_count": 1308,
+    "tried_count": 1484,
+    "url": "https://csacademy.com/contest/archive/task/build-the-fence/"
+  },
+  {
+    "slug": "red-blue-teams",
+    "title": "Red Blue Teams",
+    "contest": "Round #55 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "93%",
+    "solved_count": 1422,
+    "tried_count": 1516,
+    "url": "https://csacademy.com/contest/archive/task/red-blue-teams/"
+  },
+  {
+    "slug": "plants",
+    "title": "Plants",
+    "contest": "Round #55 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "99%",
+    "solved_count": 1719,
+    "tried_count": 1734,
+    "url": "https://csacademy.com/contest/archive/task/plants/"
+  },
+  {
+    "slug": "expected-max",
+    "title": "Expected Max",
+    "contest": "Round #56",
+    "difficulty": "HARD",
+    "solved_ratio": "92%",
+    "solved_count": 66,
+    "tried_count": 71,
+    "url": "https://csacademy.com/contest/archive/task/expected-max/"
+  },
+  {
+    "slug": "or-problem",
+    "title": "Or Problem",
+    "contest": "Round #56",
+    "difficulty": "HARD",
+    "solved_ratio": "72%",
+    "solved_count": 163,
+    "tried_count": 224,
+    "url": "https://csacademy.com/contest/archive/task/or-problem/"
+  },
+  {
+    "slug": "disjoint-tree-paths",
+    "title": "Disjoint Tree Paths",
+    "contest": "Round #56",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "58%",
+    "solved_count": 91,
+    "tried_count": 156,
+    "url": "https://csacademy.com/contest/archive/task/disjoint-tree-paths/"
+  },
+  {
+    "slug": "find-path-union",
+    "title": "Find Path Union",
+    "contest": "Round #56",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "47%",
+    "solved_count": 293,
+    "tried_count": 619,
+    "url": "https://csacademy.com/contest/archive/task/find-path-union/"
+  },
+  {
+    "slug": "find-edge-list",
+    "title": "Find Edge List",
+    "contest": "Round #56",
+    "difficulty": "EASY",
+    "solved_ratio": "82%",
+    "solved_count": 469,
+    "tried_count": 568,
+    "url": "https://csacademy.com/contest/archive/task/find-edge-list/"
+  },
+  {
+    "slug": "falling-leaves",
+    "title": "Falling Leaves",
+    "contest": "Round #56",
+    "difficulty": "EASY",
+    "solved_ratio": "89%",
+    "solved_count": 782,
+    "tried_count": 874,
+    "url": "https://csacademy.com/contest/archive/task/falling-leaves/"
+  },
+  {
+    "slug": "nested-segments",
+    "title": "Nested Segments",
+    "contest": "Round #56",
+    "difficulty": "EASY",
+    "solved_ratio": "92%",
+    "solved_count": 1228,
+    "tried_count": 1322,
+    "url": "https://csacademy.com/contest/archive/task/nested-segments/"
+  },
+  {
+    "slug": "binary-flips",
+    "title": "Binary Flips",
+    "contest": "Round #57 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "95%",
+    "solved_count": 128,
+    "tried_count": 134,
+    "url": "https://csacademy.com/contest/archive/task/binary-flips/"
+  },
+  {
+    "slug": "distinct-palindromes",
+    "title": "Distinct Palindromes",
+    "contest": "Round #57 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 288,
+    "tried_count": 326,
+    "url": "https://csacademy.com/contest/archive/task/distinct-palindromes/"
+  },
+  {
+    "slug": "foxes-on-a-wheel",
+    "title": "Foxes on a Wheel",
+    "contest": "Round #57 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "73%",
+    "solved_count": 526,
+    "tried_count": 718,
+    "url": "https://csacademy.com/contest/archive/task/foxes-on-a-wheel/"
+  },
+  {
+    "slug": "fast-typing",
+    "title": "Fast Typing",
+    "contest": "Round #57 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "98%",
+    "solved_count": 1446,
+    "tried_count": 1466,
+    "url": "https://csacademy.com/contest/archive/task/fast-typing/"
+  },
+  {
+    "slug": "concatenated-array",
+    "title": "Concatenated Array",
+    "contest": "Round #57 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "84%",
+    "solved_count": 857,
+    "tried_count": 1010,
+    "url": "https://csacademy.com/contest/archive/task/concatenated-array/"
+  },
+  {
+    "slug": "path-inversions",
+    "title": "Path Inversions",
+    "contest": "Round #58",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "86%",
+    "solved_count": 278,
+    "tried_count": 320,
+    "url": "https://csacademy.com/contest/archive/task/path-inversions/"
+  },
+  {
+    "slug": "palindromic-friendship",
+    "title": "Palindromic Friendship",
+    "contest": "Round #58",
+    "difficulty": "EASY",
+    "solved_ratio": "85%",
+    "solved_count": 552,
+    "tried_count": 642,
+    "url": "https://csacademy.com/contest/archive/task/palindromic-friendship/"
+  },
+  {
+    "slug": "cut-the-edges",
+    "title": "Cut the Edges",
+    "contest": "Round #58",
+    "difficulty": "HARD",
+    "solved_ratio": "87%",
+    "solved_count": 126,
+    "tried_count": 144,
+    "url": "https://csacademy.com/contest/archive/task/cut-the-edges/"
+  },
+  {
+    "slug": "tournament-swaps",
+    "title": "Tournament Swaps",
+    "contest": "Round #58",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "83%",
+    "solved_count": 325,
+    "tried_count": 390,
+    "url": "https://csacademy.com/contest/archive/task/tournament-swaps/"
+  },
+  {
+    "slug": "contiguous-segments",
+    "title": "Contiguous Segments",
+    "contest": "Round #58",
+    "difficulty": "EASY",
+    "solved_ratio": "85%",
+    "solved_count": 692,
+    "tried_count": 813,
+    "url": "https://csacademy.com/contest/archive/task/contiguous-segments/"
+  },
+  {
+    "slug": "binary-swaps",
+    "title": "Binary Swaps",
+    "contest": "Round #58",
+    "difficulty": "HARD",
+    "solved_ratio": "43%",
+    "solved_count": 50,
+    "tried_count": 114,
+    "url": "https://csacademy.com/contest/archive/task/binary-swaps/"
+  },
+  {
+    "slug": "anomalies",
+    "title": "Anomalies",
+    "contest": "Round #58",
+    "difficulty": "EASY",
+    "solved_ratio": "96%",
+    "solved_count": 1335,
+    "tried_count": 1378,
+    "url": "https://csacademy.com/contest/archive/task/anomalies/"
+  },
+  {
+    "slug": "khans",
+    "title": "Khans",
+    "contest": "IATI Shumen 2017 Day 1",
+    "difficulty": null,
+    "solved_ratio": "56%",
+    "solved_count": 52,
+    "tried_count": 92,
+    "url": "https://csacademy.com/contest/archive/task/khans/"
+  },
+  {
+    "slug": "superstition",
+    "title": "Superstition",
+    "contest": "IATI Shumen 2017 Day 1",
+    "difficulty": null,
+    "solved_ratio": "45%",
+    "solved_count": 42,
+    "tried_count": 92,
+    "url": "https://csacademy.com/contest/archive/task/superstition/"
+  },
+  {
+    "slug": "robots",
+    "title": "Robots",
+    "contest": "IATI Shumen 2017 Day 1",
+    "difficulty": null,
+    "solved_ratio": "40%",
+    "solved_count": 18,
+    "tried_count": 44,
+    "url": "https://csacademy.com/contest/archive/task/robots/"
+  },
+  {
+    "slug": "colorgraph",
+    "title": "Colorgraph",
+    "contest": "IATI Shumen 2017 Day 2",
+    "difficulty": null,
+    "solved_ratio": "47%",
+    "solved_count": 29,
+    "tried_count": 61,
+    "url": "https://csacademy.com/contest/archive/task/colorgraph/"
+  },
+  {
+    "slug": "crypto",
+    "title": "Crypto",
+    "contest": "IATI Shumen 2017 Day 2",
+    "difficulty": null,
+    "solved_ratio": "61%",
+    "solved_count": 39,
+    "tried_count": 63,
+    "url": "https://csacademy.com/contest/archive/task/crypto/"
+  },
+  {
+    "slug": "clubs",
+    "title": "Clubs",
+    "contest": "IATI Shumen 2017 Day 2",
+    "difficulty": null,
+    "solved_ratio": "36%",
+    "solved_count": 29,
+    "tried_count": 80,
+    "url": "https://csacademy.com/contest/archive/task/clubs/"
+  },
+  {
+    "slug": "fibonacci-mod",
+    "title": "Fibonacci Mod",
+    "contest": "Round #59 (Div. 2 only)",
+    "difficulty": "HARD",
+    "solved_ratio": "69%",
+    "solved_count": 125,
+    "tried_count": 180,
+    "url": "https://csacademy.com/contest/archive/task/fibonacci-mod/"
+  },
+  {
+    "slug": "editor",
+    "title": "Editor",
+    "contest": "Round #59 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "67%",
+    "solved_count": 135,
+    "tried_count": 200,
+    "url": "https://csacademy.com/contest/archive/task/editor/"
+  },
+  {
+    "slug": "triangular-matrix",
+    "title": "Triangular Matrix",
+    "contest": "Round #59 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "69%",
+    "solved_count": 477,
+    "tried_count": 688,
+    "url": "https://csacademy.com/contest/archive/task/triangular-matrix/"
+  },
+  {
+    "slug": "win-percentages",
+    "title": "Win Percentages",
+    "contest": "Round #59 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "67%",
+    "solved_count": 498,
+    "tried_count": 735,
+    "url": "https://csacademy.com/contest/archive/task/win-percentages/"
+  },
+  {
+    "slug": "no-repeat",
+    "title": "No Repeat",
+    "contest": "Round #59 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "97%",
+    "solved_count": 1107,
+    "tried_count": 1141,
+    "url": "https://csacademy.com/contest/archive/task/no-repeat/"
+  },
+  {
+    "slug": "flip-the-edges",
+    "title": "Flip the Edges",
+    "contest": "Round #60 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "77%",
+    "solved_count": 70,
+    "tried_count": 90,
+    "url": "https://csacademy.com/contest/archive/task/flip-the-edges/"
+  },
+  {
+    "slug": "card-groups",
+    "title": "Card Groups",
+    "contest": "Round #60 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "62%",
+    "solved_count": 235,
+    "tried_count": 377,
+    "url": "https://csacademy.com/contest/archive/task/card-groups/"
+  },
+  {
+    "slug": "digit-permutation",
+    "title": "Digit Permutation",
+    "contest": "Round #60 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "65%",
+    "solved_count": 301,
+    "tried_count": 463,
+    "url": "https://csacademy.com/contest/archive/task/digit-permutation/"
+  },
+  {
+    "slug": "two-elevators",
+    "title": "Two Elevators",
+    "contest": "Round #60 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "96%",
+    "solved_count": 894,
+    "tried_count": 922,
+    "url": "https://csacademy.com/contest/archive/task/two-elevators/"
+  },
+  {
+    "slug": "grade-system",
+    "title": "Grade System",
+    "contest": "Round #60 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "98%",
+    "solved_count": 1298,
+    "tried_count": 1318,
+    "url": "https://csacademy.com/contest/archive/task/grade-system/"
+  },
+  {
+    "slug": "xor-the-graph",
+    "title": "Xor the Graph",
+    "contest": "Round #61",
+    "difficulty": null,
+    "solved_ratio": "79%",
+    "solved_count": 76,
+    "tried_count": 96,
+    "url": "https://csacademy.com/contest/archive/task/xor-the-graph/"
+  },
+  {
+    "slug": "find-the-matrix",
+    "title": "Find the Matrix",
+    "contest": "Round #61",
+    "difficulty": null,
+    "solved_ratio": "78%",
+    "solved_count": 29,
+    "tried_count": 37,
+    "url": "https://csacademy.com/contest/archive/task/find-the-matrix/"
+  },
+  {
+    "slug": "unstable-merge-sort",
+    "title": "Unstable Merge Sort",
+    "contest": "Round #61",
+    "difficulty": "HARD",
+    "solved_ratio": "88%",
+    "solved_count": 83,
+    "tried_count": 94,
+    "url": "https://csacademy.com/contest/archive/task/unstable-merge-sort/"
+  },
+  {
+    "slug": "paint-the-fence",
+    "title": "Paint the Fence",
+    "contest": "Round #61",
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 759,
+    "tried_count": 847,
+    "url": "https://csacademy.com/contest/archive/task/paint-the-fence/"
+  },
+  {
+    "slug": "alternant-array",
+    "title": "Alternant Array",
+    "contest": "Round #61",
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 1077,
+    "tried_count": 1146,
+    "url": "https://csacademy.com/contest/archive/task/alternant-array/"
+  },
+  {
+    "slug": "celsius-to-fahrenheit",
+    "title": "Celsius to Fahrenheit",
+    "contest": "Round #61",
+    "difficulty": null,
+    "solved_ratio": "97%",
+    "solved_count": 2016,
+    "tried_count": 2074,
+    "url": "https://csacademy.com/contest/archive/task/celsius-to-fahrenheit/"
+  },
+  {
+    "slug": "strictly-increasing-array",
+    "title": "Strictly Increasing Array",
+    "contest": "Round #61",
+    "difficulty": null,
+    "solved_ratio": "75%",
+    "solved_count": 465,
+    "tried_count": 613,
+    "url": "https://csacademy.com/contest/archive/task/strictly-increasing-array/"
+  },
+  {
+    "slug": "find-binary-array",
+    "title": "Find Binary Array",
+    "contest": "Round #62 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "94%",
+    "solved_count": 1010,
+    "tried_count": 1074,
+    "url": "https://csacademy.com/contest/archive/task/find-binary-array/"
+  },
+  {
+    "slug": "simple-paths",
+    "title": "Simple Paths",
+    "contest": "Round #62 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "70%",
+    "solved_count": 437,
+    "tried_count": 618,
+    "url": "https://csacademy.com/contest/archive/task/simple-paths/"
+  },
+  {
+    "slug": "trees-partition",
+    "title": "Trees Partition",
+    "contest": "Round #62 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 248,
+    "tried_count": 291,
+    "url": "https://csacademy.com/contest/archive/task/trees-partition/"
+  },
+  {
+    "slug": "two-coins",
+    "title": "Two Coins",
+    "contest": "Round #62 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "96%",
+    "solved_count": 1452,
+    "tried_count": 1501,
+    "url": "https://csacademy.com/contest/archive/task/two-coins/"
+  },
+  {
+    "slug": "partial-maximums",
+    "title": "Partial Maximums",
+    "contest": "Round #62 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "84%",
+    "solved_count": 553,
+    "tried_count": 658,
+    "url": "https://csacademy.com/contest/archive/task/partial-maximums/"
+  },
+  {
+    "slug": "root-lca-queries",
+    "title": "Root LCA Queries",
+    "contest": "Round #63 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 485,
+    "tried_count": 543,
+    "url": "https://csacademy.com/contest/archive/task/root-lca-queries/"
+  },
+  {
+    "slug": "find-remainder",
+    "title": "Find Remainder",
+    "contest": "Round #63 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "61%",
+    "solved_count": 609,
+    "tried_count": 988,
+    "url": "https://csacademy.com/contest/archive/task/find-remainder/"
+  },
+  {
+    "slug": "graph-game",
+    "title": "Graph Game",
+    "contest": "Round #63 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "95%",
+    "solved_count": 521,
+    "tried_count": 547,
+    "url": "https://csacademy.com/contest/archive/task/graph-game/"
+  },
+  {
+    "slug": "maximize-profit",
+    "title": "Maximize Profit",
+    "contest": "Round #63 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "95%",
+    "solved_count": 1171,
+    "tried_count": 1232,
+    "url": "https://csacademy.com/contest/archive/task/maximize-profit/"
+  },
+  {
+    "slug": "xor-match",
+    "title": "Xor Match",
+    "contest": "Round #63 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "96%",
+    "solved_count": 1378,
+    "tried_count": 1421,
+    "url": "https://csacademy.com/contest/archive/task/xor-match/"
+  },
+  {
+    "slug": "find-the-tree",
+    "title": "Find the Tree",
+    "contest": "Round #64 (Interactive only)",
+    "difficulty": null,
+    "solved_ratio": "80%",
+    "solved_count": 96,
+    "tried_count": 119,
+    "url": "https://csacademy.com/contest/archive/task/find-the-tree/"
+  },
+  {
+    "slug": "election-spies",
+    "title": "Election Spies",
+    "contest": "Round #64 (Interactive only)",
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 174,
+    "tried_count": 201,
+    "url": "https://csacademy.com/contest/archive/task/election-spies/"
+  },
+  {
+    "slug": "eliminate-edges",
+    "title": "Eliminate Edges",
+    "contest": "Round #64 (Interactive only)",
+    "difficulty": null,
+    "solved_ratio": "71%",
+    "solved_count": 25,
+    "tried_count": 35,
+    "url": "https://csacademy.com/contest/archive/task/eliminate-edges/"
+  },
+  {
+    "slug": "limited-moves",
+    "title": "Limited Moves",
+    "contest": "Round #64 (Interactive only)",
+    "difficulty": null,
+    "solved_ratio": "94%",
+    "solved_count": 371,
+    "tried_count": 394,
+    "url": "https://csacademy.com/contest/archive/task/limited-moves/"
+  },
+  {
+    "slug": "create-tree",
+    "title": "Create Tree",
+    "contest": "Round #64 (Interactive only)",
+    "difficulty": null,
+    "solved_ratio": "91%",
+    "solved_count": 385,
+    "tried_count": 419,
+    "url": "https://csacademy.com/contest/archive/task/create-tree/"
+  },
+  {
+    "slug": "trailing-zeros",
+    "title": "Trailing Zeros",
+    "contest": "Round #64 (Interactive only)",
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 569,
+    "tried_count": 609,
+    "url": "https://csacademy.com/contest/archive/task/trailing-zeros/"
+  },
+  {
+    "slug": "prime-factors",
+    "title": "Prime Factors",
+    "contest": "Round #64 (Interactive only)",
+    "difficulty": null,
+    "solved_ratio": "98%",
+    "solved_count": 746,
+    "tried_count": 761,
+    "url": "https://csacademy.com/contest/archive/task/prime-factors/"
+  },
+  {
+    "slug": "count-arrays",
+    "title": "Count Arrays",
+    "contest": "Round #65 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "75%",
+    "solved_count": 214,
+    "tried_count": 283,
+    "url": "https://csacademy.com/contest/archive/task/count-arrays/"
+  },
+  {
+    "slug": "classic-task",
+    "title": "Classic Task",
+    "contest": "Round #65 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "60%",
+    "solved_count": 97,
+    "tried_count": 160,
+    "url": "https://csacademy.com/contest/archive/task/classic-task/"
+  },
+  {
+    "slug": "crossing-tree",
+    "title": "Crossing Tree",
+    "contest": "Round #65 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "79%",
+    "solved_count": 500,
+    "tried_count": 628,
+    "url": "https://csacademy.com/contest/archive/task/crossing-tree/"
+  },
+  {
+    "slug": "count-4-cycles",
+    "title": "Count 4-cycles",
+    "contest": "Round #65 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "91%",
+    "solved_count": 890,
+    "tried_count": 972,
+    "url": "https://csacademy.com/contest/archive/task/count-4-cycles/"
+  },
+  {
+    "slug": "encipherment",
+    "title": "Encipherment",
+    "contest": "Round #65 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "99%",
+    "solved_count": 1601,
+    "tried_count": 1612,
+    "url": "https://csacademy.com/contest/archive/task/encipherment/"
+  },
+  {
+    "slug": "domino-train",
+    "title": "Domino Train",
+    "contest": "Round #66 (Div. 2 only)",
+    "difficulty": "HARD",
+    "solved_ratio": "75%",
+    "solved_count": 41,
+    "tried_count": 54,
+    "url": "https://csacademy.com/contest/archive/task/domino-train/"
+  },
+  {
+    "slug": "processing-discounts",
+    "title": "Processing Discounts",
+    "contest": "Round #66 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "83%",
+    "solved_count": 912,
+    "tried_count": 1092,
+    "url": "https://csacademy.com/contest/archive/task/processing-discounts/"
+  },
+  {
+    "slug": "flipping-matrix",
+    "title": "Flipping Matrix",
+    "contest": "Round #66 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "73%",
+    "solved_count": 325,
+    "tried_count": 444,
+    "url": "https://csacademy.com/contest/archive/task/flipping-matrix/"
+  },
+  {
+    "slug": "risk-rolls",
+    "title": "Risk Rolls",
+    "contest": "Round #66 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "97%",
+    "solved_count": 1292,
+    "tried_count": 1324,
+    "url": "https://csacademy.com/contest/archive/task/risk-rolls/"
+  },
+  {
+    "slug": "counting-quacks",
+    "title": "Counting Quacks",
+    "contest": "Round #66 (Div. 2 only)",
+    "difficulty": "EASY",
+    "solved_ratio": "80%",
+    "solved_count": 762,
+    "tried_count": 942,
+    "url": "https://csacademy.com/contest/archive/task/counting-quacks/"
+  },
+  {
+    "slug": "suffix-flip",
+    "title": "Suffix Flip",
+    "contest": "Round #67",
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 665,
+    "tried_count": 740,
+    "url": "https://csacademy.com/contest/archive/task/suffix-flip/"
+  },
+  {
+    "slug": "even-subset",
+    "title": "Even Subset",
+    "contest": "Round #67",
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 812,
+    "tried_count": 909,
+    "url": "https://csacademy.com/contest/archive/task/even-subset/"
+  },
+  {
+    "slug": "falling-balls",
+    "title": "Falling Balls",
+    "contest": "Round #67",
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 364,
+    "tried_count": 444,
+    "url": "https://csacademy.com/contest/archive/task/falling-balls/"
+  },
+  {
+    "slug": "divisible-matching",
+    "title": "Divisible Matching",
+    "contest": "Round #67",
+    "difficulty": "HARD",
+    "solved_ratio": "75%",
+    "solved_count": 42,
+    "tried_count": 56,
+    "url": "https://csacademy.com/contest/archive/task/divisible-matching/"
+  },
+  {
+    "slug": "cyclic-shifts",
+    "title": "Cyclic Shifts",
+    "contest": "Round #67",
+    "difficulty": "HARD",
+    "solved_ratio": "64%",
+    "solved_count": 32,
+    "tried_count": 50,
+    "url": "https://csacademy.com/contest/archive/task/cyclic-shifts/"
+  },
+  {
+    "slug": "hamming-distances",
+    "title": "Hamming Distances",
+    "contest": "Round #67",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "80%",
+    "solved_count": 229,
+    "tried_count": 283,
+    "url": "https://csacademy.com/contest/archive/task/hamming-distances/"
+  },
+  {
+    "slug": "permutation-shift",
+    "title": "Permutation Shift",
+    "contest": "Round #67",
+    "difficulty": null,
+    "solved_ratio": "98%",
+    "solved_count": 938,
+    "tried_count": 952,
+    "url": "https://csacademy.com/contest/archive/task/permutation-shift/"
+  },
+  {
+    "slug": "right-triangles",
+    "title": "Right Triangles",
+    "contest": "Round #68 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "79%",
+    "solved_count": 443,
+    "tried_count": 560,
+    "url": "https://csacademy.com/contest/archive/task/right-triangles/"
+  },
+  {
+    "slug": "sliding-product-sum",
+    "title": "Sliding Product Sum",
+    "contest": "Round #68 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "77%",
+    "solved_count": 204,
+    "tried_count": 262,
+    "url": "https://csacademy.com/contest/archive/task/sliding-product-sum/"
+  },
+  {
+    "slug": "triangular-updates",
+    "title": "Triangular Updates",
+    "contest": "Round #68 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "80%",
+    "solved_count": 301,
+    "tried_count": 372,
+    "url": "https://csacademy.com/contest/archive/task/triangular-updates/"
+  },
+  {
+    "slug": "integer-coords",
+    "title": "Integer Coords",
+    "contest": "Round #68 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 569,
+    "tried_count": 698,
+    "url": "https://csacademy.com/contest/archive/task/integer-coords/"
+  },
+  {
+    "slug": "string-concat",
+    "title": "String Concat",
+    "contest": "Round #68 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "94%",
+    "solved_count": 971,
+    "tried_count": 1028,
+    "url": "https://csacademy.com/contest/archive/task/string-concat/"
+  },
+  {
+    "slug": "build-correct-brackets",
+    "title": "Build Correct Brackets",
+    "contest": "Round #69 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 274,
+    "tried_count": 317,
+    "url": "https://csacademy.com/contest/archive/task/build-correct-brackets/"
+  },
+  {
+    "slug": "cover-the-tree",
+    "title": "Cover the Tree",
+    "contest": "Round #69 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "66%",
+    "solved_count": 162,
+    "tried_count": 244,
+    "url": "https://csacademy.com/contest/archive/task/cover-the-tree/"
+  },
+  {
+    "slug": "the-wall",
+    "title": "The Wall",
+    "contest": "Round #69 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 58,
+    "tried_count": 68,
+    "url": "https://csacademy.com/contest/archive/task/the-wall/"
+  },
+  {
+    "slug": "reverse-subarray",
+    "title": "Reverse Subarray",
+    "contest": "Round #69 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "78%",
+    "solved_count": 408,
+    "tried_count": 522,
+    "url": "https://csacademy.com/contest/archive/task/reverse-subarray/"
+  },
+  {
+    "slug": "pokemon-fights",
+    "title": "Pokemon Fights",
+    "contest": "Round #69 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "98%",
+    "solved_count": 904,
+    "tried_count": 918,
+    "url": "https://csacademy.com/contest/archive/task/pokemon-fights/"
+  },
+  {
+    "slug": "product-replace",
+    "title": "Product Replace",
+    "contest": "Round #70",
+    "difficulty": null,
+    "solved_ratio": "95%",
+    "solved_count": 58,
+    "tried_count": 61,
+    "url": "https://csacademy.com/contest/archive/task/product-replace/"
+  },
+  {
+    "slug": "right-down-path",
+    "title": "Right Down Path",
+    "contest": "Round #70",
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 822,
+    "tried_count": 880,
+    "url": "https://csacademy.com/contest/archive/task/right-down-path/"
+  },
+  {
+    "slug": "digit-holes",
+    "title": "Digit Holes",
+    "contest": "Round #70",
+    "difficulty": null,
+    "solved_ratio": "91%",
+    "solved_count": 1172,
+    "tried_count": 1276,
+    "url": "https://csacademy.com/contest/archive/task/digit-holes/"
+  },
+  {
+    "slug": "and-or-max",
+    "title": "And or Max",
+    "contest": "Round #70",
+    "difficulty": "HARD",
+    "solved_ratio": "75%",
+    "solved_count": 255,
+    "tried_count": 339,
+    "url": "https://csacademy.com/contest/archive/task/and-or-max/"
+  },
+  {
+    "slug": "squared-ends",
+    "title": "Squared Ends",
+    "contest": "Round #70",
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 655,
+    "tried_count": 802,
+    "url": "https://csacademy.com/contest/archive/task/squared-ends/"
+  },
+  {
+    "slug": "distribute-candies",
+    "title": "Distribute Candies",
+    "contest": "Round #70",
+    "difficulty": null,
+    "solved_ratio": "72%",
+    "solved_count": 369,
+    "tried_count": 506,
+    "url": "https://csacademy.com/contest/archive/task/distribute-candies/"
+  },
+  {
+    "slug": "min-distances",
+    "title": "Min Distances",
+    "contest": "Round #70",
+    "difficulty": null,
+    "solved_ratio": "90%",
+    "solved_count": 605,
+    "tried_count": 670,
+    "url": "https://csacademy.com/contest/archive/task/min-distances/"
+  },
+  {
+    "slug": "losing-nim",
+    "title": "Losing Nim",
+    "contest": "Round #71 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "72%",
+    "solved_count": 109,
+    "tried_count": 151,
+    "url": "https://csacademy.com/contest/archive/task/losing-nim/"
+  },
+  {
+    "slug": "matrix-balls",
+    "title": "Matrix Balls",
+    "contest": "Round #71 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 712,
+    "tried_count": 802,
+    "url": "https://csacademy.com/contest/archive/task/matrix-balls/"
+  },
+  {
+    "slug": "binary-differences",
+    "title": "Binary Differences",
+    "contest": "Round #71 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "82%",
+    "solved_count": 619,
+    "tried_count": 752,
+    "url": "https://csacademy.com/contest/archive/task/binary-differences/"
+  },
+  {
+    "slug": "replace-a",
+    "title": "Replace A",
+    "contest": "Round #71 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "97%",
+    "solved_count": 1375,
+    "tried_count": 1407,
+    "url": "https://csacademy.com/contest/archive/task/replace-a/"
+  },
+  {
+    "slug": "russian-dolls",
+    "title": "Russian Dolls",
+    "contest": "Round #71 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "71%",
+    "solved_count": 142,
+    "tried_count": 198,
+    "url": "https://csacademy.com/contest/archive/task/russian-dolls/"
+  },
+  {
+    "slug": "dogs",
+    "title": "Diamond Dogs",
+    "contest": "Round #72",
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 298,
+    "tried_count": 355,
+    "url": "https://csacademy.com/contest/archive/task/dogs/"
+  },
+  {
+    "slug": "enemy",
+    "title": "Line Enemies",
+    "contest": "Round #72",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "88%",
+    "solved_count": 278,
+    "tried_count": 315,
+    "url": "https://csacademy.com/contest/archive/task/enemy/"
+  },
+  {
+    "slug": "beautiful-matrix",
+    "title": "Beautiful Matrix",
+    "contest": "Round #72",
+    "difficulty": null,
+    "solved_ratio": "87%",
+    "solved_count": 532,
+    "tried_count": 605,
+    "url": "https://csacademy.com/contest/archive/task/beautiful-matrix/"
+  },
+  {
+    "slug": "rectangle-mst",
+    "title": "MST and Rectangles",
+    "contest": "Round #72",
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 85,
+    "tried_count": 100,
+    "url": "https://csacademy.com/contest/archive/task/rectangle-mst/"
+  },
+  {
+    "slug": "sprint-cleaning",
+    "title": "Spring Cleaning",
+    "contest": "Round #72",
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 436,
+    "tried_count": 491,
+    "url": "https://csacademy.com/contest/archive/task/sprint-cleaning/"
+  },
+  {
+    "slug": "circle-kingdom",
+    "title": "Circle Kingdom",
+    "contest": "Round #72",
+    "difficulty": null,
+    "solved_ratio": "87%",
+    "solved_count": 713,
+    "tried_count": 816,
+    "url": "https://csacademy.com/contest/archive/task/circle-kingdom/"
+  },
+  {
+    "slug": "reversed-number",
+    "title": "Reversed Number",
+    "contest": "Round #72",
+    "difficulty": null,
+    "solved_ratio": "97%",
+    "solved_count": 1271,
+    "tried_count": 1306,
+    "url": "https://csacademy.com/contest/archive/task/reversed-number/"
+  },
+  {
+    "slug": "russian-dolls-ways",
+    "title": "Russian Dolls Ways",
+    "contest": "Round #73 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "76%",
+    "solved_count": 307,
+    "tried_count": 401,
+    "url": "https://csacademy.com/contest/archive/task/russian-dolls-ways/"
+  },
+  {
+    "slug": "strange-substring",
+    "title": "Strange Substring",
+    "contest": "Round #73 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 143,
+    "tried_count": 160,
+    "url": "https://csacademy.com/contest/archive/task/strange-substring/"
+  },
+  {
+    "slug": "binary-isomorphism",
+    "title": "Binary Isomorphism",
+    "contest": "Round #73 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "84%",
+    "solved_count": 494,
+    "tried_count": 584,
+    "url": "https://csacademy.com/contest/archive/task/binary-isomorphism/"
+  },
+  {
+    "slug": "three-equal",
+    "title": "Three Equal",
+    "contest": "Round #73 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 1098,
+    "tried_count": 1171,
+    "url": "https://csacademy.com/contest/archive/task/three-equal/"
+  },
+  {
+    "slug": "ricocheting-balls",
+    "title": "Ricocheting Balls",
+    "contest": "Round #73 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "90%",
+    "solved_count": 797,
+    "tried_count": 879,
+    "url": "https://csacademy.com/contest/archive/task/ricocheting-balls/"
+  },
+  {
+    "slug": "good-permurations",
+    "title": "Good Permutations",
+    "contest": "Round #74 (Div. 2 only)",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "89%",
+    "solved_count": 117,
+    "tried_count": 131,
+    "url": "https://csacademy.com/contest/archive/task/good-permurations/"
+  },
+  {
+    "slug": "unicorns",
+    "title": "Unicorns",
+    "contest": "Round #74 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "97%",
+    "solved_count": 849,
+    "tried_count": 875,
+    "url": "https://csacademy.com/contest/archive/task/unicorns/"
+  },
+  {
+    "slug": "minimum-by-xor",
+    "title": "Minimum by Xor",
+    "contest": "Round #74 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "92%",
+    "solved_count": 377,
+    "tried_count": 407,
+    "url": "https://csacademy.com/contest/archive/task/minimum-by-xor/"
+  },
+  {
+    "slug": "subway-ride",
+    "title": "Subway Ride",
+    "contest": "Round #74 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 607,
+    "tried_count": 684,
+    "url": "https://csacademy.com/contest/archive/task/subway-ride/"
+  },
+  {
+    "slug": "two-squares",
+    "title": "Two Squares",
+    "contest": "Round #74 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "50%",
+    "solved_count": 185,
+    "tried_count": 370,
+    "url": "https://csacademy.com/contest/archive/task/two-squares/"
+  },
+  {
+    "slug": "permutations",
+    "title": "Permutations",
+    "contest": "Round #75",
+    "difficulty": null,
+    "solved_ratio": "82%",
+    "solved_count": 102,
+    "tried_count": 124,
+    "url": "https://csacademy.com/contest/archive/task/permutations/"
+  },
+  {
+    "slug": "modulo-queries",
+    "title": "Modulo Queries",
+    "contest": "Round #75",
+    "difficulty": null,
+    "solved_ratio": "69%",
+    "solved_count": 192,
+    "tried_count": 278,
+    "url": "https://csacademy.com/contest/archive/task/modulo-queries/"
+  },
+  {
+    "slug": "electric-cars",
+    "title": "Electric Cars",
+    "contest": "Round #75",
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 303,
+    "tried_count": 351,
+    "url": "https://csacademy.com/contest/archive/task/electric-cars/"
+  },
+  {
+    "slug": "escape-the-matrix",
+    "title": "Escape the Matrix",
+    "contest": "Round #75",
+    "difficulty": null,
+    "solved_ratio": "91%",
+    "solved_count": 612,
+    "tried_count": 669,
+    "url": "https://csacademy.com/contest/archive/task/escape-the-matrix/"
+  },
+  {
+    "slug": "race-cars",
+    "title": "Race Cars",
+    "contest": "Round #75",
+    "difficulty": null,
+    "solved_ratio": "92%",
+    "solved_count": 415,
+    "tried_count": 449,
+    "url": "https://csacademy.com/contest/archive/task/race-cars/"
+  },
+  {
+    "slug": "boaty-mcboatface",
+    "title": "Boaty McBoatface",
+    "contest": "Round #75",
+    "difficulty": null,
+    "solved_ratio": "92%",
+    "solved_count": 733,
+    "tried_count": 793,
+    "url": "https://csacademy.com/contest/archive/task/boaty-mcboatface/"
+  },
+  {
+    "slug": "infinity-array",
+    "title": "Infinity Array",
+    "contest": "Round #75",
+    "difficulty": null,
+    "solved_ratio": "66%",
+    "solved_count": 18,
+    "tried_count": 27,
+    "url": "https://csacademy.com/contest/archive/task/infinity-array/"
+  },
+  {
+    "slug": "candy-boxes",
+    "title": "Candy Boxes",
+    "contest": "Round #76 (Div. 2 only)",
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 598,
+    "tried_count": 640,
+    "url": "https://csacademy.com/contest/archive/task/candy-boxes/"
+  },
+  {
+    "slug": "overlapping-matrices",
+    "title": "Overlapping Matrices",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "90%",
+    "solved_count": 543,
+    "tried_count": 603,
+    "url": "https://csacademy.com/contest/archive/task/overlapping-matrices/"
+  },
+  {
+    "slug": "digit-function",
+    "title": "Digit Function",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "98%",
+    "solved_count": 921,
+    "tried_count": 939,
+    "url": "https://csacademy.com/contest/archive/task/digit-function/"
+  },
+  {
+    "slug": "surround-the-enemy",
+    "title": "Surround the Enemy",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "65%",
+    "solved_count": 73,
+    "tried_count": 111,
+    "url": "https://csacademy.com/contest/archive/task/surround-the-enemy/"
+  },
+  {
+    "slug": "pyramids",
+    "title": "Pyramids",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "68%",
+    "solved_count": 168,
+    "tried_count": 247,
+    "url": "https://csacademy.com/contest/archive/task/pyramids/"
+  },
+  {
+    "slug": "rhombus",
+    "title": "Rhombus",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 758,
+    "tried_count": 807,
+    "url": "https://csacademy.com/contest/archive/task/rhombus/"
+  },
+  {
+    "slug": "expected-lcp",
+    "title": "Expected Lcp",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "90%",
+    "solved_count": 342,
+    "tried_count": 380,
+    "url": "https://csacademy.com/contest/archive/task/expected-lcp/"
+  },
+  {
+    "slug": "two-rows",
+    "title": "Two Rows",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "87%",
+    "solved_count": 387,
+    "tried_count": 444,
+    "url": "https://csacademy.com/contest/archive/task/two-rows/"
+  },
+  {
+    "slug": "rooks",
+    "title": "Rooks",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "72%",
+    "solved_count": 78,
+    "tried_count": 108,
+    "url": "https://csacademy.com/contest/archive/task/rooks/"
+  },
+  {
+    "slug": "quadrants",
+    "title": "Quadrants",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "99%",
+    "solved_count": 861,
+    "tried_count": 867,
+    "url": "https://csacademy.com/contest/archive/task/quadrants/"
+  },
+  {
+    "slug": "count-bst",
+    "title": "Count BST",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 74,
+    "tried_count": 84,
+    "url": "https://csacademy.com/contest/archive/task/count-bst/"
+  },
+  {
+    "slug": "xor-transform",
+    "title": "Xor Transform",
+    "contest": "Round #78 (based on Romanian Olympiad IOI selection camp)",
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 115,
+    "tried_count": 130,
+    "url": "https://csacademy.com/contest/archive/task/xor-transform/"
+  },
+  {
+    "slug": "banned-digits",
+    "title": "Banned Digits",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "76%",
+    "solved_count": 377,
+    "tried_count": 491,
+    "url": "https://csacademy.com/contest/archive/task/banned-digits/"
+  },
+  {
+    "slug": "strange-matrix",
+    "title": "Strange Matrix",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "78%",
+    "solved_count": 208,
+    "tried_count": 265,
+    "url": "https://csacademy.com/contest/archive/task/strange-matrix/"
+  },
+  {
+    "slug": "spring-love",
+    "title": "Spring Love",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "98%",
+    "solved_count": 1004,
+    "tried_count": 1017,
+    "url": "https://csacademy.com/contest/archive/task/spring-love/"
+  },
+  {
+    "slug": "generating-set",
+    "title": "Generating Set",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "74%",
+    "solved_count": 23,
+    "tried_count": 31,
+    "url": "https://csacademy.com/contest/archive/task/generating-set/"
+  },
+  {
+    "slug": "lonely-points",
+    "title": "Lonely Points",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 546,
+    "tried_count": 653,
+    "url": "https://csacademy.com/contest/archive/task/lonely-points/"
+  },
+  {
+    "slug": "groups",
+    "title": "Groups",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "87%",
+    "solved_count": 262,
+    "tried_count": 300,
+    "url": "https://csacademy.com/contest/archive/task/groups/"
+  },
+  {
+    "slug": "cats-and-dogs",
+    "title": "Cats and Dogs",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "95%",
+    "solved_count": 761,
+    "tried_count": 799,
+    "url": "https://csacademy.com/contest/archive/task/cats-and-dogs/"
+  },
+  {
+    "slug": "k-inversions",
+    "title": "K Inversions",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "72%",
+    "solved_count": 439,
+    "tried_count": 604,
+    "url": "https://csacademy.com/contest/archive/task/k-inversions/"
+  },
+  {
+    "slug": "milk-and-bread",
+    "title": "Milk and Bread",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "95%",
+    "solved_count": 1023,
+    "tried_count": 1069,
+    "url": "https://csacademy.com/contest/archive/task/milk-and-bread/"
+  },
+  {
+    "slug": "smallest-subsets",
+    "title": "Smallest Subsets",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "77%",
+    "solved_count": 177,
+    "tried_count": 229,
+    "url": "https://csacademy.com/contest/archive/task/smallest-subsets/"
+  },
+  {
+    "slug": "sortall",
+    "title": "Sort All",
+    "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+    "difficulty": null,
+    "solved_ratio": "69%",
+    "solved_count": 43,
+    "tried_count": 62,
+    "url": "https://csacademy.com/contest/archive/task/sortall/"
+  },
+  {
+    "slug": "towns",
+    "title": "Towns",
+    "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+    "difficulty": null,
+    "solved_ratio": "42%",
+    "solved_count": 102,
+    "tried_count": 240,
+    "url": "https://csacademy.com/contest/archive/task/towns/"
+  },
+  {
+    "slug": "tournament",
+    "title": "Tournament",
+    "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+    "difficulty": "HARD",
+    "solved_ratio": "79%",
+    "solved_count": 46,
+    "tried_count": 58,
+    "url": "https://csacademy.com/contest/archive/task/tournament/"
+  },
+  {
+    "slug": "anagram-sort",
+    "title": "Anagram Sort",
+    "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+    "difficulty": null,
+    "solved_ratio": "90%",
+    "solved_count": 60,
+    "tried_count": 66,
+    "url": "https://csacademy.com/contest/archive/task/anagram-sort/"
+  },
+  {
+    "slug": "ioi-selection",
+    "title": "IOI Selection",
+    "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+    "difficulty": null,
+    "solved_ratio": "98%",
+    "solved_count": 833,
+    "tried_count": 845,
+    "url": "https://csacademy.com/contest/archive/task/ioi-selection/"
+  },
+  {
+    "slug": "shampoo-exchange",
+    "title": "Shampoo Exchange",
+    "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+    "difficulty": null,
+    "solved_ratio": "73%",
+    "solved_count": 183,
+    "tried_count": 250,
+    "url": "https://csacademy.com/contest/archive/task/shampoo-exchange/"
+  },
+  {
+    "slug": "digits-permutation",
+    "title": "Digits Permutation",
+    "contest": "Round #80 (unrated, based on Romanian Olympiad IOI selection camp)",
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 724,
+    "tried_count": 843,
+    "url": "https://csacademy.com/contest/archive/task/digits-permutation/"
+  },
+  {
+    "slug": "fold-polygon",
+    "title": "Fold Polygon",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "60%",
+    "solved_count": 44,
+    "tried_count": 73,
+    "url": "https://csacademy.com/contest/archive/task/fold-polygon/"
+  },
+  {
+    "slug": "gerrymandering",
+    "title": "Gerrymandering",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 222,
+    "tried_count": 271,
+    "url": "https://csacademy.com/contest/archive/task/gerrymandering/"
+  },
+  {
+    "slug": "all-numbers",
+    "title": "All Numbers",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 399,
+    "tried_count": 466,
+    "url": "https://csacademy.com/contest/archive/task/all-numbers/"
+  },
+  {
+    "slug": "boss-fight",
+    "title": "Boss Fight",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 634,
+    "tried_count": 741,
+    "url": "https://csacademy.com/contest/archive/task/boss-fight/"
+  },
+  {
+    "slug": "money-savings",
+    "title": "Money Savings",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "96%",
+    "solved_count": 734,
+    "tried_count": 760,
+    "url": "https://csacademy.com/contest/archive/task/money-savings/"
+  },
+  {
+    "slug": "water-supply",
+    "title": "Water Supply",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "65%",
+    "solved_count": 135,
+    "tried_count": 206,
+    "url": "https://csacademy.com/contest/archive/task/water-supply/"
+  },
+  {
+    "slug": "rbubblesort",
+    "title": "RBubbleSort",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "63%",
+    "solved_count": 33,
+    "tried_count": 52,
+    "url": "https://csacademy.com/contest/archive/task/rbubblesort/"
+  },
+  {
+    "slug": "restricted-arrays",
+    "title": "Restricted Arrays",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "76%",
+    "solved_count": 307,
+    "tried_count": 401,
+    "url": "https://csacademy.com/contest/archive/task/restricted-arrays/"
+  },
+  {
+    "slug": "city-break",
+    "title": "City Break",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "95%",
+    "solved_count": 512,
+    "tried_count": 536,
+    "url": "https://csacademy.com/contest/archive/task/city-break/"
+  },
+  {
+    "slug": "printer",
+    "title": "Printer",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "90%",
+    "solved_count": 668,
+    "tried_count": 738,
+    "url": "https://csacademy.com/contest/archive/task/printer/"
+  },
+  {
+    "slug": "transpermutation",
+    "title": "Transpermutation",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "91%",
+    "solved_count": 31,
+    "tried_count": 34,
+    "url": "https://csacademy.com/contest/archive/task/transpermutation/"
+  },
+  {
+    "slug": "love-story",
+    "title": "Love Story",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "97%",
+    "solved_count": 923,
+    "tried_count": 943,
+    "url": "https://csacademy.com/contest/archive/task/love-story/"
+  },
+  {
+    "slug": "firestarter",
+    "title": "Firestarter",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "74%",
+    "solved_count": 105,
+    "tried_count": 141,
+    "url": "https://csacademy.com/contest/archive/task/firestarter/"
+  },
+  {
+    "slug": "smallest-missing-numbers",
+    "title": "Smallest Missing Numbers",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 688,
+    "tried_count": 765,
+    "url": "https://csacademy.com/contest/archive/task/smallest-missing-numbers/"
+  },
+  {
+    "slug": "rectangle-fit",
+    "title": "Rectangle Fit",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 439,
+    "tried_count": 494,
+    "url": "https://csacademy.com/contest/archive/task/rectangle-fit/"
+  },
+  {
+    "slug": "hill-skateboarding",
+    "title": "Hill Skateboarding",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 434,
+    "tried_count": 493,
+    "url": "https://csacademy.com/contest/archive/task/hill-skateboarding/"
+  },
+  {
+    "slug": "license-plates",
+    "title": "License Plates",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "94%",
+    "solved_count": 723,
+    "tried_count": 769,
+    "url": "https://csacademy.com/contest/archive/task/license-plates/"
+  },
+  {
+    "slug": "baby-seokhwan",
+    "title": "Baby Seokhwan",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 40,
+    "tried_count": 49,
+    "url": "https://csacademy.com/contest/archive/task/baby-seokhwan/"
+  },
+  {
+    "slug": "the-sprawl",
+    "title": "The Sprawl",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "76%",
+    "solved_count": 79,
+    "tried_count": 103,
+    "url": "https://csacademy.com/contest/archive/task/the-sprawl/"
+  },
+  {
+    "slug": "manhattan-center",
+    "title": "Manhattan Center",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "76%",
+    "solved_count": 232,
+    "tried_count": 303,
+    "url": "https://csacademy.com/contest/archive/task/manhattan-center/"
+  },
+  {
+    "slug": "growing-trees",
+    "title": "Growing Trees",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 205,
+    "tried_count": 245,
+    "url": "https://csacademy.com/contest/archive/task/growing-trees/"
+  },
+  {
+    "slug": "three-ones",
+    "title": "Three Ones",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 861,
+    "tried_count": 977,
+    "url": "https://csacademy.com/contest/archive/task/three-ones/"
+  },
+  {
+    "slug": "douchebag-parking",
+    "title": "Douchebag Parking",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "97%",
+    "solved_count": 1116,
+    "tried_count": 1145,
+    "url": "https://csacademy.com/contest/archive/task/douchebag-parking/"
+  },
+  {
+    "slug": "split-the-sticks",
+    "title": "Split the Sticks",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "92%",
+    "solved_count": 677,
+    "tried_count": 729,
+    "url": "https://csacademy.com/contest/archive/task/split-the-sticks/"
+  },
+  {
+    "slug": "homecoming",
+    "title": "Homecoming",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "66%",
+    "solved_count": 26,
+    "tried_count": 39,
+    "url": "https://csacademy.com/contest/archive/task/homecoming/"
+  },
+  {
+    "slug": "parentrisis",
+    "title": "Parentrisis",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "82%",
+    "solved_count": 92,
+    "tried_count": 112,
+    "url": "https://csacademy.com/contest/archive/task/parentrisis/"
+  },
+  {
+    "slug": "elections",
+    "title": "Elections",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "71%",
+    "solved_count": 37,
+    "tried_count": 52,
+    "url": "https://csacademy.com/contest/archive/task/elections/"
+  },
+  {
+    "slug": "zalmolxis",
+    "title": "Zalmolxis",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "72%",
+    "solved_count": 127,
+    "tried_count": 176,
+    "url": "https://csacademy.com/contest/archive/task/zalmolxis/"
+  },
+  {
+    "slug": "shell-game",
+    "title": "Shell Game",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "98%",
+    "solved_count": 585,
+    "tried_count": 594,
+    "url": "https://csacademy.com/contest/archive/task/shell-game/"
+  },
+  {
+    "slug": "strange-transformation",
+    "title": "Strange Transformation",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 280,
+    "tried_count": 324,
+    "url": "https://csacademy.com/contest/archive/task/strange-transformation/"
+  },
+  {
+    "slug": "many-zeros",
+    "title": "Many Zeros",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 395,
+    "tried_count": 472,
+    "url": "https://csacademy.com/contest/archive/task/many-zeros/"
+  },
+  {
+    "slug": "lottery",
+    "title": "Lottery",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "66%",
+    "solved_count": 224,
+    "tried_count": 338,
+    "url": "https://csacademy.com/contest/archive/task/lottery/"
+  },
+  {
+    "slug": "global-warming",
+    "title": "Global Warming",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "73%",
+    "solved_count": 320,
+    "tried_count": 434,
+    "url": "https://csacademy.com/contest/archive/task/global-warming/"
+  },
+  {
+    "slug": "cloud-computing",
+    "title": "Cloud Computing",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "50%",
+    "solved_count": 178,
+    "tried_count": 351,
+    "url": "https://csacademy.com/contest/archive/task/cloud-computing/"
+  },
+  {
+    "slug": "fibonacci-representations-big",
+    "title": "Fibonacci Representations Big",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "27%",
+    "solved_count": 24,
+    "tried_count": 88,
+    "url": "https://csacademy.com/contest/archive/task/fibonacci-representations-big/"
+  },
+  {
+    "slug": "toys-big",
+    "title": "Toys Big",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 210,
+    "tried_count": 245,
+    "url": "https://csacademy.com/contest/archive/task/toys-big/"
+  },
+  {
+    "slug": "toys-small",
+    "title": "Toys Small",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 220,
+    "tried_count": 263,
+    "url": "https://csacademy.com/contest/archive/task/toys-small/"
+  },
+  {
+    "slug": "fibonacci-representations-small",
+    "title": "Fibonacci Representations Small",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "42%",
+    "solved_count": 75,
+    "tried_count": 178,
+    "url": "https://csacademy.com/contest/archive/task/fibonacci-representations-small/"
+  },
+  {
+    "slug": "growing-segment",
+    "title": "Growing Segment",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "75%",
+    "solved_count": 40,
+    "tried_count": 53,
+    "url": "https://csacademy.com/contest/archive/task/growing-segment/"
+  },
+  {
+    "slug": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "87%",
+    "solved_count": 489,
+    "tried_count": 557,
+    "url": "https://csacademy.com/contest/archive/task/cookie-clicker/"
+  },
+  {
+    "slug": "water-tower",
+    "title": "Water Tower",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "77%",
+    "solved_count": 223,
+    "tried_count": 287,
+    "url": "https://csacademy.com/contest/archive/task/water-tower/"
+  },
+  {
+    "slug": "penguin-dance",
+    "title": "Penguin Dance",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "94%",
+    "solved_count": 878,
+    "tried_count": 928,
+    "url": "https://csacademy.com/contest/archive/task/penguin-dance/"
+  },
+  {
+    "slug": "palindrome-free-strings",
+    "title": "Palindrome Free Strings",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 470,
+    "tried_count": 543,
+    "url": "https://csacademy.com/contest/archive/task/palindrome-free-strings/"
+  },
+  {
+    "slug": "sugarel-and-bars",
+    "title": "Sugarel and Bars",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "79%",
+    "solved_count": 401,
+    "tried_count": 505,
+    "url": "https://csacademy.com/contest/archive/task/sugarel-and-bars/"
+  },
+  {
+    "slug": "sugarel-and-substrings",
+    "title": "Sugarel and Substrings",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 567,
+    "tried_count": 609,
+    "url": "https://csacademy.com/contest/archive/task/sugarel-and-substrings/"
+  },
+  {
+    "slug": "Sugarel-s-Garden",
+    "title": "Sugarel’s Garden",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "77%",
+    "solved_count": 75,
+    "tried_count": 97,
+    "url": "https://csacademy.com/contest/archive/task/Sugarel-s-Garden/"
+  },
+  {
+    "slug": "Sugarel-in-Love",
+    "title": "Sugarel in Love",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 257,
+    "tried_count": 315,
+    "url": "https://csacademy.com/contest/archive/task/Sugarel-in-Love/"
+  },
+  {
+    "slug": "Sugarel-and-modulo",
+    "title": "Sugarel and Modulo",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 720,
+    "tried_count": 887,
+    "url": "https://csacademy.com/contest/archive/task/Sugarel-and-modulo/"
+  },
+  {
+    "slug": "divided-kingdom",
+    "title": "Divided Kingdom",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "76%",
+    "solved_count": 72,
+    "tried_count": 94,
+    "url": "https://csacademy.com/contest/archive/task/divided-kingdom/"
+  },
+  {
+    "slug": "time-to-shine",
+    "title": "Time to Shine",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 312,
+    "tried_count": 332,
+    "url": "https://csacademy.com/contest/archive/task/time-to-shine/"
+  },
+  {
+    "slug": "stargazing",
+    "title": "Stargazing",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "80%",
+    "solved_count": 40,
+    "tried_count": 50,
+    "url": "https://csacademy.com/contest/archive/task/stargazing/"
+  },
+  {
+    "slug": "consecutive-remainders",
+    "title": "Consecutive Remainders",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "84%",
+    "solved_count": 162,
+    "tried_count": 191,
+    "url": "https://csacademy.com/contest/archive/task/consecutive-remainders/"
+  },
+  {
+    "slug": "ginas-necklace",
+    "title": "Gina's Necklace",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "66%",
+    "solved_count": 128,
+    "tried_count": 192,
+    "url": "https://csacademy.com/contest/archive/task/ginas-necklace/"
+  },
+  {
+    "slug": "piece-of-cake",
+    "title": "Piece of Cake",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "78%",
+    "solved_count": 79,
+    "tried_count": 101,
+    "url": "https://csacademy.com/contest/archive/task/piece-of-cake/"
+  },
+  {
+    "slug": "array-macao",
+    "title": "Array Macao",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "78%",
+    "solved_count": 179,
+    "tried_count": 229,
+    "url": "https://csacademy.com/contest/archive/task/array-macao/"
+  },
+  {
+    "slug": "bob-tree",
+    "title": "Bob's Tree",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "79%",
+    "solved_count": 31,
+    "tried_count": 39,
+    "url": "https://csacademy.com/contest/archive/task/bob-tree/"
+  },
+  {
+    "slug": "alice-tree",
+    "title": "Alice's Tree",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "46%",
+    "solved_count": 38,
+    "tried_count": 81,
+    "url": "https://csacademy.com/contest/archive/task/alice-tree/"
+  },
+  {
+    "slug": "soccer-field",
+    "title": "Soccer Field",
+    "contest": null,
+    "difficulty": "EASY",
+    "solved_ratio": "86%",
+    "solved_count": 246,
+    "tried_count": 286,
+    "url": "https://csacademy.com/contest/archive/task/soccer-field/"
+  },
+  {
+    "slug": "epic-marble-battles",
+    "title": "Epic Marble Battles",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "67%",
+    "solved_count": 50,
+    "tried_count": 74,
+    "url": "https://csacademy.com/contest/archive/task/epic-marble-battles/"
+  },
+  {
+    "slug": "cryptomania",
+    "title": "Cryptomania",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 109,
+    "tried_count": 128,
+    "url": "https://csacademy.com/contest/archive/task/cryptomania/"
+  },
+  {
+    "slug": "flawed-olympiad",
+    "title": "Flawed Olympiad",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 74,
+    "tried_count": 84,
+    "url": "https://csacademy.com/contest/archive/task/flawed-olympiad/"
+  },
+  {
+    "slug": "dazzling-trams",
+    "title": "Dazzling Trams",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 95,
+    "tried_count": 110,
+    "url": "https://csacademy.com/contest/archive/task/dazzling-trams/"
+  },
+  {
+    "slug": "back-in-business",
+    "title": "Back in Business",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 177,
+    "tried_count": 200,
+    "url": "https://csacademy.com/contest/archive/task/back-in-business/"
+  },
+  {
+    "slug": "aspirations",
+    "title": "Aspirations",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 228,
+    "tried_count": 256,
+    "url": "https://csacademy.com/contest/archive/task/aspirations/"
+  },
+  {
+    "slug": "cosmological-nightmare",
+    "title": "Cosmological Nightmare",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "74%",
+    "solved_count": 128,
+    "tried_count": 172,
+    "url": "https://csacademy.com/contest/archive/task/cosmological-nightmare/"
+  },
+  {
+    "slug": "as-easy-as-abc",
+    "title": "As easy as ABC",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 355,
+    "tried_count": 424,
+    "url": "https://csacademy.com/contest/archive/task/as-easy-as-abc/"
+  },
+  {
+    "slug": "boring-operation",
+    "title": "Boring Operation",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "96%",
+    "solved_count": 362,
+    "tried_count": 374,
+    "url": "https://csacademy.com/contest/archive/task/boring-operation/"
+  },
+  {
+    "slug": "enchained",
+    "title": "Enchained",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "77%",
+    "solved_count": 21,
+    "tried_count": 27,
+    "url": "https://csacademy.com/contest/archive/task/enchained/"
+  },
+  {
+    "slug": "driveaway",
+    "title": "Driveaway",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "79%",
+    "solved_count": 71,
+    "tried_count": 89,
+    "url": "https://csacademy.com/contest/archive/task/driveaway/"
+  },
+  {
+    "slug": "disproportionate-tree",
+    "title": "Disproportionate Tree",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 186,
+    "tried_count": 198,
+    "url": "https://csacademy.com/contest/archive/task/disproportionate-tree/"
+  },
+  {
+    "slug": "connecting-the-graph",
+    "title": "Connecting the Graph",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "84%",
+    "solved_count": 228,
+    "tried_count": 271,
+    "url": "https://csacademy.com/contest/archive/task/connecting-the-graph/"
+  },
+  {
+    "slug": "escaping-courses",
+    "title": "Escaping Courses",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "57%",
+    "solved_count": 59,
+    "tried_count": 102,
+    "url": "https://csacademy.com/contest/archive/task/escaping-courses/"
+  },
+  {
+    "slug": "big-string",
+    "title": "Big String",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 302,
+    "tried_count": 362,
+    "url": "https://csacademy.com/contest/archive/task/big-string/"
+  },
+  {
+    "slug": "attending-events",
+    "title": "Attending Events",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "95%",
+    "solved_count": 422,
+    "tried_count": 440,
+    "url": "https://csacademy.com/contest/archive/task/attending-events/"
+  },
+  {
+    "slug": "everything-is-random",
+    "title": "Everything is Random",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 37,
+    "tried_count": 43,
+    "url": "https://csacademy.com/contest/archive/task/everything-is-random/"
+  },
+  {
+    "slug": "double-palindromes",
+    "title": "Double Palindromes",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "80%",
+    "solved_count": 104,
+    "tried_count": 129,
+    "url": "https://csacademy.com/contest/archive/task/double-palindromes/"
+  },
+  {
+    "slug": "confused-robot",
+    "title": "Confused Robot",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "74%",
+    "solved_count": 139,
+    "tried_count": 187,
+    "url": "https://csacademy.com/contest/archive/task/confused-robot/"
+  },
+  {
+    "slug": "best-driver",
+    "title": "Best Driver",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "96%",
+    "solved_count": 270,
+    "tried_count": 279,
+    "url": "https://csacademy.com/contest/archive/task/best-driver/"
+  },
+  {
+    "slug": "aggressive-pawns",
+    "title": "Aggressive Pawns",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "93%",
+    "solved_count": 351,
+    "tried_count": 376,
+    "url": "https://csacademy.com/contest/archive/task/aggressive-pawns/"
+  },
+  {
+    "slug": "play-time",
+    "title": "Play Time",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "71%",
+    "solved_count": 23,
+    "tried_count": 32,
+    "url": "https://csacademy.com/contest/archive/task/play-time/"
+  },
+  {
+    "slug": "mountain-time",
+    "title": "Mountain Time",
+    "contest": null,
+    "difficulty": "MEDIUM",
+    "solved_ratio": "83%",
+    "solved_count": 358,
+    "tried_count": 430,
+    "url": "https://csacademy.com/contest/archive/task/mountain-time/"
+  },
+  {
+    "slug": "traveling-time",
+    "title": "Traveling Time",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 52,
+    "tried_count": 60,
+    "url": "https://csacademy.com/contest/archive/task/traveling-time/"
+  },
+  {
+    "slug": "shopping-time",
+    "title": "Shopping Time",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "80%",
+    "solved_count": 32,
+    "tried_count": 40,
+    "url": "https://csacademy.com/contest/archive/task/shopping-time/"
+  },
+  {
+    "slug": "addition-time",
+    "title": "Addition Time",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "59%",
+    "solved_count": 121,
+    "tried_count": 205,
+    "url": "https://csacademy.com/contest/archive/task/addition-time/"
+  },
+  {
+    "slug": "work-time",
+    "title": "Work Time",
+    "contest": null,
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 150,
+    "tried_count": 167,
+    "url": "https://csacademy.com/contest/archive/task/work-time/"
+  },
+  {
+    "slug": "aisimok",
+    "title": "Aisimok",
+    "contest": "FIICode 2021 Round #1",
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 189,
+    "tried_count": 221,
+    "url": "https://csacademy.com/contest/archive/task/aisimok/"
+  },
+  {
+    "slug": "etianap",
+    "title": "Etianap",
+    "contest": "FIICode 2021 Round #1",
+    "difficulty": null,
+    "solved_ratio": "72%",
+    "solved_count": 54,
+    "tried_count": 74,
+    "url": "https://csacademy.com/contest/archive/task/etianap/"
+  },
+  {
+    "slug": "dranei",
+    "title": "Dr. Anei",
+    "contest": "FIICode 2021 Round #1",
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 70,
+    "tried_count": 81,
+    "url": "https://csacademy.com/contest/archive/task/dranei/"
+  },
+  {
+    "slug": "cuinelo",
+    "title": "Cuinelo",
+    "contest": "FIICode 2021 Round #1",
+    "difficulty": null,
+    "solved_ratio": "71%",
+    "solved_count": 93,
+    "tried_count": 130,
+    "url": "https://csacademy.com/contest/archive/task/cuinelo/"
+  },
+  {
+    "slug": "b9i",
+    "title": "B9i",
+    "contest": "FIICode 2021 Round #1",
+    "difficulty": null,
+    "solved_ratio": "77%",
+    "solved_count": 121,
+    "tried_count": 157,
+    "url": "https://csacademy.com/contest/archive/task/b9i/"
+  },
+  {
+    "slug": "infinity-war",
+    "title": "Infinity War",
+    "contest": "FIICode 2021 Round #2",
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 105,
+    "tried_count": 119,
+    "url": "https://csacademy.com/contest/archive/task/infinity-war/"
+  },
+  {
+    "slug": "endgame",
+    "title": "Endgame",
+    "contest": "FIICode 2021 Round #2",
+    "difficulty": null,
+    "solved_ratio": "75%",
+    "solved_count": 25,
+    "tried_count": 33,
+    "url": "https://csacademy.com/contest/archive/task/endgame/"
+  },
+  {
+    "slug": "scrambled-eggs",
+    "title": "Scrambled Eggs",
+    "contest": "FIICode 2021 Round #2",
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 22,
+    "tried_count": 25,
+    "url": "https://csacademy.com/contest/archive/task/scrambled-eggs/"
+  },
+  {
+    "slug": "clown-fiesta",
+    "title": "Clown Fiesta",
+    "contest": "FIICode 2021 Round #2",
+    "difficulty": null,
+    "solved_ratio": "78%",
+    "solved_count": 52,
+    "tried_count": 66,
+    "url": "https://csacademy.com/contest/archive/task/clown-fiesta/"
+  },
+  {
+    "slug": "lynx",
+    "title": "Lynx",
+    "contest": "FIICode 2021 Round #2",
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 77,
+    "tried_count": 92,
+    "url": "https://csacademy.com/contest/archive/task/lynx/"
+  },
+  {
+    "slug": "alex-combines",
+    "title": "Alex Combines",
+    "contest": "FIICode 2021 Round #3",
+    "difficulty": null,
+    "solved_ratio": "88%",
+    "solved_count": 74,
+    "tried_count": 84,
+    "url": "https://csacademy.com/contest/archive/task/alex-combines/"
+  },
+  {
+    "slug": "alex-concatenates",
+    "title": "Alex Concatenates",
+    "contest": "FIICode 2021 Round #3",
+    "difficulty": null,
+    "solved_ratio": "87%",
+    "solved_count": 27,
+    "tried_count": 31,
+    "url": "https://csacademy.com/contest/archive/task/alex-concatenates/"
+  },
+  {
+    "slug": "alex-climbs",
+    "title": "Alex Climbs",
+    "contest": "FIICode 2021 Round #3",
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 38,
+    "tried_count": 44,
+    "url": "https://csacademy.com/contest/archive/task/alex-climbs/"
+  },
+  {
+    "slug": "alex-counts",
+    "title": "Alex Counts",
+    "contest": "FIICode 2021 Round #3",
+    "difficulty": null,
+    "solved_ratio": "89%",
+    "solved_count": 91,
+    "tried_count": 102,
+    "url": "https://csacademy.com/contest/archive/task/alex-counts/"
+  },
+  {
+    "slug": "alex-chills",
+    "title": "Alex Chills",
+    "contest": "FIICode 2021 Round #3",
+    "difficulty": null,
+    "solved_ratio": "87%",
+    "solved_count": 117,
+    "tried_count": 134,
+    "url": "https://csacademy.com/contest/archive/task/alex-chills/"
+  },
+  {
+    "slug": "final-d",
+    "title": "Final D",
+    "contest": "FIICode 2021 Final Round",
+    "difficulty": null,
+    "solved_ratio": "80%",
+    "solved_count": 16,
+    "tried_count": 20,
+    "url": "https://csacademy.com/contest/archive/task/final-d/"
+  },
+  {
+    "slug": "final-b",
+    "title": "Final B",
+    "contest": "FIICode 2021 Final Round",
+    "difficulty": null,
+    "solved_ratio": "85%",
+    "solved_count": 35,
+    "tried_count": 41,
+    "url": "https://csacademy.com/contest/archive/task/final-b/"
+  },
+  {
+    "slug": "final-e",
+    "title": "Final E",
+    "contest": "FIICode 2021 Final Round",
+    "difficulty": "HARD",
+    "solved_ratio": "83%",
+    "solved_count": 15,
+    "tried_count": 18,
+    "url": "https://csacademy.com/contest/archive/task/final-e/"
+  },
+  {
+    "slug": "finalc",
+    "title": "Final C",
+    "contest": "FIICode 2021 Final Round",
+    "difficulty": null,
+    "solved_ratio": "86%",
+    "solved_count": 26,
+    "tried_count": 30,
+    "url": "https://csacademy.com/contest/archive/task/finalc/"
+  },
+  {
+    "slug": "final-a",
+    "title": "Final A",
+    "contest": "FIICode 2021 Final Round",
+    "difficulty": null,
+    "solved_ratio": "81%",
+    "solved_count": 44,
+    "tried_count": 54,
+    "url": "https://csacademy.com/contest/archive/task/final-a/"
+  },
+  {
+    "slug": "fiicode-2022-e1",
+    "title": "Empowering Atek",
+    "contest": "FIICode 2022 Round #1 – Powered by Atek Software",
+    "difficulty": null,
+    "solved_ratio": "72%",
+    "solved_count": 21,
+    "tried_count": 29,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-e1/"
+  },
+  {
+    "slug": "fiicode-2022-d1",
+    "title": "Dynamic Atek",
+    "contest": "FIICode 2022 Round #1 – Powered by Atek Software",
+    "difficulty": null,
+    "solved_ratio": "75%",
+    "solved_count": 22,
+    "tried_count": 29,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-d1/"
+  },
+  {
+    "slug": "fiicode-2022-c1",
+    "title": "Crazy Atek",
+    "contest": "FIICode 2022 Round #1 – Powered by Atek Software",
+    "difficulty": "MEDIUM",
+    "solved_ratio": "65%",
+    "solved_count": 26,
+    "tried_count": 40,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-c1/"
+  },
+  {
+    "slug": "fiicode-2022-b1",
+    "title": "Boundless Atek",
+    "contest": "FIICode 2022 Round #1 – Powered by Atek Software",
+    "difficulty": null,
+    "solved_ratio": "65%",
+    "solved_count": 60,
+    "tried_count": 91,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-b1/"
+  },
+  {
+    "slug": "fiicode-2022-a1",
+    "title": "Awesome Atek",
+    "contest": "FIICode 2022 Round #1 – Powered by Atek Software",
+    "difficulty": "EASY",
+    "solved_ratio": "80%",
+    "solved_count": 92,
+    "tried_count": 114,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-a1/"
+  },
+  {
+    "slug": "fiicode-2022-b2",
+    "title": "Boundless Software",
+    "contest": "FIICode 2022 Round #2 – Powered by Atek Software",
+    "difficulty": "EASY",
+    "solved_ratio": "85%",
+    "solved_count": 42,
+    "tried_count": 49,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-b2/"
+  },
+  {
+    "slug": "fiicode-2022-a2",
+    "title": "Awesome Software",
+    "contest": "FIICode 2022 Round #2 – Powered by Atek Software",
+    "difficulty": "EASY",
+    "solved_ratio": "86%",
+    "solved_count": 56,
+    "tried_count": 65,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-a2/"
+  },
+  {
+    "slug": "fiicode-2022-e2",
+    "title": "Empowering Software",
+    "contest": "FIICode 2022 Round #2 – Powered by Atek Software",
+    "difficulty": null,
+    "solved_ratio": "83%",
+    "solved_count": 15,
+    "tried_count": 18,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-e2/"
+  },
+  {
+    "slug": "fiicode-2022-c2",
+    "title": "Crazy Software",
+    "contest": "FIICode 2022 Round #2 – Powered by Atek Software",
+    "difficulty": null,
+    "solved_ratio": "80%",
+    "solved_count": 34,
+    "tried_count": 42,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-c2/"
+  },
+  {
+    "slug": "fiicode-2022-d2",
+    "title": "Dynamic Software",
+    "contest": "FIICode 2022 Round #2 – Powered by Atek Software",
+    "difficulty": null,
+    "solved_ratio": "75%",
+    "solved_count": 22,
+    "tried_count": 29,
+    "url": "https://csacademy.com/contest/archive/task/fiicode-2022-d2/"
+  },
+  {
+    "slug": "dacian-array",
+    "title": "Dacian Array",
+    "contest": "Romanian IOI Selection 2023 - Day 1",
+    "difficulty": null,
+    "solved_ratio": "44%",
+    "solved_count": 11,
+    "tried_count": 25,
+    "url": "https://csacademy.com/contest/archive/task/dacian-array/"
+  },
+  {
+    "slug": "water",
+    "title": "Water",
+    "contest": "Romanian IOI Selection 2023 - Day 1",
+    "difficulty": null,
+    "solved_ratio": "70%",
+    "solved_count": 17,
+    "tried_count": 24,
+    "url": "https://csacademy.com/contest/archive/task/water/"
+  },
+  {
+    "slug": "strips",
+    "title": "Strips",
+    "contest": "Romanian IOI Selection 2023 - Day 1",
+    "difficulty": null,
+    "solved_ratio": "40%",
+    "solved_count": 9,
+    "tried_count": 22,
+    "url": "https://csacademy.com/contest/archive/task/strips/"
+  },
+  {
+    "slug": "airport",
+    "title": "Airport",
+    "contest": "Romanian IOI Selection 2023 - Day 2",
+    "difficulty": null,
+    "solved_ratio": "71%",
+    "solved_count": 10,
+    "tried_count": 14,
+    "url": "https://csacademy.com/contest/archive/task/airport/"
+  },
+  {
+    "slug": "dakara",
+    "title": "Dakara",
+    "contest": "Romanian IOI Selection 2023 - Day 2",
+    "difficulty": null,
+    "solved_ratio": "53%",
+    "solved_count": 7,
+    "tried_count": 13,
+    "url": "https://csacademy.com/contest/archive/task/dakara/"
+  },
+  {
+    "slug": "oil-wells",
+    "title": "Oil Wells",
+    "contest": "Romanian IOI Selection 2023 - Day 2",
+    "difficulty": null,
+    "solved_ratio": "40%",
+    "solved_count": 6,
+    "tried_count": 15,
+    "url": "https://csacademy.com/contest/archive/task/oil-wells/"
+  },
+  {
+    "slug": "dirijor",
+    "title": "Dirijor",
+    "contest": "Romanian IOI Selection 2023 - Day 3",
+    "difficulty": null,
+    "solved_ratio": "77%",
+    "solved_count": 7,
+    "tried_count": 9,
+    "url": "https://csacademy.com/contest/archive/task/dirijor/"
+  },
+  {
+    "slug": "meet",
+    "title": "Meet",
+    "contest": "Romanian IOI Selection 2023 - Day 3",
+    "difficulty": null,
+    "solved_ratio": "54%",
+    "solved_count": 6,
+    "tried_count": 11,
+    "url": "https://csacademy.com/contest/archive/task/meet/"
+  },
+  {
+    "slug": "sniper",
+    "title": "Sniper",
+    "contest": "Romanian IOI Selection 2023 - Day 3",
+    "difficulty": null,
+    "solved_ratio": "50%",
+    "solved_count": 7,
+    "tried_count": 14,
+    "url": "https://csacademy.com/contest/archive/task/sniper/"
+  },
+  {
+    "slug": "pinball",
+    "title": "Pinball",
+    "contest": "RMI 2023 - Day 1 Mirror",
+    "difficulty": null,
+    "solved_ratio": "30%",
+    "solved_count": 22,
+    "tried_count": 72,
+    "url": "https://csacademy.com/contest/archive/task/pinball/"
+  },
+  {
+    "slug": "heroes",
+    "title": "Heroes",
+    "contest": "RMI 2023 - Day 1 Mirror",
+    "difficulty": null,
+    "solved_ratio": "21%",
+    "solved_count": 19,
+    "tried_count": 88,
+    "url": "https://csacademy.com/contest/archive/task/heroes/"
+  },
+  {
+    "slug": "aa-tree",
+    "title": "AA Tree",
+    "contest": "RMI 2023 - Day 1 Mirror",
+    "difficulty": null,
+    "solved_ratio": "41%",
+    "solved_count": 42,
+    "tried_count": 102,
+    "url": "https://csacademy.com/contest/archive/task/aa-tree/"
+  }
+]

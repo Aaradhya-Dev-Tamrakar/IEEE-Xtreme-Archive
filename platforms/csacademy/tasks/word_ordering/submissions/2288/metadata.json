@@ -1,0 +1,12 @@
+{
+  "job_id": "2288",
+  "task_slug": "word_ordering",
+  "user": "roman",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "9 ms",
+  "memory": "2568 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/2288"
+}

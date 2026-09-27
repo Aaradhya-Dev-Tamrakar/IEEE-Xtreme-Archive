@@ -1,0 +1,12 @@
+{
+  "job_id": "1454283",
+  "task_slug": "sorting_partition",
+  "user": "twinArmageddons",
+  "verdict": "100 points",
+  "language": "C++",
+  "cpu_time": "43 ms",
+  "memory": "648 KB",
+  "submission_time": null,
+  "solution_file": "solution.cpp",
+  "url": "https://csacademy.com/submission/1454283"
+}

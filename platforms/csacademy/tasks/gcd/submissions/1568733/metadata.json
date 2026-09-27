@@ -1,0 +1,12 @@
+{
+  "job_id": "1568733",
+  "task_slug": "gcd",
+  "user": "Vinicius Pacheco",
+  "verdict": "100 points",
+  "language": "Go",
+  "cpu_time": "10 ms",
+  "memory": "628 KB",
+  "submission_time": null,
+  "solution_file": "solution.go",
+  "url": "https://csacademy.com/submission/1568733"
+}
