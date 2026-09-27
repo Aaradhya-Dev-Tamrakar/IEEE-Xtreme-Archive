@@ -138,4 +138,5 @@ Start-Process "C:\Program Files\Google\Chrome\Application\chrome.exe" -ArgumentL
 | **2026-09-27** | CDP Engine & Harvester Engine | Implementation | `cdp_engine.py` & `csacademy_harvester.py` operational | `8237539` |
 | **2026-09-27** | Master Catalog Discovery | Phase 1 (All Tasks) | 669 tasks cataloged with difficulty, ratio, contest info | `8237539` |
 | **2026-09-27** | Batch 1 Harvesting | 5 tasks, 97 solutions | 100% success rate: statements, math, code, test matrices | `8237539` |
+| **2026-09-27** | Dedicated Skill & Metadata Enrichment | Skill Definition | Created `cp-archive-harvester` skill globally & in-repo, enriched metadata | *(Pending commit)* |
 

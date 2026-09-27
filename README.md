@@ -40,6 +40,9 @@ IEEE-Xtreme-Archive/
 │   ├── tasks_index.json                # Master index of all 669 discovered tasks
 │   ├── jobs_queue.json                 # Pending & archived solution job queue
 │   └── archive_ledger.json             # Execution checkpoint ledger
+├── skills/
+│   └── cp-archive-harvester/
+│       └── SKILL.md                    # Dedicated Antigravity skill handbook
 └── platforms/
     └── csacademy/
         ├── evaluation_environment.json # Ubuntu 25.04 & compiler runtime specifications
@@ -107,6 +110,20 @@ Start-Process "C:\Program Files\Google\Chrome\Application\chrome.exe" -ArgumentL
   ```
 
 All runs are fully checkpointed in `ledger/archive_ledger.json` and can be safely interrupted and resumed at any time.
+
+---
+
+## 🧠 Dedicated Antigravity Skill (`cp-archive-harvester`)
+
+This repository is equipped with a dedicated autonomous skill specification:
+* **Repository Mirror:** [`skills/cp-archive-harvester/SKILL.md`](skills/cp-archive-harvester/SKILL.md)
+* **Global Antigravity Skill:** [`C:\Users\Aaradhya\.gemini\config\skills\cp-archive-harvester\SKILL.md`](file:///C:/Users/Aaradhya/.gemini/config/skills/cp-archive-harvester/SKILL.md)
+
+Whenever continuing the archival or harvesting new CP platforms, the agent loads this skill to enforce:
+1. Automated Chrome CDP lifecycle management and safe PowerShell argument escaping.
+2. Lossless KaTeX formula conversion into Markdown LaTeX math (`$...$` / `$$...$$`).
+3. Direct extraction of un-truncated source code from editor buffers.
+4. Granular per-test-case verification matrix indexing.
 
 ---
 
