@@ -1,47 +1,112 @@
 # IEEE-Xtreme-Archive 🏆
 
-Automated Competitive Programming corpus, structured problem statements with LaTeX/KaTeX mathematical formulas, and verified 100-point optimal solutions archive for **IEEEXtreme**, **PreXtreme**, and **CS Academy**.
+Autonomous Competitive Programming corpus, structured problem statements with LaTeX/KaTeX mathematical formulas, and verified 100-point optimal solutions archive for **IEEEXtreme**, **PreXtreme**, and **CS Academy**.
 
 ---
 
-## 📂 Repository Topology
+## 📊 Live Archive Progress Dashboard
+
+| Metric | Count / Status | Notes |
+| :--- | :--- | :--- |
+| **Total Discovered Tasks** | `669` | Cataloged in [`ledger/tasks_index.json`](ledger/tasks_index.json) |
+| **Fully Archived Tasks** | `5` | Statements, limits, statistics & solutions |
+| **Pending Tasks** | `664` | In queue for autonomous harvesting |
+| **Archived 100-pt Solutions** | `97` | Un-truncated source files + test matrices |
+| **Active Platform** | `CS Academy` | Primary judge for PreXtreme & training contests |
+| **Harvester Engine** | `CDP Asynchronous Engine` | Headless WebSocket CDP attached to Chrome |
+
+### Harvested Tasks Detail
+
+| Task Slug | Task Title | Difficulty | Solved Ratio | Archived Solutions | Problem Statement |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| `addition` | Addition | TUTORIAL | 94% (13712 / 14479) | 20 | [statement.md](platforms/csacademy/tasks/addition/statement.md) |
+| `gcd` | Greatest Common Divisor | TUTORIAL | 79% (8124 / 10228) | 20 | [statement.md](platforms/csacademy/tasks/gcd/statement.md) |
+| `matrix_exploration` | Matrix Exploration | EASY | 68% (1719 / 2504) | 17 | [statement.md](platforms/csacademy/tasks/matrix_exploration/statement.md) |
+| `word_ordering` | Word Ordering (Beta Round #1) | EASY | 71% (1588 / 2222) | 20 | [statement.md](platforms/csacademy/tasks/word_ordering/statement.md) |
+| `sorting_partition` | Sorting Partition (Beta Round #1) | EASY | 71% (1198 / 1686) | 20 | [statement.md](platforms/csacademy/tasks/sorting_partition/statement.md) |
+
+---
+
+## 📂 Repository Topology & Storage Schema
 
 ```text
 IEEE-Xtreme-Archive/
-├── harvesters/                      # Reusable autonomous extraction & CDP scraping engines
-│   ├── cdp_engine.py                # Headless Chrome DevTools Protocol client
-│   └── csacademy_harvester.py       # CS Academy platform crawler & solution archiver
-├── platforms/
-│   └── csacademy/
-│       ├── evaluation_environment.json  # Official Ubuntu 25.04 & compiler runtime specifications
-│       ├── tasks/                       # Full problem statements, LaTeX math, limits, and sample I/O
-│       └── solutions/                   # 100-point optimal solutions (lowest CPU time & memory)
-├── datasets/                        # Compiled datasets for fine-tuning & local code LLMs
-└── ledger/                          # Checkpoint ledgers & task discovery indexes
+├── ARCHIVAL_PLAN_AND_HANDOVER.md       # Master architectural blueprint & execution specs
+├── README.md                           # Live status dashboard & usage instructions
+├── harvesters/                         # Autonomous extraction & CDP scraping engines
+│   ├── cdp_engine.py                   # Async Chrome DevTools Protocol (CDP) client
+│   └── csacademy_harvester.py          # CS Academy pipeline runner & solution archiver
+├── ledger/                             # Resumable checkpoint ledgers & task discovery indexes
+│   ├── tasks_index.json                # Master index of all 669 discovered tasks
+│   ├── jobs_queue.json                 # Pending & archived solution job queue
+│   └── archive_ledger.json             # Execution checkpoint ledger
+└── platforms/
+    └── csacademy/
+        ├── evaluation_environment.json # Ubuntu 25.04 & compiler runtime specifications
+        └── tasks/
+            └── <task_slug>/            # e.g., addition, gcd, sorting_partition
+                ├── problem.json        # Limits, score type, metadata
+                ├── statement.md        # Full Markdown statement with LaTeX math & I/O tables
+                ├── statistics.json     # Solvers count, top CPU & memory solutions
+                └── submissions/
+                    ├── index.json      # Registry of all optimal solutions for this task
+                    └── <job_id>/       # e.g., 53192
+                        ├── metadata.json # Author, verdict, runtime, memory, language
+                        ├── solution.<ext># Pristine un-truncated source code (cpp, py, java)
+                        └── results.json  # Granular per-test-case verification matrix
 ```
 
 ---
 
 ## ⚡ Grounded Judge Environment (CS Academy / PreXtreme)
 
-* **Operating System:** x64 Ubuntu 25.04
+* **Host Operating System:** x64 Ubuntu 25.04
 * **C++ Compiler:** `g++ 15.2.0` (`-std=c++23 -static -O2 -pthread -Wall -Wno-unused-result -DCS_ACADEMY -DONLINE_JUDGE`)
-  * *Libraries:* Boost 1.90, Eigen 3.4.0, AC Library (`<atcoder/all>`), GMP 6.3.0, MPFR 4.2.2
-* **Python:** Python 3.13.3 (with `numpy` and `scipy`) & PyPy3 (Python 3.11.11 / PyPy 7.9.13)
-* **Java:** OpenJDK 21 (`-XX:+UseSerialGC -Xmx4g -Xss256m`)
+  * *Available Libraries:* Boost 1.90, Eigen 3.4.0, AC Library (`<atcoder/all>`), GMP 6.3.0, MPFR 4.2.2, zlib, bzip2, liblzma, zstd.
+* **Python Environments:**
+  * Python 3.13.3 (with `numpy` and `scipy`)
+  * PyPy3: Python 3.11.11, PyPy 7.9.13
+* **Java:** OpenJDK 21 (`-XX:+UseSerialGC -Xmx4g -Xss256m -DONLINE_JUDGE -DCS_ACADEMY Main`)
+* **Execution Constraints:** Multithreading enabled; total CPU time is aggregate across all threads.
 
 ---
 
-## 🚀 Execution & Usage
+## 🚀 Harvester CLI Usage
 
-1. **Launch Chrome with CDP Debugging:**
-   ```powershell
-   chrome.exe --remote-debugging-port=9222 --profile-directory="Profile 6"
-   ```
-2. **Run Autonomous Harvester:**
-   ```powershell
-   python harvesters/csacademy_harvester.py --all-tasks
-   ```
+The autonomous harvester is driven by [`harvesters/csacademy_harvester.py`](harvesters/csacademy_harvester.py) via CDP:
+
+### 1. Launch Chrome with Remote Debugging
+```powershell
+Start-Process "C:\Program Files\Google\Chrome\Application\chrome.exe" -ArgumentList @(
+    "--remote-debugging-port=9222",
+    '--profile-directory=Profile 6',
+    "--restore-last-session"
+)
+```
+
+### 2. Run Commands
+
+* **Discover & Catalog All Tasks:**
+  ```powershell
+  python harvesters/csacademy_harvester.py --discover
+  ```
+
+* **Harvest a Single Task (with all optimal solutions):**
+  ```powershell
+  python harvesters/csacademy_harvester.py --slug addition
+  ```
+
+* **Harvest Next Batch of Tasks:**
+  ```powershell
+  python harvesters/csacademy_harvester.py --max-tasks 20
+  ```
+
+* **Run Full Autonomous Run (All Tasks):**
+  ```powershell
+  python harvesters/csacademy_harvester.py
+  ```
+
+All runs are fully checkpointed in `ledger/archive_ledger.json` and can be safely interrupted and resumed at any time.
 
 ---
 
