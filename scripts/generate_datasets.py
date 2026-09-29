@@ -208,6 +208,7 @@ class CorpusBuilder:
 
                 job_id = str(meta.get("job_id", job_dir.name))
                 task_slug = meta.get("task_slug", job_dir.parent.parent.name)
+                user = meta.get("user")
                 language = meta.get("language", "Unknown")
                 verdict = meta.get("verdict", "Unknown")
                 cpu_time = meta.get("cpu_time")
@@ -233,6 +234,7 @@ class CorpusBuilder:
                     {
                         "job_id": job_id,
                         "task_slug": task_slug,
+                        "user": user,
                         "language": language,
                         "verdict": verdict,
                         "cpu_time": cpu_time,
@@ -295,6 +297,7 @@ class CorpusBuilder:
             CREATE TABLE IF NOT EXISTS submissions (
                 job_id TEXT PRIMARY KEY,
                 task_slug TEXT NOT NULL,
+                user TEXT,
                 language TEXT NOT NULL,
                 verdict TEXT NOT NULL,
                 cpu_time TEXT,
@@ -377,6 +380,7 @@ class CorpusBuilder:
             (
                 s["job_id"],
                 s["task_slug"],
+                s.get("user"),
                 s["language"],
                 s["verdict"],
                 s["cpu_time"],
@@ -388,8 +392,8 @@ class CorpusBuilder:
         cur.executemany(
             """
             INSERT OR REPLACE INTO submissions (
-                job_id, task_slug, language, verdict, cpu_time, memory, solution_code
-            ) VALUES (?, ?, ?, ?, ?, ?, ?);
+                job_id, task_slug, user, language, verdict, cpu_time, memory, solution_code
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?);
             """,
             submissions_data,
         )
@@ -463,6 +467,8 @@ class CorpusBuilder:
                     "memory": sub.get("memory"),
                     "language": language,
                     "job_id": sub.get("job_id"),
+                    "user": sub.get("user"),
+                    "solver": sub.get("user"),
                     "verdict": verdict,
                 }
 
