@@ -18,3 +18,8 @@ _temp/
 _staging/
 *.tmp
 *.crdownload
+
+# Environment variables & secrets
+.env
+*.env
+.env.*

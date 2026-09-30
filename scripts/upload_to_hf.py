@@ -14,7 +14,26 @@ from huggingface_hub import HfApi, create_repo
 ROOT = Path(__file__).resolve().parent.parent
 HF_DIR = ROOT / "datasets" / "huggingface"
 
+def load_dotenv(env_path: Path):
+    if not env_path.exists():
+        return
+    try:
+        with open(env_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if "=" in line:
+                    k, v = line.split("=", 1)
+                    k = k.strip()
+                    v = v.strip().strip("'\"")
+                    if k and k not in os.environ:
+                        os.environ[k] = v
+    except Exception:
+        pass
+
 def main():
+    load_dotenv(ROOT / ".env")
     parser = argparse.ArgumentParser(description="Upload dataset to Hugging Face Hub")
     parser.add_argument("--repo-id", default="AaradhyaDT/Xtreme-Bench", help="Target Hugging Face repo ID (default: AaradhyaDT/Xtreme-Bench)")
     parser.add_argument("--token", default=os.getenv("HF_TOKEN"), help="Hugging Face API token (defaults to HF_TOKEN env var)")

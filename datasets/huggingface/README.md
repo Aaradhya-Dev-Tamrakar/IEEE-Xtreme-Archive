@@ -19,7 +19,7 @@ task_categories:
 - text-generation
 - question-answering
 task_ids:
-- code-generation
+- language-modeling
 tags:
 - competitive-programming
 - reasoning
