@@ -23,3 +23,6 @@ _staging/
 .env
 *.env
 .env.*
+
+# Benchmark run logs (large per-run JSONL; metrics JSON is tracked)
+benchmarks/runs/*.jsonl

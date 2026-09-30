@@ -37,10 +37,15 @@ Autonomous Competitive Programming corpus, structured problem statements with La
 
 ```text
 IEEE-Xtreme-Archive/
+├── .github/                            # CI/CD and automated benchmarking workflows
+│   └── workflows/bench.yml             # Ubuntu runner with native g++ & uv
 ├── ARCHIVAL_PLAN_AND_HANDOVER.md       # Master architectural blueprint & execution specs
 ├── README.md                           # Live status dashboard & usage instructions
 ├── audit/                              # Quality audits & formal verification
 │   └── corpus_audit.md                 # Adversarial audit report (99.85% health score)
+├── benchmarks/                         # Empirical LLM benchmark evaluation & leaderboard
+│   ├── LEADERBOARD.md                  # Frontier model competitive programming rankings
+│   └── runs/                           # Checkpointed evaluation runs & metrics
 ├── briefings/                          # Algorithmic archetypes & NotebookLM study guides
 │   ├── catalog.md                      # Master catalog of 669 tasks across 10 archetypes
 │   └── 01_dynamic_programming.md ...   # Topic guides (DP, Graphs, Trees, Range Queries, etc.)
@@ -48,7 +53,8 @@ IEEE-Xtreme-Archive/
 │   ├── solve.py                        # Interactive CLI (list, pick, test against sample I/O)
 │   └── README.md                       # CLI documentation and guide
 ├── datasets/                           # Machine learning instruction-tuning datasets
-│   └── cp_instruction_dataset.jsonl    # Dual Alpaca/ShareGPT dataset (474 optimal pairs)
+│   ├── cp_instruction_dataset.jsonl    # Dual Alpaca/ShareGPT dataset (474 optimal pairs)
+│   └── huggingface/                    # Hugging Face Hub package (AaradhyaDT/Xtreme-Bench)
 ├── harvesters/                         # Autonomous extraction & CDP scraping engines
 │   ├── cdp_engine.py                   # Async Chrome DevTools Protocol (CDP) client
 │   └── csacademy_harvester.py          # CS Academy pipeline runner & solution archiver
@@ -58,10 +64,14 @@ IEEE-Xtreme-Archive/
 │   ├── archive_ledger.json             # Execution checkpoint ledger
 │   └── corpus.db                       # Sub-millisecond SQLite database with FTS5 search
 ├── scripts/                            # Dataset and database generation pipelines
-│   └── generate_datasets.py            # High-speed ETL script (0.438s build time)
+│   ├── eval_bench.py                   # LLM Pass@k evaluation harness (uv-first)
+│   ├── generate_datasets.py            # High-speed ETL script (0.438s build time)
+│   ├── prepare_hf_dataset.py           # Hugging Face packaging & dataset card generator
+│   └── upload_to_hf.py                 # Automated Hub upload script
 ├── skills/
 │   └── cp-archive-harvester/
 │       └── SKILL.md                    # Dedicated Antigravity skill handbook
+└── warehouse/                          # Master corpus warehouse and line-indexed maps
 └── platforms/
     └── csacademy/
         ├── evaluation_environment.json # Ubuntu 25.04 & compiler runtime specifications
@@ -76,6 +86,35 @@ IEEE-Xtreme-Archive/
                         ├── metadata.json # Author, verdict, runtime, memory, language
                         ├── solution.<ext># Pristine un-truncated source code (cpp, py, java)
                         └── results.json  # Granular per-test-case verification matrix
+```
+
+---
+
+## 🏆 Xtreme-Bench Evaluation & Leaderboard (`scripts/eval_bench.py`)
+
+An automated evaluation harness for assessing frontier LLMs on the **Xtreme-Bench** reasoning corpus:
+* **Live Leaderboard:** [`benchmarks/LEADERBOARD.md`](benchmarks/LEADERBOARD.md)
+* **Languages:** C++ (compiled via `g++`) and Python 3 (direct execution).
+* **Sample Test Extraction:** Lossless extraction of stdin/expected stdout from problem statements (handling `<br>` tags and multi-line test matrices).
+* **Metrics:** Pass@1, Pass@k (unbiased estimator), compilation success rate, per-difficulty breakdown.
+
+### `uv` Evaluation Commands
+
+```powershell
+# Evaluate Python solutions across benchmark tasks (zero-compiler required):
+uv run scripts/eval_bench.py --language python --model gemini-3.8-flash
+
+# Evaluate with top-tier reasoning model:
+uv run scripts/eval_bench.py --model gemini-3.1-pro-preview
+
+# Evaluate C++ solutions with Pass@5 (5 samples per task):
+uv run scripts/eval_bench.py --language cpp --samples 5
+
+# Filter by difficulty:
+uv run scripts/eval_bench.py --difficulty HARD MEDIUM
+
+# Offline grading of an existing run without calling APIs:
+uv run scripts/eval_bench.py --judge-only benchmarks/runs/run_xxx.jsonl
 ```
 
 ---

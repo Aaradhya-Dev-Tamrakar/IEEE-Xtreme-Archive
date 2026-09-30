@@ -1,0 +1,39 @@
+{
+  "total_problems": 2,
+  "skipped_interactive": 0,
+  "overall_pass_at_1": 1.0,
+  "per_difficulty": {
+    "TUTORIAL": {
+      "total": 2,
+      "passed": 2,
+      "compiled": 2,
+      "pass_rate": 1.0
+    }
+  },
+  "per_problem": [
+    {
+      "slug": "addition",
+      "difficulty": "TUTORIAL",
+      "n": 1,
+      "c": 1,
+      "compiled": 1,
+      "pass_at_1": 1.0
+    },
+    {
+      "slug": "gcd",
+      "difficulty": "TUTORIAL",
+      "n": 1,
+      "c": 1,
+      "compiled": 1,
+      "pass_at_1": 1.0
+    }
+  ],
+  "run_id": "run_20260930_020212_gemini-3.8-flash_python",
+  "model": "gemini-3.8-flash",
+  "language": "python",
+  "temperature": 1.0,
+  "samples_per_problem": 1,
+  "compiler": "python",
+  "timestamp": "2026-09-30T02:03:23.792425+00:00",
+  "dry_run": false
+}
