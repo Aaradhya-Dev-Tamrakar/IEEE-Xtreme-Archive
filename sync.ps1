@@ -240,8 +240,8 @@ try {
 
     # 8. Push
     if (-not $NoPush) {
-        Write-Status "Pushing to remote origin main..."
-        git push origin main
+        Write-Status "Pushing to remote origin $currentBranch..."
+        git push origin $currentBranch
         Write-Success "Repository successfully pushed and synchronized with remote!"
     } else {
         Write-Notice "NoPush flag set. Skipping push."
