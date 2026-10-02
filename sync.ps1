@@ -162,10 +162,30 @@ try {
         throw "Current directory is not a valid Git repository."
     }
 
+    $currentBranch = (git branch --show-current 2>$null)
+    if ($currentBranch) { $currentBranch = $currentBranch.Trim() }
+    if (-not $currentBranch) { $currentBranch = "main" }
+
+    $hasRemote = [bool](git remote get-url origin 2>$null)
+    $remoteBranchExists = if ($hasRemote) { [bool](git ls-remote --heads origin $currentBranch 2>$null) } else { $false }
+
+    # 0. Verification Gate
+    if ((-not $SkipAudit) -and (Test-Path "scripts/verify.py")) {
+        Write-Status "Running scripts/verify.py..."
+        python scripts/verify.py
+        if ($LASTEXITCODE -ne 0) {
+            throw "scripts/verify.py reported errors. Fix before committing."
+        }
+    }
+
     # 1. Safe Pull
-    Write-Status "Pulling latest remote updates (rebase + autostash)..."
-    git pull origin main --rebase --autostash
-    Write-Success "Remote pull complete."
+    if ($hasRemote -and $remoteBranchExists) {
+        Write-Status "Pulling latest remote updates for $currentBranch (rebase + autostash)..."
+        git pull origin $currentBranch --rebase --autostash
+        Write-Success "Remote pull complete."
+    } else {
+        Write-Notice "Branch '$currentBranch' is local-only or no remote. Skipping initial pull."
+    }
 
     if ($PullOnly) {
         Write-Success "PullOnly requested. Synchronization complete!"
@@ -220,8 +240,8 @@ try {
 
     # 8. Push
     if (-not $NoPush) {
-        Write-Status "Pushing to remote origin main..."
-        git push origin main
+        Write-Status "Pushing to remote origin $currentBranch..."
+        git push origin $currentBranch
         Write-Success "Repository successfully pushed and synchronized with remote!"
     } else {
         Write-Notice "NoPush flag set. Skipping push."
